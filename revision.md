@@ -2,6 +2,7 @@
 layout: default
 title: Revision
 permalink: /revision/
+study_tools: true
 ---
 
 # Revision: everything often asked

@@ -43,16 +43,8 @@
   });
 
   // Self-test: blur the date column or the answer columns; tap a cell to reveal it.
-  // Columns are found by their header text, so new chapters work if they use the same headers.
-  var COLUMNS = {
-    'when': 'q-date',
-    'exam hook': 'q-hook', 'what': 'q-hook', 'tell them apart': 'q-hook', 'handbook says': 'q-hook',
-    'principle': 'q-hook', 'responsibility': 'q-hook', 'freedom': 'q-hook',
-    'in the uk?': 'q-hook', 'in great britain?': 'q-hook', 'examples': 'q-hook',
-    'population': 'q-hook', 'share': 'q-hook', 'where': 'q-hook', 'country': 'q-hook', 'age': 'q-hook',
-    'responsible for': 'q-hook', 'england, wales and northern ireland': 'q-hook', 'scotland': 'q-hook',
-    'today (verified)': 'q-hook'
-  };
+  // Answer columns are found by their header text (columns.js).
+  var COLUMNS = window.ANSWER_COLUMNS || {};
   var MODES = [['off', 'Off'], ['dates', 'Hide dates'], ['hooks', 'Hide answers']];
   var cells = [];
 
