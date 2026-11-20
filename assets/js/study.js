@@ -25,8 +25,12 @@
     link.appendChild(img);
   });
 
-  // Column labels for the stacked phone layout of tables.
+  // Column labels for the stacked phone layout of tables, and a frame that scrolls sideways.
   content.querySelectorAll('table').forEach(function (table) {
+    var wrap = document.createElement('div');
+    wrap.className = 'table-wrap';
+    table.parentNode.insertBefore(wrap, table);
+    wrap.appendChild(table);
     var labels = Array.prototype.map.call(table.querySelectorAll('thead th'), function (th) {
       return th.textContent.trim();
     });
