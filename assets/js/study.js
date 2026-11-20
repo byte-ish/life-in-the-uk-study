@@ -47,7 +47,8 @@
     'when': 'q-date',
     'exam hook': 'q-hook', 'what': 'q-hook', 'tell them apart': 'q-hook', 'handbook says': 'q-hook',
     'principle': 'q-hook', 'responsibility': 'q-hook', 'freedom': 'q-hook',
-    'in the uk?': 'q-hook', 'in great britain?': 'q-hook', 'examples': 'q-hook'
+    'in the uk?': 'q-hook', 'in great britain?': 'q-hook', 'examples': 'q-hook',
+    'population': 'q-hook', 'share': 'q-hook', 'where': 'q-hook', 'country': 'q-hook', 'age': 'q-hook'
   };
   var MODES = [['off', 'Off'], ['dates', 'Hide dates'], ['hooks', 'Hide answers']];
   var cells = [];
