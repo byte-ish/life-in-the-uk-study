@@ -118,11 +118,11 @@ If you wish to be a permanent resident or citizen of the UK, the handbook says y
 
 | # | Responsibility | Exam hook |
 | --- | --- | --- |
-| 1 | Respect and obey **the law** | Respect #1: the law |
-| 2 | Respect **the rights of others**, including their right to their own opinions | Respect #2: other people, and their opinions |
-| 3 | Treat others with **fairness** | Treat |
-| 4 | Look after **yourself and your family** | Look after #1: you and yours |
-| 5 | Look after **the area in which you live** and **the environment** | Look after #2: where you live and the environment |
+| 1 | Respect and obey **the law** | Not *the rule of law*, which is a principle |
+| 2 | Respect **the rights of others**, including their right to their own opinions | Includes their right to *their own opinions* |
+| 3 | Treat others with **fairness** | Not *freedom from unfair discrimination*, which is a freedom |
+| 4 | Look after **yourself and your family** | Look after #1: you, then your family |
+| 5 | Look after **the area in which you live** and **the environment** | Not *participation in community life*, which is a principle |
 
 Two *respects*, one *treat*, two *look afters*: you respect the law and others, treat others fairly, and look after your family and your area.
 {: .hook}
@@ -134,11 +134,11 @@ In return for those responsibilities, the UK offers five freedoms and rights.
 
 | # | Freedom | Exam hook |
 | --- | --- | --- |
-| 1 | Freedom of **belief and religion** | Freedom #1 |
-| 2 | Freedom of **speech** | Freedom #2 |
-| 3 | Freedom from **unfair discrimination** | Freedom #3: *from*, not *of* |
-| 4 | A right to a **fair trial** | Right #1 |
-| 5 | A right to join in the **election of a government** | Right #2: voting |
+| 1 | Freedom of **belief and religion** | Not *tolerance of those with different faiths and beliefs*, which is a principle |
+| 2 | Freedom of **speech** | Not *individual liberty*, which is a principle |
+| 3 | Freedom from **unfair discrimination** | *From*, not *of*. Not *treat others with fairness*, which is a responsibility |
+| 4 | A right to a **fair trial** | A right, not a freedom: the first of the two rights |
+| 5 | A right to join in the **election of a government** | Voting. Not *democracy*, which is a principle |
 
 Three *freedoms* (belief and religion, speech, from unfair discrimination) and two *rights* (a fair trial, joining in the election of a government).
 {: .hook}

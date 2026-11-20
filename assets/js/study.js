@@ -14,6 +14,17 @@
     h.prepend(num);
   });
 
+  // PNG diagrams shrink on phones: tapping one opens it full size in a new tab.
+  content.querySelectorAll('img').forEach(function (img) {
+    var link = document.createElement('a');
+    link.className = 'zoom';
+    link.href = img.src;
+    link.target = '_blank';
+    link.rel = 'noopener';
+    img.parentNode.insertBefore(link, img);
+    link.appendChild(img);
+  });
+
   // Column labels for the stacked phone layout of tables.
   content.querySelectorAll('table').forEach(function (table) {
     var labels = Array.prototype.map.call(table.querySelectorAll('thead th'), function (th) {
