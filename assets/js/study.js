@@ -36,7 +36,8 @@
     });
     table.querySelectorAll('tbody tr').forEach(function (tr) {
       Array.prototype.forEach.call(tr.children, function (td, i) {
-        if (labels[i]) td.dataset.label = labels[i];
+        if (!td.textContent.trim()) td.classList.add('empty');
+        else if (labels[i]) td.dataset.label = labels[i];
       });
     });
   });

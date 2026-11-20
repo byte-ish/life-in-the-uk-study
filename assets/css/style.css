@@ -57,7 +57,7 @@ a:hover { text-decoration-thickness: 2px; }
 }
 .site-title { display: inline-flex; align-items: center; gap: 10px; font-weight: 700; font-size: 17px; color: var(--text); text-decoration: none; }
 .brand { width: 28px; height: 28px; padding: 5px; border-radius: 8px; background: var(--accent); fill: none; stroke: #fff; stroke-width: 2; stroke-linejoin: round; }
-.site-header nav { display: flex; gap: 4px; }
+.site-header nav { display: flex; flex-wrap: wrap; gap: 4px; }
 .site-header nav a { padding: 8px 12px; border-radius: 8px; color: var(--muted); font-size: 15px; text-decoration: none; }
 .site-header nav a:hover { background: var(--surface); color: var(--text); }
 .site-header nav a[aria-current="page"] { color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, #fff); font-weight: 700; }
@@ -398,6 +398,7 @@ a.card:hover { transform: translateY(-2px); box-shadow: 0 2px 4px rgb(16 24 40 /
   h1 { font-size: 30px; }
   h2 { font-size: 23px; margin-top: 56px; }
   .site-header { padding: 12px 16px; }
+  .site-header nav a { padding: 6px 8px; font-size: 14px; }
   .study-bar { flex-wrap: nowrap; gap: 8px; margin: 16px -16px 8px; padding: 8px 16px; }
   .study-bar .label { font-size: 14px; white-space: nowrap; }
   .study-bar .hint { display: none; }
@@ -413,6 +414,7 @@ a.card:hover { transform: translateY(-2px); box-shadow: 0 2px 4px rgb(16 24 40 /
   tr { padding: 12px 16px; border-bottom: 1px solid var(--line); }
   tbody tr:last-child { border-bottom: 0; }
   td { padding: 2px 0; border: 0; }
+  td.empty { display: none; }
   tbody tr:has(.hy) { box-shadow: inset 4px 0 0 var(--gold-bar); }
   tbody tr:has(.hy) td:first-child { box-shadow: none; }
   td:first-child { white-space: normal; font-weight: 700; margin-bottom: 2px; } /* key dates keep their era colour via strong */
