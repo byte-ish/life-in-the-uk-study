@@ -485,8 +485,8 @@ National parks, the National Trust, and the nine landmarks the handbook describe
 <text class="t-item" x="40" y="156">Big Ben (London)</text><text class="t-item" x="40" y="176">London Eye (London)</text><text class="t-item" x="40" y="196">Tower of London</text><text class="t-item" x="40" y="216">Eden Project (Cornwall)</text><text class="t-item" x="40" y="236">Lake District</text>
 <text class="t-cap" x="40" y="268">GARDENS</text>
 <text class="t-item" x="40" y="290">Kew, Sissinghurst, Hidcote</text>
-<text class="t-cap" x="40" y="322">CITIES ON THE MAP</text>
-<text class="t-item" x="40" y="344">London (capital),</text><text class="t-item" x="40" y="364">Plymouth, Norwich, Leeds</text>
+<text class="t-cap" x="40" y="342">CITIES ON THE MAP</text>
+<text class="t-item" x="40" y="364">London (capital),</text><text class="t-item" x="40" y="384">Plymouth, Norwich, Leeds</text>
 <rect class="box-soft" x="268" y="68" width="228" height="332" rx="10"/><rect x="268" y="68" width="228" height="40" rx="10" style="fill:color-mix(in srgb, var(--accent) 12%, #fff);stroke:var(--accent);stroke-width:1.5"/><text class="t-head" x="382" y="94" text-anchor="middle" style="fill:var(--accent)">Scotland</text>
 <text class="t-cap" x="284" y="134">LANDMARKS</text>
 <text class="t-item" x="284" y="156">Edinburgh Castle</text><text class="t-item" x="284" y="176">Loch Lomond and the</text><text class="t-item" x="284" y="196">Trossachs National Park</text><text class="t-item" x="284" y="216">St Andrews (golf)</text>
@@ -499,15 +499,15 @@ National parks, the National Trust, and the nine landmarks the handbook describe
 <text class="t-item" x="528" y="156">Snowdonia National Park</text><text class="t-item" x="528" y="176">Snowdon: highest in Wales</text><text class="t-item" x="528" y="196">Millennium Stadium</text><text class="t-item" x="528" y="216">(Cardiff)</text>
 <text class="t-cap" x="528" y="268">GARDENS</text>
 <text class="t-item" x="528" y="290">Bodnant Garden</text>
-<text class="t-cap" x="528" y="322">CITIES ON THE MAP</text>
-<text class="t-item" x="528" y="344">Cardiff (capital),</text><text class="t-item" x="528" y="364">Swansea, Newport</text>
+<text class="t-cap" x="528" y="342">CITIES ON THE MAP</text>
+<text class="t-item" x="528" y="364">Cardiff (capital),</text><text class="t-item" x="528" y="384">Swansea, Newport</text>
 <rect class="box-soft" x="756" y="68" width="228" height="332" rx="10"/><rect x="756" y="68" width="228" height="40" rx="10" style="fill:color-mix(in srgb, var(--era-6) 12%, #fff);stroke:var(--era-6);stroke-width:1.5"/><text class="t-head" x="870" y="94" text-anchor="middle" style="fill:var(--era-6)">Northern Ireland</text>
 <text class="t-cap" x="772" y="134">LANDMARKS</text>
 <text class="t-item" x="772" y="156">Giant's Causeway</text><text class="t-item" x="772" y="176">(north-east coast)</text><text class="t-item" x="772" y="196">Stormont (Belfast),</text><text class="t-item" x="772" y="216">from Chapter 5</text>
 <text class="t-cap" x="772" y="268">GARDENS</text>
 <text class="t-item" x="772" y="290">Mount Stewart</text>
-<text class="t-cap" x="772" y="322">CITIES ON THE MAP</text>
-<text class="t-item" x="772" y="344">Belfast (capital)</text>
+<text class="t-cap" x="772" y="342">CITIES ON THE MAP</text>
+<text class="t-item" x="772" y="364">Belfast (capital)</text>
 </svg>
 </figure>
 
