@@ -281,8 +281,9 @@ img {
 .only-hy:hover { color: var(--text); }
 .only-hy[aria-pressed="true"] { background: var(--gold-bg); border-color: var(--gold-bar); color: var(--gold-text); font-weight: 700; }
 .only-hy .short { display: none; }
-body.only-hy tbody tr:not(:has(.hy)) { display: none; }
-body.only-hy .table-wrap:not(:has(.hy)) { display: none; }
+/* body.gold-only is set by the toggle; a different class from the button's own */
+body.gold-only tbody tr:not(:has(.hy)) { display: none; }
+body.gold-only .table-wrap:not(:has(.hy)) { display: none; }
 
 /* Revision page: every row is often asked, so drop the gold highlighting there */
 #revision tbody tr:has(.hy) { background: transparent; box-shadow: none; }

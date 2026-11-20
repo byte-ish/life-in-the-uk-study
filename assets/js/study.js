@@ -121,12 +121,12 @@
       only.innerHTML = '<span class="long">★ Often asked only</span><span class="short">★ Gold</span>';
       only.setAttribute('aria-label', 'Show only often-asked rows');
       var setOnly = function (on) {
-        document.body.classList.toggle('only-hy', on);
+        document.body.classList.toggle('gold-only', on);
         only.setAttribute('aria-pressed', String(on));
         try { localStorage.setItem('only-hy', on ? '1' : '0'); } catch (e) {}
       };
       only.addEventListener('click', function () {
-        setOnly(!document.body.classList.contains('only-hy'));
+        setOnly(!document.body.classList.contains('gold-only'));
       });
       bar.insertBefore(only, hint);
       var savedOnly = false;
