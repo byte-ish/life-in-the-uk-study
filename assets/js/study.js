@@ -162,7 +162,7 @@
       if (!heading) return;
       var era = getComputedStyle(heading).getPropertyValue('--era').trim();
       if (era) a.style.setProperty('--era', era);
-      if (/\bera-\d/.test(heading.className)) a.classList.add('era-dot');
+      if (/\bera-(\d|none)/.test(heading.className)) a.classList.add('era-dot');
       links.push({ a: a, heading: heading });
     });
   }

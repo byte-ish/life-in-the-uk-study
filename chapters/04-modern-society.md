@@ -452,7 +452,7 @@ How people in the UK spend their free time, and the age rules that come with it.
 {: .hook}
 
 ## 7. Places of interest
-{: .era-none}
+{: .era-7}
 
 National parks, the National Trust, and the nine landmarks the handbook describes.
 

@@ -198,7 +198,7 @@ Before October 2013 the test alone could cover both requirements. From October 2
 {: .hook}
 
 ## 6. Taking the Life in the UK test
-{: .era-none}
+{: .era-7}
 
 What the handbook says about the test itself.
 

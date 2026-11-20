@@ -236,7 +236,7 @@ The 2013 text also had a section on the European Union (the Treaty of Rome in 19
 {: .hook}
 
 ## 7. Respecting the law
-{: .era-none}
+{: .era-7}
 
 Everyone in the UK receives **equal treatment under the law**, and knowing and obeying it is one of every resident's most important responsibilities.
 
@@ -265,7 +265,7 @@ Everyone in the UK receives **equal treatment under the law**, and knowing and o
 {: .hook}
 
 ## 8. The courts
-{: .era-none}
+{: .era-8}
 
 Judges (**the judiciary**) interpret the law and make sure trials are fair; the government cannot interfere. If they find a public body is not respecting someone's legal rights, they can order it to **change its practices and/or pay compensation**.
 
@@ -336,7 +336,7 @@ Judges (**the judiciary**) interpret the law and make sure trials are fair; the 
 {: .hook}
 
 ## 9. Rights, tax and driving
-{: .era-none}
+{: .era-9}
 
 Britain's rights have their roots in **Magna Carta**, the **Habeas Corpus Act** and the **Bill of Rights of 1689**.
 
@@ -383,7 +383,7 @@ Britain's rights have their roots in **Magna Carta**, the **Habeas Corpus Act** 
 {: .hook}
 
 ## 10. Your role in the community
-{: .era-none}
+{: .era-10}
 
 Becoming a citizen or settling brings responsibilities and opportunities.
 

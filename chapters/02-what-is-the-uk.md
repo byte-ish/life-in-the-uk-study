@@ -111,7 +111,7 @@ Some questions ask you to choose **two** answers. The official practice question
 {: .note}
 
 ## 4. Who governs
-{: .era-none}
+{: .era-7}
 
 One parliament governs the whole UK, and three parts of it also have their own.
 
@@ -151,7 +151,7 @@ The body names come from Chapter 5. Since 2020 the Welsh body has been called th
 {: .hook}
 
 ## 5. Linked facts from other chapters
-{: .era-none}
+{: .era-8}
 
 Questions on these places often draw on other chapters too. These facts are tested from the chapters listed.
 

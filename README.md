@@ -39,7 +39,7 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
    in `assets/js/columns.js`. Flashcards put the answer columns on the back of the card.
    To mark a row as often asked (gold, with a ★ label), add `{: .hy}` straight after its bold date,
    e.g. `| **1066**{: .hy} | ... |`. Keep it to the dates practice tests ask most, about a quarter of the rows.
-5. Optional: colour a section by adding `{: .era-1}` to `{: .era-6}` on the line after its `##`
+5. Colour each numbered section by adding `{: .era-1}` to `{: .era-10}` on the line after its `##`
    heading; `{: .era-none}` goes back to the default blue. Use the classes in increasing order down the page
    (era-1 before era-2 ... before era-none), as each one only overrides the classes listed before it in the CSS.
    Add `nav_title: <Short name>` to the front matter for the header link.

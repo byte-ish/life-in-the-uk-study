@@ -10,13 +10,17 @@
   --line: #e4e7ec;
   --accent: #1d4ed8;
 
-  /* One colour per era of the history chapter (see the .era-N rules); all pass 4.5:1 on white */
+  /* One colour per numbered section (see the .era-N rules); era-1 to era-6 are also the history chapter's eras. All pass 4.5:1 on white */
   --era-1: #a16207;
   --era-2: #be123c;
   --era-3: #15803d;
   --era-4: #0f766e;
   --era-5: #6d28d9;
   --era-6: #c2410c;
+  --era-7: #a21caf;
+  --era-8: #0369a1;
+  --era-9: #4d7c0f;
+  --era-10: #be185d;
 
   /* Gold rows: dates that come up most in practice tests */
   --gold-bg: #fdf6e0;
@@ -96,6 +100,10 @@ h2 .num {
 .era-4, .era-4 ~ * { --era: var(--era-4); }
 .era-5, .era-5 ~ * { --era: var(--era-5); }
 .era-6, .era-6 ~ * { --era: var(--era-6); }
+.era-7, .era-7 ~ * { --era: var(--era-7); }
+.era-8, .era-8 ~ * { --era: var(--era-8); }
+.era-9, .era-9 ~ * { --era: var(--era-9); }
+.era-10, .era-10 ~ * { --era: var(--era-10); }
 .era-none, .era-none ~ * { --era: var(--accent); }
 
 /* Tables */
