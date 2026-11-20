@@ -15,7 +15,7 @@ study_tools: true
 - Your progress is saved in this browser only, so it won't follow you to another device.
 
 {% assign chapter_pages = site.pages | where_exp: "p", "p.chapter" | sort: "chapter" %}
-<div id="flashcards" data-pages='[{% for p in chapter_pages %}{"url": "{{ p.url | relative_url }}", "chapter": {{ p.chapter }}, "title": {{ p.nav_title | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}]'>
+<div id="fc-app" data-pages='[{% for p in chapter_pages %}{"url": "{{ p.url | relative_url }}", "chapter": {{ p.chapter }}, "title": {{ p.nav_title | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}]'>
 <p class="note">Loading the cards…</p>
 </div>
 

@@ -2,7 +2,7 @@
 // (columns.js) go on the back and the other columns on the front. "Got it" marks a card
 // as learned in this browser; "Again" puts it back a few cards later.
 (function () {
-  var root = document.getElementById('flashcards');
+  var root = document.getElementById('fc-app');
   if (!root) return;
   var pages = JSON.parse(root.dataset.pages);
   var COLUMNS = window.ANSWER_COLUMNS || {};
