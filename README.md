@@ -9,7 +9,7 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
 | `index.md` | Home page: the list of chapters |
 | `chapters/03-history.md` | Chapter 3 history timeline cheat sheet (served at `/history/`) |
 | `assets/img/<chapter>/` | Diagram images for each chapter |
-| `_layouts/default.html`, `assets/css/style.css` | Page layout and styling (light and dark mode) |
+| `_layouts/default.html`, `assets/css/style.css` | Page layout and styling (light theme) |
 | `_includes/chapter-nav.html` | Previous / next links between chapter pages |
 | `assets/js/study.js` | Self-test mode, "On this page" menu and back-to-top on chapter pages |
 
@@ -26,8 +26,8 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
    ```
 2. Put any diagrams in `assets/img/<short-name>/` and link them as
    `![alt text]({{ '/assets/img/<short-name>/file.png' | relative_url }})`.
-   In dark mode, images are colour-inverted so light diagrams sit on the dark page;
-   add `{: .no-invert}` after a photo to opt it out.
+   The site is light-only, so diagrams should have a white or transparent background.
+   Each one gets a frame whose top edge takes the section's era colour.
 3. Add `{: .hook}` on the line after a paragraph to show it as a highlighted memory hook
    (the box adds its own "Memory hook" label, so don't start the text with one).
    Use `{: .note}` for a plain caption under a diagram.
@@ -35,7 +35,8 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
    `When` or `Exam hook` column. `What` and `Tell them apart` also count as answers.
 5. Optional: colour a section by adding `{: .era-1}` to `{: .era-6}` on the line after its `##`
    heading; `{: .era-none}` goes back to the default blue.
-6. Swap the "coming soon" line for that chapter in `index.md` for a link.
+6. In `index.md`, turn that chapter's `card soon` into an `a.card` link with a `Ready` chip
+   (copy the Chapter 3 card).
 
 ## Publishing
 

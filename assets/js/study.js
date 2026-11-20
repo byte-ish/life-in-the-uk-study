@@ -3,6 +3,29 @@
   var content = document.querySelector('.content');
   if (!content) return;
 
+  // Number badges on era headings: "2. The Middle Ages" gets a coloured circle with 2.
+  content.querySelectorAll('h2[class*="era-"]').forEach(function (h) {
+    var m = h.firstChild && h.firstChild.nodeType === 3 && h.firstChild.nodeValue.match(/^(\d+)\.\s*/);
+    if (!m) return;
+    h.firstChild.nodeValue = h.firstChild.nodeValue.slice(m[0].length);
+    var num = document.createElement('span');
+    num.className = 'num';
+    num.textContent = m[1];
+    h.prepend(num);
+  });
+
+  // Column labels for the stacked phone layout of tables.
+  content.querySelectorAll('table').forEach(function (table) {
+    var labels = Array.prototype.map.call(table.querySelectorAll('thead th'), function (th) {
+      return th.textContent.trim();
+    });
+    table.querySelectorAll('tbody tr').forEach(function (tr) {
+      Array.prototype.forEach.call(tr.children, function (td, i) {
+        if (labels[i]) td.dataset.label = labels[i];
+      });
+    });
+  });
+
   // Self-test: blur the date column or the exam-hook column; tap a cell to reveal it.
   // Columns are found by their header text, so new chapters work if they use the same headers.
   var COLUMNS = { 'when': 'q-date', 'exam hook': 'q-hook', 'what': 'q-hook', 'tell them apart': 'q-hook' };
