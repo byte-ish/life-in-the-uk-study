@@ -161,7 +161,7 @@ The party with the most MPs forms the government, led by the Prime Minister.
 | Independents | MPs who do not represent any main party, usually standing on a local issue | |
 | Pressure and lobby groups | Try to **influence government policy**{: .hy}: e.g. the **CBI** (British business), **Greenpeace** (environment), **Liberty** (human rights) | |
 | The civil service | Supports the government and delivers public services; accountable to ministers; chosen on merit; **politically neutral**{: .hy}, not political appointees | Core values: **integrity, honesty, objectivity, impartiality** |
-| Local government | Towns, cities and rural areas are run by elected councils (**local authorities**){: .hy}; some areas have district and county councils; funded by **central government** and **local taxes** | Local elections for most are in **May** every year |
+| Local government | Towns, cities and rural areas are run by elected councils (**local authorities**{: .hy}); some areas have district and county councils; funded by **central government** and **local taxes** | Local elections for most are in **May** every year |
 | Mayors | Many councils appoint a **ceremonial** mayor; some towns **elect** a mayor to lead | London: **33** local authorities, the Greater London Authority and the Mayor of London |
 
 | Role | Responsible for | Exam hook |
