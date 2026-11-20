@@ -7,8 +7,8 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
 | Path | What it is |
 | --- | --- |
 | `index.md` | Home page: the list of chapters |
-| `chapters/03-history.md` | Chapter 3 history timeline cheat sheet (served at `/history/`) |
-| `assets/img/<chapter>/` | Diagram images for each chapter |
+| `chapters/0N-<name>.md` | One cheat sheet per handbook chapter, diagrams drawn inline as SVG |
+| `revision.md` | Revision page: every often-asked row in one place |
 | `_layouts/default.html`, `assets/css/style.css` | Page layout and styling (light theme) |
 | `_includes/chapter-nav.html` | Previous / next links between chapter pages |
 | `assets/js/study.js` | Self-test mode, "On this page" menu and back-to-top on chapter pages |
@@ -25,9 +25,9 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
    nav_title: <Short name>
    ---
    ```
-2. Put any diagrams in `assets/img/<short-name>/` and link them as
-   `![alt text]({{ '/assets/img/<short-name>/file.png' | relative_url }})`.
-   The site is light-only, so diagrams should have a white or transparent background.
+2. Draw diagrams as inline SVG inside `<figure class="diagram">` (no blank lines inside),
+   using the `.diagram` text and box classes; see `chapters/03-history.md`. Give each a unique
+   `dN-title` / `dN-desc` id pair. The site is light-only, so keep a white background.
    Each one gets a frame whose top edge takes the section's era colour.
 3. Add `{: .hook}` on the line after a paragraph to show it as a highlighted memory hook
    (the box adds its own "Memory hook" label, so don't start the text with one).
@@ -40,8 +40,6 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
    heading; `{: .era-none}` goes back to the default blue. Use the classes in increasing order down the page
    (era-1 before era-2 ... before era-none), as each one only overrides the classes listed before it in the CSS.
    Add `nav_title: <Short name>` to the front matter for the header link.
-7. Diagrams for new chapters: inline SVG inside `<figure class="diagram">` (no blank lines inside),
-   using the `.diagram` text and box classes; see `chapters/01-values.md`.
 6. In `index.md`, turn that chapter's `card soon` into an `a.card` link with a `Ready` chip
    (copy the Chapter 3 card).
 
