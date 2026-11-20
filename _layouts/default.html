@@ -15,11 +15,16 @@
       <a href="{{ '/history/' | relative_url }}">History timeline</a>
     </nav>
   </header>
-  <main class="content">
-    {{ content }}
-  </main>
+  <div class="page{% if page.chapter %} has-rail{% endif %}">
+    <main class="content">
+      {{ content }}
+      {% if page.chapter %}{% include chapter-nav.html %}{% endif %}
+    </main>
+    {% if page.chapter %}<aside class="rail" aria-label="On this page"></aside>{% endif %}
+  </div>
   <footer class="site-footer">
     Based on <em>Life in the United Kingdom: A guide for new residents</em> (3rd edition). Personal study notes; the handbook is the final word.
   </footer>
+  {% if page.chapter %}<script src="{{ '/assets/js/study.js' | relative_url }}" defer></script>{% endif %}
 </body>
 </html>

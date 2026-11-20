@@ -10,6 +10,8 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
 | `chapters/03-history.md` | Chapter 3 history timeline cheat sheet (served at `/history/`) |
 | `assets/img/<chapter>/` | Diagram images for each chapter |
 | `_layouts/default.html`, `assets/css/style.css` | Page layout and styling (light and dark mode) |
+| `_includes/chapter-nav.html` | Previous / next links between chapter pages |
+| `assets/js/study.js` | Self-test mode, "On this page" menu and back-to-top on chapter pages |
 
 ## Adding a chapter
 
@@ -19,12 +21,21 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
    layout: default
    title: "Chapter N: <title>"
    permalink: /<short-name>/
+   chapter: N
    ---
    ```
 2. Put any diagrams in `assets/img/<short-name>/` and link them as
    `![alt text]({{ '/assets/img/<short-name>/file.png' | relative_url }})`.
-3. Add `{: .hook}` on the line after a paragraph to show it as a highlighted memory hook.
-4. Swap the "coming soon" line for that chapter in `index.md` for a link.
+   In dark mode, images are colour-inverted so light diagrams sit on the dark page;
+   add `{: .no-invert}` after a photo to opt it out.
+3. Add `{: .hook}` on the line after a paragraph to show it as a highlighted memory hook
+   (the box adds its own "Memory hook" label, so don't start the text with one).
+   Use `{: .note}` for a plain caption under a diagram.
+4. Name table columns `When`, `Event`, `Exam hook` so self-test mode can blur the
+   `When` or `Exam hook` column. `What` and `Tell them apart` also count as answers.
+5. Optional: colour a section by adding `{: .era-1}` to `{: .era-6}` on the line after its `##`
+   heading; `{: .era-none}` goes back to the default blue.
+6. Swap the "coming soon" line for that chapter in `index.md` for a link.
 
 ## Publishing
 

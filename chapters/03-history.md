@@ -2,6 +2,7 @@
 layout: default
 title: "Chapter 3: History timeline cheat sheet"
 permalink: /history/
+chapter: 3
 ---
 
 # Chapter 3: History timeline cheat sheet
@@ -22,9 +23,10 @@ This sheet follows Chapter 3 of the official handbook, *Life in the United Kingd
 ![Six eras of British history with their anchor dates]({{ '/assets/img/history/eras-overview.png' | relative_url }})
 
 Learn these anchor dates first; the tables below hang every other fact on them.
-{: .hook}
+{: .note}
 
 ## 1. Early Britain (Stone Age to 1066)
+{: .era-1}
 
 Britain became an island about 10,000 years ago, and 1066 is the last successful foreign invasion.
 
@@ -51,10 +53,11 @@ Britain became an island about 10,000 years ago, and 1066 is the last successful
 
 ![Who came to Britain, from the first farmers to the Normans in 1066]({{ '/assets/img/history/invasions.png' | relative_url }})
 
-Memory hook: **F**armers, **R**omans, **A**nglo-Saxons, **V**ikings, **N**ormans.
+**F**armers, **R**omans, **A**nglo-Saxons, **V**ikings, **N**ormans.
 {: .hook}
 
 ## 2. The Middle Ages (1066 to 1485)
+{: .era-2}
 
 The period runs from Hastings (1066) to Bosworth (1485), and Magna Carta (1215) is its most tested date.
 
@@ -78,10 +81,11 @@ The period runs from Hastings (1066) to Bosworth (1485), and Magna Carta (1215) 
 
 ![Wars of the Roses: red rose plus white rose makes the Tudor rose]({{ '/assets/img/history/wars-of-the-roses.png' | relative_url }})
 
-Memory hook: **L**ancaster = **L**ipstick red; **Y**ork = **Y**oghurt white.
+**L**ancaster = **L**ipstick red; **Y**ork = **Y**oghurt white.
 {: .hook}
 
 ## 3. The Tudors and Stuarts (1485 to 1688)
+{: .era-3}
 
 The break with Rome under Henry VIII and the Civil War of 1642 are the two big turning points of this era.
 
@@ -117,15 +121,16 @@ The break with Rome under Henry VIII and the Civil War of 1642 are the two big t
 
 ![Three royal houses, 1485 to 1901: Tudors, Stuarts and Hanoverians]({{ '/assets/img/history/royal-houses.png' | relative_url }})
 
-Memory hook for the Tudors: two Henrys, then Henry VIII's three children, *Edward, Mary, Elizabeth*. Reign dates are for orientation; the test rarely asks them.
+The Tudors: two Henrys, then Henry VIII's three children, *Edward, Mary, Elizabeth*. Reign dates are for orientation; the test rarely asks them.
 {: .hook}
 
 ![Henry VIII's six wives in order: divorced, beheaded, died, divorced, beheaded, survived]({{ '/assets/img/history/henry-viii-wives.png' | relative_url }})
 
-Memory hook: three Catherines, two Annes, one Jane. The two beheaded wives were cousins.
+Three Catherines, two Annes, one Jane. The two beheaded wives were cousins.
 {: .hook}
 
 ## 4. A global power (1689 to 1901)
+{: .era-4}
 
 This era takes Britain from the Bill of Rights (1689) to the end of Queen Victoria's reign (1901), and it carries the most dates of any section.
 
@@ -170,6 +175,7 @@ Union Flag crosses: **St George** (red cross on white, England), **St Andrew** (
 {: .hook}
 
 ## 5. The 20th century (1900 to 1945)
+{: .era-5}
 
 Two world wars dominate this era: WWI ended at 11am on 11 November 1918, and WWII ended in Europe on 8 May 1945.
 
@@ -199,15 +205,16 @@ Two world wars dominate this era: WWI ended at 11am on 11 November 1918, and WWI
 
 ![The road to the vote: from Magna Carta in 1215 to equal votes in 1928]({{ '/assets/img/history/road-to-the-vote.png' | relative_url }})
 
-Memory hook: **1918** = women over 30 (the war just ended); **1928** = ten years later, equal at 21.
+**1918** = women over 30 (the war just ended); **1928** = ten years later, equal at 21.
 {: .hook}
 
 ![World War II in eight dates, 1939 to 1945]({{ '/assets/img/history/ww2.png' | relative_url }})
 
-Memory hook: 1940 is Britain's year of standing alone (Churchill, Dunkirk, Battle of Britain); 1941 brings in the USA.
+1940 is Britain's year of standing alone (Churchill, Dunkirk, Battle of Britain); 1941 brings in the USA.
 {: .hook}
 
 ## 6. Britain since 1945
+{: .era-6}
 
 The NHS (1948), joining the EEC (1973) and devolution (1999) are the anchor dates; inventions are tested as name-to-invention matches.
 
@@ -241,7 +248,7 @@ The NHS (1948), joining the EEC (1973) and devolution (1999) are the anchor date
 ![Prime Ministers the handbook names, from Walpole in 1721 to Cameron in 2010]({{ '/assets/img/history/prime-ministers.png' | relative_url }})
 
 Dates are the year each first took office. The handbook stops at 2010, so later Prime Ministers are not tested.
-{: .hook}
+{: .note}
 
 ### British inventions and discoveries (name to invention)
 
@@ -263,6 +270,7 @@ Dates are the year each first took office. The handbook stops at 2010, so later 
 | **Sir Tim Berners-Lee** | **World Wide Web** | 1990 (first transfer 25 Dec 1990) |
 
 ## 7. Commonly confused pairs
+{: .era-none}
 
 Most wrong answers come from mixing up these pairs, so drill them last before the test.
 
@@ -283,5 +291,5 @@ Most wrong answers come from mixing up these pairs, so drill them last before th
 | **Lancaster** vs **York** | **Red** rose vs **white** rose; Tudor rose combines both |
 | **Chaucer** vs **Caxton** | Chaucer **wrote** *The Canterbury Tales*; Caxton **printed** books |
 
-One memory hook for Henry VIII's wives in order: *divorced, beheaded, died, divorced, beheaded, survived*.
+Henry VIII's wives in order: *divorced, beheaded, died, divorced, beheaded, survived*.
 {: .hook}

@@ -1,0 +1,10 @@
+{% comment %}Previous / next links between pages that set `chapter: N` in their front matter.{% endcomment %}
+{% assign chapters = site.pages | where_exp: "p", "p.chapter" | sort: "chapter" %}
+{% for p in chapters %}{% if p.url == page.url %}{% assign i = forloop.index0 %}{% endif %}{% endfor %}
+{% assign prev_i = i | minus: 1 %}
+{% assign next_i = i | plus: 1 %}
+<nav class="chapter-nav" aria-label="Chapter navigation">
+  <div>{% if i > 0 %}{% assign p = chapters[prev_i] %}<a href="{{ p.url | relative_url }}"><span>Previous</span>{{ p.title }}</a>{% endif %}</div>
+  <a class="all" href="{{ '/' | relative_url }}">All chapters</a>
+  <div class="next">{% assign p = chapters[next_i] %}{% if p %}<a href="{{ p.url | relative_url }}"><span>Next</span>{{ p.title }}</a>{% endif %}</div>
+</nav>
