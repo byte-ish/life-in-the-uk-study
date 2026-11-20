@@ -33,6 +33,8 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
    Use `{: .note}` for a plain caption under a diagram.
 4. Name table columns `When`, `Event`, `Exam hook` so self-test mode can blur the
    `When` or `Exam hook` column. `What` and `Tell them apart` also count as answers.
+   To mark a row as often asked (gold, with a ★ label), add `{: .hy}` straight after its bold date,
+   e.g. `| **1066**{: .hy} | ... |`. Keep it to the dates practice tests ask most, about a quarter of the rows.
 5. Optional: colour a section by adding `{: .era-1}` to `{: .era-6}` on the line after its `##`
    heading; `{: .era-none}` goes back to the default blue.
 6. In `index.md`, turn that chapter's `card soon` into an `a.card` link with a `Ready` chip

@@ -18,8 +18,12 @@
   --era-5: #6d28d9;
   --era-6: #c2410c;
 
-  --font-body: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-  --font-head: "Crimson Pro", Georgia, "Times New Roman", serif;
+  /* Gold rows: dates that come up most in practice tests */
+  --gold-bg: #fdf6e0;
+  --gold-bar: #d4a72c;
+  --gold-text: #8a6100;
+
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   --radius: 12px;
   --shadow: 0 1px 2px rgb(16 24 40 / 0.05), 0 4px 16px rgb(16 24 40 / 0.05);
 }
@@ -30,7 +34,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  font: 17px/1.65 var(--font-body);
+  font: 16.5px/1.65 var(--font);
   -webkit-font-smoothing: antialiased;
 }
 
@@ -63,10 +67,10 @@ a:hover { text-decoration-thickness: 2px; }
 .content { max-width: 1000px; margin: 0 auto; padding: 32px 24px; }
 .content > p, .content > ul, .content > ol { max-width: 72ch; }
 
-h1, h2, h3 { font-family: var(--font-head); font-weight: 700; line-height: 1.15; letter-spacing: -0.01em; }
-h1 { font-size: 44px; margin: 8px 0 12px; }
-h2 { font-size: 32px; margin: 72px 0 8px; display: flex; align-items: center; gap: 12px; }
-h3 { font-size: 24px; margin: 40px 0 8px; }
+h1, h2, h3 { font-weight: 700; line-height: 1.2; letter-spacing: -0.015em; }
+h1 { font-size: 38px; margin: 8px 0 12px; }
+h2 { font-size: 27px; margin: 72px 0 8px; display: flex; align-items: center; gap: 12px; }
+h3 { font-size: 21px; margin: 40px 0 8px; }
 h2, h3 { scroll-margin-top: 80px; } /* clear the sticky self-test bar */
 
 h2 .num {
@@ -78,7 +82,7 @@ h2 .num {
   border-radius: 50%;
   background: var(--era, var(--accent));
   color: #fff;
-  font: 700 17px/1 var(--font-body);
+  font: 700 16px/1 var(--font);
 }
 
 .lead { font-size: 19px; color: var(--muted); max-width: 64ch; }
@@ -121,6 +125,20 @@ tbody tr:last-child td { border-bottom: 0; }
 tbody tr:hover { background: color-mix(in srgb, var(--era, var(--accent)) 6%, #fff); }
 td:first-child { white-space: nowrap; font-variant-numeric: tabular-nums; }
 td:first-child strong { color: var(--era, var(--text)); }
+
+/* Often asked: rows whose key date carries {: .hy} */
+tbody tr:has(.hy) { background: var(--gold-bg); }
+tbody tr:has(.hy):hover { background: color-mix(in srgb, var(--gold-bar) 22%, #fff); }
+tbody tr:has(.hy) td:first-child { box-shadow: inset 4px 0 0 var(--gold-bar); }
+tbody tr:has(.hy) td:first-child::after {
+  content: "★ Often asked";
+  display: block;
+  margin-top: 2px;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--gold-text);
+}
 
 /* Diagrams: shown in their own colours, framed with the era colour */
 img {
@@ -332,7 +350,7 @@ a.card:hover { transform: translateY(-2px); box-shadow: 0 2px 4px rgb(16 24 40 /
 .chip { padding: 2px 10px; border-radius: 999px; font-size: 12.5px; font-weight: 700; }
 .chip.ready { background: color-mix(in srgb, var(--era-3) 12%, #fff); color: var(--era-3); }
 .chip.later { background: #fff; border: 1px solid var(--line); color: var(--muted); }
-.card h2 { margin: 4px 0 0; font-size: 24px; display: block; }
+.card h2 { margin: 4px 0 0; font-size: 20px; display: block; }
 .card p { margin: 0; font-size: 15.5px; color: var(--muted); }
 .card .go { margin-top: auto; padding-top: 8px; color: var(--accent); font-weight: 700; font-size: 15px; }
 
@@ -340,10 +358,10 @@ a.card:hover { transform: translateY(-2px); box-shadow: 0 2px 4px rgb(16 24 40 /
 
 /* Phones: tables become one card per row, labelled by column */
 @media (max-width: 640px) {
-  body { font-size: 16.5px; }
+  body { font-size: 16px; }
   .content { padding: 24px 16px; }
-  h1 { font-size: 34px; }
-  h2 { font-size: 26px; margin-top: 56px; }
+  h1 { font-size: 30px; }
+  h2 { font-size: 23px; margin-top: 56px; }
   .site-header { padding: 12px 16px; }
   .study-bar { flex-wrap: nowrap; gap: 8px; margin: 16px -16px 8px; padding: 8px 16px; }
   .study-bar .label { font-size: 14px; white-space: nowrap; }
