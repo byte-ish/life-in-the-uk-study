@@ -90,7 +90,7 @@ Britain became an island about 10,000 years ago, and 1066 is the last successful
 | **55 BC**{: .hy} | Julius Caesar invades | Unsuccessful |
 | **AD 43**{: .hy} | Emperor **Claudius** invades | Successful; Romans stay about 400 years |
 | AD 43+ | **Boudicca**, queen of the Iceni (eastern England), fights the Romans | Statue on Westminster Bridge, London |
-| Roman times | **Hadrian's Wall** built | To keep out the Picts (ancestors of the Scottish); forts Housesteads and Vindolanda; UNESCO World Heritage Site |
+| Roman times | **Hadrian's Wall** built by the **Emperor Hadrian**{: .hy} | To keep out the Picts (ancestors of the Scottish); forts Housesteads and Vindolanda; UNESCO World Heritage Site |
 | **AD 410**{: .hy} | Romans leave to defend other parts of their empire | Left roads, public buildings, law, new plants and animals |
 | After 410 | Jutes, Angles and Saxons invade | Anglo-Saxon kingdoms by about AD 600; much of Wales, and Scotland, stay free |
 | Anglo-Saxon times | Christian missionaries | **St Patrick** = Ireland; **St Columba** = Iona; **St Augustine** = first Archbishop of Canterbury |
@@ -160,12 +160,12 @@ The period runs from Hastings (1066) to Bosworth (1485), and Magna Carta (1215) 
 | Middle Ages | **William Caxton** | First person in England to print books using a printing press; *The Canterbury Tales* was one of the first |
 | **1415**{: .hy} | **Battle of Agincourt** | **Henry V** beats the French; English leave France by the 1450s |
 | **1455** | **Wars of the Roses** begin | House of **Lancaster** (red rose) vs House of **York** (white rose) |
-| **1485**{: .hy} | **Battle of Bosworth Field** | **Richard III** (York) killed; **Henry Tudor** becomes **Henry VII**, marries **Elizabeth of York** and unites the two families; the first king of the House of **Tudor** |
+| **1485**{: .hy} | **Battle of Bosworth Field** | **Richard III** (York) killed; **Henry Tudor** becomes **Henry VII**, marries **Elizabeth of York** and unites the two families; the first king of the House of **Tudor**, whose symbol was a **red rose with a white rose inside it**: York and Lancaster were now allies |
 
 <figure class="diagram">
 <svg viewBox="0 0 1000 300" role="img" aria-labelledby="d13-title d13-desc">
 <title id="d13-title">The Wars of the Roses</title>
-<desc id="d13-desc">The House of Lancaster (red rose) and the House of York (white rose) fought the Wars of the Roses. The war ended at the Battle of Bosworth Field in 1485, where King Richard III of York was killed and Henry Tudor, leader of the House of Lancaster, became King Henry VII. Henry married King Richard&#x27;s niece, Elizabeth of York, uniting the two families. He was the first king of the House of Tudor.</desc>
+<desc id="d13-desc">The House of Lancaster (red rose) and the House of York (white rose) fought the Wars of the Roses. The war ended at the Battle of Bosworth Field in 1485, where King Richard III of York was killed and Henry Tudor, leader of the House of Lancaster, became King Henry VII. Henry married King Richard&#x27;s niece, Elizabeth of York, uniting the two families. He was the first king of the House of Tudor, whose symbol was a red rose with a white rose inside it.</desc>
 <defs><marker id="d13-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#a3aab6"/></marker></defs>
 <text class="t-title" x="24" y="32">The Wars of the Roses: two houses become one</text>
 <text class="t-sub" x="24" y="54">The war ended with the Battle of Bosworth Field in 1485.</text>
@@ -177,8 +177,8 @@ The period runs from Hastings (1066) to Bosworth (1485), and Magna Carta (1215) 
 <rect class="box" x="376" y="120" width="290" height="104" rx="10"/>
 <text class="t-head" x="394" y="150">1485: Bosworth Field</text><text class="t-sub" x="394" y="174">Richard III (York) killed</text><text class="t-sub" x="394" y="194">Henry Tudor becomes Henry VII</text>
 <path class="wire" d="M668 172H700" marker-end="url(#d13-arrow)"/>
-<rect x="704" y="110" width="272" height="124" rx="10" style="fill:color-mix(in srgb, var(--era, var(--accent)) 7%, #fff);stroke:var(--era, var(--accent));stroke-width:1.5"/>
-<text class="t-head" x="722" y="140">The House of Tudor</text><text class="t-sub" x="722" y="164">Henry VII marries Elizabeth</text><text class="t-sub" x="722" y="184">of York, Richard’s niece, and</text><text class="t-sub" x="722" y="204">unites the two families</text>
+<rect x="704" y="104" width="272" height="164" rx="10" style="fill:color-mix(in srgb, var(--era, var(--accent)) 7%, #fff);stroke:var(--era, var(--accent));stroke-width:1.5"/>
+<text class="t-head" x="722" y="140">The House of Tudor</text><text class="t-sub" x="722" y="164">Henry VII marries Elizabeth</text><text class="t-sub" x="722" y="184">of York, Richard’s niece, and</text><text class="t-sub" x="722" y="204">unites the two families</text><text class="t-sub" x="722" y="232" style="font-weight:700;fill:var(--text)">Symbol: a red rose with</text><text class="t-sub" x="722" y="250" style="font-weight:700;fill:var(--text)">a white rose inside it</text>
 </svg>
 </figure>
 
@@ -200,9 +200,10 @@ The break with Rome under Henry VIII and the Civil War of 1642 are the two big t
 | 1547 | **Edward VI** | Protestant; **Book of Common Prayer** written; ruled just over six years and died aged 15 |
 | After Edward VI | **Mary I** ("Bloody Mary") | Catholic; persecuted Protestants; a short reign |
 | Until **1603** | **Elizabeth I** | Protestant; re-established the Church of England; never married |
-| **1564 to 1616** | **William Shakespeare** | Born **Stratford-upon-Avon**; plays and sonnets |
+| **1560** | The mainly Protestant **Scottish Parliament** abolishes the **Pope's authority** in Scotland | Catholic services made illegal; a **Protestant Church of Scotland** with an elected leadership is set up, but unlike in England it is **not a state Church** |
+| **1564 to 1616** | **William Shakespeare**{: .hy} | Born **Stratford-upon-Avon**; playwright and actor. Famous plays: *A Midsummer Night's Dream*, *Hamlet*, *Macbeth*, *Romeo and Juliet*. Lines still quoted: "To be or not to be" (*Hamlet*), "Once more unto the breach" (*Henry V*), "A rose by any other name" (*Romeo and Juliet*), "All the world's a stage" (*As You Like It*), "The darling buds of May" (Sonnet 18). The **Globe Theatre** in London is a modern copy of the theatres where his plays were first performed |
 | Elizabeth I's reign | **Sir Francis Drake** | Ship *Golden Hind*; one of the first ships to sail around the world; Drake also helped beat the Armada; settlers begin colonising America's east coast |
-| Elizabeth I's reign | **Mary, Queen of Scots** executed | Catholic; fled to England; held prisoner for **20 years**; accused of plotting against Elizabeth |
+| Elizabeth I's reign | **Mary, Queen of Scots** (Mary Stuart) executed | Catholic; fled to England; held prisoner for **20 years**; accused of plotting against Elizabeth |
 | **1588**{: .hy} | **Spanish Armada** defeated | Spain's fleet tried to conquer England and restore Catholicism |
 | **1603**{: .hy} | **James VI of Scotland** becomes **James I of England** | Son of Mary, Queen of Scots; crowns united, but Scotland stays a separate country |
 | James I's reign | **King James Bible** (Authorised Version); **Ulster plantations** | Protestant settlers from England and Scotland in Ireland |
@@ -212,7 +213,7 @@ The break with Rome under Henry VIII and the Civil War of 1642 are the two big t
 | **1649**{: .hy} | **Charles I executed** | England becomes a republic, the **Commonwealth** |
 | Until **1658** | **Oliver Cromwell**, **Lord Protector** | Brutal 1649 campaign in Ireland (e.g. Drogheda); defeated Charles II's Scots at Dunbar and Worcester |
 | **1656** | The first **Jews** to come to Britain since the Middle Ages settle in **London** | |
-| **1660**{: .hy} | **The Restoration**: **Charles II** | **Royal Society** founded, oldest surviving scientific society in the world |
+| **1660**{: .hy} | **The Restoration**: **Charles II** | **Royal Society** founded, oldest surviving scientific society in the world; early members included **Sir Edmund Halley** (predicted the return of **Halley's Comet**) and Isaac Newton |
 | 1643 to 1727 | **Isaac Newton** | Born Lincolnshire; *Principia Mathematica*: gravity applies to the whole universe; white light is many colours |
 | **1665 / 1666**{: .hy} | **Great Plague** / **Great Fire of London** | Recorded in **Samuel Pepys**' diary; **St Paul's Cathedral** rebuilt by **Sir Christopher Wren** |
 | **1679** | **Habeas Corpus Act** | Every prisoner has the right to a court hearing |
@@ -333,6 +334,7 @@ This era takes Britain from the Bill of Rights (1689) to the end of Queen Victor
 | When | Event | Exam hook |
 | --- | --- | --- |
 | **1689**{: .hy} | **Bill of Rights** | Confirms Parliament's rights and limits the monarch: start of **constitutional monarchy**; a new Parliament elected at least every 3 years (later 7, now 5) |
+| From 1689 | Two main groups in Parliament: the **Whigs**{: .hy} and the **Tories** | The beginning of **party politics**; the modern **Conservative Party** is still sometimes called the **Tories** |
 | 1680 to 1720 | **Huguenots** (French Protestants) arrive | Refugees from religious persecution; skilled workers |
 | **1695** | Newspapers no longer need a government licence | Start of a free press |
 | **1707**{: .hy} | **Act of Union** | **Kingdom of Great Britain** (England, Wales, Scotland); Scotland keeps its own law, education and Presbyterian Church |
@@ -353,13 +355,15 @@ This era takes Britain from the Bill of Rights (1689) to the end of Queen Victor
 | **1815**{: .hy} | **Battle of Waterloo** (land) | **Duke of Wellington** defeats **Napoleon**; later Prime Minister, the "Iron Duke" |
 | **1832** | **Reform Act** | Many more men can vote; "rotten" and "pocket" boroughs abolished |
 | **1833**{: .hy} | **Emancipation Act** | **Slavery abolished** throughout the Empire; then about 2 million Indian and Chinese workers replace freed slaves |
+| Just before 1837 | **George and Robert Stephenson**{: .hy} (father and son) pioneer the **railway engine** | Railways then expand greatly in the Victorian period, and are built throughout the Empire |
 | **1837 to 1901** | **Queen Victoria** | Reigned almost 64 years; Empire becomes the largest ever, over 400 million people |
 | 1806 to 1859 | **Isambard Kingdom Brunel** | **Great Western Railway**; **Clifton Suspension Bridge** |
-| Mid-1840s | **Irish potato famine** | Over a million die; about 1.5 million emigrate |
+| Mid-1840s | **Irish potato famine** | Over a million die; about 1.5 million emigrate; by 1861 there are large Irish populations in Liverpool, London, Manchester and Glasgow |
+| 19th century | The **Irish Nationalist** movement grows | The **Fenians** want complete independence; **Charles Stuart Parnell** wants **Home Rule**: Ireland stays in the UK but has its own parliament |
 | **1846** | **Corn Laws repealed** | Cheaper imported grain; free trade |
 | 1847 | Working day for women and children limited to 10 hours | Factory reform |
 | **1851** | **Great Exhibition**, **Crystal Palace**, Hyde Park | Showed off British industry |
-| **1853 to 1856** | **Crimean War** | With Turkey and France against Russia; **Victoria Cross** introduced; **Florence Nightingale** (1820 to 1910) founds modern nursing, school at St Thomas' Hospital (1860) |
+| **1853 to 1856** | **Crimean War** | With Turkey and France against Russia; **Victoria Cross** introduced; **Florence Nightingale** (1820 to 1910) founds modern nursing; in **1860** she set up the **Nightingale Training School** for nurses at **St Thomas' Hospital**, London, the first of its kind |
 | **1867** | **Second Reform Act** | More urban seats; more working men can vote |
 | 1870 and 1882 | Married women's property laws | Wives keep their own earnings and property |
 | 1870 to 1914 | Around **120,000 Russian and Polish Jews** come to Britain to escape persecution | Many settle in London's East End, Manchester and Leeds |
@@ -425,6 +429,7 @@ Two world wars dominate this era: WWI ended at 11am on 11 November 1918, and the
 | **1928**{: .hy} | Women vote at **21**, same as men | |
 | **1928** | **Alexander Fleming** discovers **penicillin** | Scottish; developed into a medicine by **Howard Florey** and **Ernst Chain** |
 | **1929** | **Great Depression** | Mass unemployment in old industries; new ones (cars, aviation) grow |
+| 1930s | Cultural blossoming between the wars | Writers **Graham Greene** and **Evelyn Waugh**; the economist **John Maynard Keynes** publishes new theories of economics; car ownership doubles from 1 to 2 million, 1930 to 1939 |
 | **1939**{: .hy} | Hitler invades Poland; Britain and France declare war | **Axis**: Germany, Italy, Japan |
 | **1940** | **Winston Churchill** becomes Prime Minister | Speeches rallied the nation; voted **Greatest Briton** in **2002** |
 | **1940** | **Dunkirk** evacuation | More than 300,000 men rescued, helped by civilian volunteers in small boats; "Dunkirk spirit" |
@@ -555,14 +560,14 @@ The NHS (1948), joining the EEC (1973) and devolution (1999) are the anchor date
 | When | Event | Exam hook |
 | --- | --- | --- |
 | 1916 to 1990 | **Roald Dahl** | Born in Wales to Norwegian parents; RAF pilot in WWII; *Charlie and the Chocolate Factory* |
-| **1942** | **Beveridge Report** | Basis of the welfare state; William Beveridge (1879 to 1963) |
+| **1942** | **Beveridge Report**{: .hy} (*Social Insurance and Allied Services*) | Fight the five **'Giant Evils'**: **Want, Disease, Ignorance, Squalor and Idleness**; the basis of the modern welfare state; William Beveridge (1879 to 1963) |
 | **1944** | **Education Act** ("Butler Act") | **R A Butler**; free secondary education in England and Wales |
 | **1945** | **Clement Attlee** (Labour) becomes PM | Nationalises railways, coal, gas, water, electricity |
 | **1947** | Independence for **India**, **Pakistan** and **Ceylon** (Sri Lanka) | Handbook puts all three in 1947 (Ceylon was actually Feb 1948) |
 | **1948**{: .hy} | **NHS** founded | **Aneurin (Nye) Bevan**, Minister for Health |
 | 1949 | Britain a founding member of **NATO** | Also developed its own atomic bomb |
 | 1951 to 1964 | **Conservative** government; the 1950s bring economic recovery | **Harold Macmillan**'s "wind of change" speech about decolonisation |
-| 1950s | Migration to fill labour shortages | Workers from the **West Indies**, **India**, **Pakistan**, later **Bangladesh** |
+| 1950s | Migration to fill labour shortages | People from the West Indies invited to work from **1948**; centres in the **West Indies** recruit **bus drivers**; textile and engineering firms from the north of England and the Midlands send **agents to India and Pakistan**; later **Bangladesh** too |
 | 1950s | **Dylan Thomas** (1914 to 1953) | Welsh poet; *Under Milk Wood* |
 | **1960s** | **"Swinging Sixties"** | The Beatles, the Rolling Stones; divorce and abortion laws relaxed; immigration laws tightened late in the decade |
 | **1969** | **The Troubles** begin in Northern Ireland | Over 3,000 people died in the decades that followed |
@@ -650,7 +655,7 @@ Dates are when each took office, as the handbook gives them. The handbook stops 
 | Who | What | When |
 | --- | --- | --- |
 | **John Logie Baird** (Scottish) | **Television** | 1920s; first TV broadcast London to Glasgow 1932 |
-| **Alan Turing** | **Turing machine**, basis of the computer | 1930s |
+| **Alan Turing** (1912 to 1954) | **Turing machine**, basis of the computer | 1930s |
 | **Sir Robert Watson-Watt** | **Radar** | 1935 |
 | **Sir Bernard Lovell** | Radio telescope at **Jodrell Bank**, Cheshire | Work with radar led to his discoveries in astronomy |
 | **Sir Frank Whittle** | **Jet engine** | 1930s |
@@ -684,7 +689,8 @@ Most wrong answers come from mixing up these pairs, so drill them last before th
 | **Battle of Britain** vs **the Blitz** | Battle of Britain = air battle in summer 1940; the Blitz = German bombing of cities, 1940 to 1941 |
 | **Walpole** vs **Thatcher** | First Prime Minister (1721) vs first woman Prime Minister (1979) |
 | **St Patrick** / **St Columba** / **St Augustine** | Ireland / Iona / Canterbury |
-| **Lancaster** vs **York** | **Red** rose vs **white** rose; Henry VII (Lancaster) married Elizabeth of York and united the two families |
+| **Lancaster** vs **York** | **Red** rose vs **white** rose; Henry VII (Lancaster) married Elizabeth of York, and the Tudor symbol put a **white rose inside a red rose** |
+| **Whigs** vs **Tories** | The two groups in Parliament from 1689; only *Tories* is still used, for the Conservatives |
 | **Chaucer** vs **Caxton** | Chaucer **wrote** *The Canterbury Tales*; Caxton **printed** books |
 
 Henry VIII's wives in order: *divorced, executed, died, divorced, executed, survived*.

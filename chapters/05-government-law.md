@@ -329,7 +329,7 @@ Judges (**the judiciary**) interpret the law and make sure trials are fair; the 
 | Serious civil cases | E.g. large compensation claims: the **High Court** (England, Wales, NI); the **Court of Session** in Edinburgh (Scotland) | |
 | Small claims procedure | An **informal** way to settle minor disputes **without a lawyer**{: .hy}; under **£5,000** in England and Wales, under **£3,000** in Scotland and NI (2013); a judge in an ordinary room, around a table | Also online: **Money Claims Online** |
 | Today (not in the handbook) | The England and Wales small claims limit rose to **£10,000** on **1 April 2013** ([MoneySavingExpert](https://www.moneysavingexpert.com/news/2013/04/small-claims-limit-rises/)) | For the test, use the handbook's figures |
-| Solicitors | Trained lawyers who **advise**, act for clients and **represent them in court**; charges usually based on **time** spent | The **Citizens Advice Bureau**{: .hy} can suggest local solicitors |
+| Solicitors | Trained lawyers who **advise**, act for clients and **represent them in court**; charges usually based on **time** spent | The **Citizens Advice Bureau**{: .hy} can suggest local solicitors; so can the **Law Society** (England and Wales), the Law Society of Scotland and the Law Society of Northern Ireland |
 | The Old Bailey | Probably the **most famous criminal court in the world** | From the handbook's photo caption |
 
 **Scotland's three differences**: a **15**-person jury, a **"not proven"** verdict, and its own court names (Justice of the Peace, Sheriff, High Court, Court of Session).
@@ -345,7 +345,7 @@ Britain's rights have their roots in **Magna Carta**, the **Habeas Corpus Act** 
 | European Convention on Human Rights | British diplomats and lawyers helped draft it; the UK was one of the first to sign, in **1950** | |
 | Its principles include | Right to **life**; prohibition of **torture**; prohibition of **slavery and forced labour**{: .hy}; right to **liberty and security**; right to a **fair trial**; freedom of **thought, conscience and religion**; freedom of **expression** (speech) | Seven named principles |
 | Human Rights Act 1998 | Brought the Convention **into UK law**; government, public bodies and courts must follow it | 1998 |
-| Equal opportunities | No unfair treatment because of **age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status**{: .hy} | Eight grounds |
+| Equal opportunities | No unfair treatment because of **age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status**{: .hy} | Eight grounds. Help: Citizens Advice, the **Equality and Human Rights Commission** (England, Wales and Scotland), the Scottish Human Rights Commission, the Equality Commission for Northern Ireland and the Northern Ireland Human Rights Commission |
 | Domestic violence | A serious crime, whether married or living together; a husband who forces his wife to have sex **can be charged with rape**{: .hy} | Help: solicitor, Citizens Advice, refuges, a 24-hour helpline, the police |
 | Female genital mutilation (FGM) | **Illegal**; taking a girl or woman abroad for FGM is a criminal offence | |
 | Forced marriage | A **criminal offence**{: .hy}; **arranged** marriages, where both agree, are acceptable | **Forced Marriage Protection Orders**: 2008 in England, Wales and NI; November 2011 in Scotland; breach = up to **two years** in jail |
