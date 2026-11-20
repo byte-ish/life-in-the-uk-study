@@ -190,7 +190,7 @@ Two world wars dominate this era: WWI ended at 11am on 11 November 1918, and WWI
 | **July 1916** | **Battle of the Somme** | About **60,000** British casualties on the **first day** |
 | **1916** | **Easter Rising**, Dublin | Rebellion against British rule in Ireland |
 | **11 Nov 1918, 11am**{: .hy} | WWI ends | Remembered on Remembrance Day |
-| **1918**{: .hy} | Women **over 30** get the vote | Most men over 21 could vote too |
+| **1918**{: .hy} | Women **over 30** get the vote, and can stand for Parliament | Partly for women's part in the war effort |
 | 1921 / **1922** | Peace treaty; **Ireland splits in two** | **Northern Ireland** (6 counties) stays in the UK; the south becomes the **Irish Free State** (a republic from 1949) |
 | **1922** | **BBC** starts radio broadcasts | World's first regular **television** service follows in **1936** |
 | **1928**{: .hy} | Women vote at **21**, same as men | |
@@ -234,17 +234,18 @@ The NHS (1948), joining the EEC (1973) and devolution (1999) are the anchor date
 | **1960s** | **"Swinging Sixties"** | The Beatles, the Rolling Stones; divorce and abortion laws relaxed; immigration laws tightened late in the decade |
 | **1969** | **The Troubles** begin in Northern Ireland | Over 3,000 people died in the decades that followed |
 | **1972** | NI Parliament suspended | Direct rule from London |
-| 1970s | Refugees arrive | Asians expelled from **Uganda**; people from **South East Asia** (Vietnam) |
+| Early 1970s | Britain admits **28,000** people of Indian origin forced to leave **Uganda** | Uganda, 28,000 |
 | **1973** | Britain joins the **EEC** | (Left the EU in 2020, not in the handbook) |
 | **1979 to 1990**{: .hy} | **Margaret Thatcher** | **First woman PM**; longest-serving PM of the 20th century; privatisation |
 | **1982** | **Falklands War** | Argentina invades; British forces recover the islands |
 | 1990 to 1997 | **John Major** | Helped start the Northern Ireland peace process |
+| 1990s | Britain helps liberate **Kuwait** after Iraq's 1990 invasion; conflict in the former Yugoslavia | Coalition forces |
 | **1997 to 2007** | **Tony Blair** (Labour) | Devolution |
 | **1998** | **Good Friday Agreement** (Belfast Agreement) | Northern Ireland peace deal |
-| **1999**{: .hy} | **Scottish Parliament** and **Welsh Assembly** open; NI Assembly elected | NI Assembly suspended 2002, restored 2007 |
-| 2001 onwards | British forces in **Afghanistan** with UN-backed international forces | The handbook (2013) predates the end of combat operations in 2014 |
-| **2003** | **Iraq** war | Britain joins a US-led coalition |
+| **1999**{: .hy} | **Scottish Parliament** and **Welsh Assembly** open; NI Assembly elected | NI Assembly suspended 2002, restored 2007. Chapter 3 says the NI Assembly was elected in 1999; Chapter 5 says it was established soon after the 1998 Agreement (the first election was actually June 1998) |
+| Since 2000 | Operations in **Afghanistan** and **Iraq** against international terrorism | Afghanistan: UN-mandated 50-nation coalition (ISAF) |
 | 2007 to 2010 | **Gordon Brown** | |
+| **2009** | British combat troops leave **Iraq** | Left Iraq 2009 |
 | **2010** | **Coalition** government | Conservative and Liberal Democrat; **David Cameron** PM |
 
 ![Prime Ministers the handbook names, from Walpole in 1721 to Cameron in 2010]({{ '/assets/img/history/prime-ministers.png' | relative_url }})
