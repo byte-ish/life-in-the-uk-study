@@ -107,7 +107,9 @@ for the current printing is published, use that instead.
    If the latest commit isn't building after a minute, trigger it:
    `gh api -X POST repos/byte-ish/life-in-the-uk-study/pages/builds`.
 3. Check the live pages: every table renders (no raw `|` text), new content is there, diagrams fit, and
-   Revision and Flashcards still load (they rebuild themselves from the chapter tables).
+   Revision, Flashcards and the Practice test still load (they rebuild themselves from the chapter tables).
+   Take one practice test and read the questions: wrong options come from other rows in the same table, so a
+   new row whose wording overlaps another (e.g. two events with the same name) can make a question unfair.
 4. Update **Current state** above and add a line to the **Review log**.
 5. If you keep a separate copy of a chapter elsewhere (e.g. a document of Chapter 3), update it too.
 
