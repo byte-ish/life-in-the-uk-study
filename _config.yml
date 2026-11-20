@@ -10,3 +10,8 @@ exclude:
   - README.md
   - LICENSE
   - LICENSE-CONTENT.md
+  - MAINTAINING.md
+  - CLAUDE.md
+  - prompts
+  - tools
+  - work

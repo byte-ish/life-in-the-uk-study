@@ -13,6 +13,7 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
 | `_layouts/default.html`, `assets/css/style.css` | Page layout and styling (light theme) |
 | `_includes/chapter-nav.html` | Previous / next links between chapter pages |
 | `assets/js/study.js` | Self-test mode, "On this page" menu and back-to-top on chapter pages |
+| `MAINTAINING.md`, `CLAUDE.md`, `prompts/`, `tools/` | How to keep the notes current, and the scripts for it (not published on the site) |
 | `assets/js/columns.js` | Which table columns are answers; shared by the self-test and the flashcards |
 
 ## Adding a chapter
@@ -51,6 +52,13 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
 - **Self-test bar** on chapter pages: Hide dates, Hide answers, and **★ Often asked only**, which hides every row that isn't gold.
 - **Revision page** (`revision.md`, `assets/js/revision.js`): collects every gold row from all chapter pages at load time, so new gold rows appear there automatically.
 - **Flashcards** (`flashcards.md`, `assets/js/flashcards.js`): one card per table row, built at load time. Answer columns go on the back. Got it / Again, with learned cards saved in the browser's localStorage.
+
+## Keeping it up to date
+
+The notes follow the current printing of the handbook. [MAINTAINING.md](MAINTAINING.md) has the yearly review:
+where official changes are published, how to check them, the tools in `tools/`, and a review log.
+[prompts/annual-review.md](prompts/annual-review.md) is a prompt for running the review with Claude, and
+[CLAUDE.md](CLAUDE.md) holds the rules Claude follows in this repo.
 
 ## Publishing
 
