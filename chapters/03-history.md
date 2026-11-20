@@ -20,7 +20,7 @@ This sheet follows Chapter 3 of the official handbook, *Life in the United Kingd
 - **Bold** = a key date or name.
 - Gold rows marked **★ Often asked** = the dates that come up most in practice tests. This is based on unofficial study guides, as the Home Office does not publish question data.
 - The handbook was written in 2013. The test still asks about what it says, so recent changes (Brexit, King Charles III) are not tested here.
-- A few reign dates and context dates are added for orientation; the handbook itself is the final word if anything differs.
+- Every date is the handbook's own. Where it gives no year, the When column says so in words ("Anglo-Saxon times", "By 1646").
 
 ![Six eras of British history with their anchor dates]({{ '/assets/img/history/eras-overview.png' | relative_url }})
 
@@ -42,15 +42,15 @@ Britain became an island about 10,000 years ago, and 1066 is the last successful
 | **55 BC**{: .hy} | Julius Caesar invades | Unsuccessful |
 | **AD 43**{: .hy} | Emperor **Claudius** invades | Successful; Romans stay about 400 years |
 | AD 43+ | **Boudicca**, queen of the Iceni (eastern England), fights the Romans | Statue on Westminster Bridge, London |
-| AD 122 onwards | **Hadrian's Wall** built | To keep out the Picts (ancestors of the Scottish); the handbook gives no year; forts Housesteads and Vindolanda; UNESCO World Heritage Site |
+| Roman times | **Hadrian's Wall** built | To keep out the Picts (ancestors of the Scottish); forts Housesteads and Vindolanda; UNESCO World Heritage Site |
 | **AD 410**{: .hy} | Romans leave to defend other parts of their empire | Left roads, public buildings, law, new plants and animals |
 | After 410 | Jutes, Angles and Saxons invade | Anglo-Saxon kingdoms by about AD 600; much of Wales, and Scotland, stay free |
-| AD 400s to 600s | Christian missionaries | **St Patrick** = Ireland; **St Columba** = Iona; **St Augustine** = first Archbishop of Canterbury |
-| ~AD 600s | **Sutton Hoo**, Suffolk | Anglo-Saxon king buried in a ship with treasure and armour |
+| Anglo-Saxon times | Christian missionaries | **St Patrick** = Ireland; **St Columba** = Iona; **St Augustine** = first Archbishop of Canterbury |
+| Anglo-Saxon times | **Sutton Hoo**, Suffolk | Anglo-Saxon king buried in a ship with treasure and armour |
 | **AD 789**{: .hy} | Vikings first raid, from Denmark and Norway | Settled in the **Danelaw** (east and north England); place names like Grimsby, Scunthorpe |
-| 800s | **Alfred the Great** defeats the Vikings | Anglo-Saxon kingdoms unite under him |
-| 800s | Viking threat unites the north under **Kenneth MacAlpin** | The word *Scotland* comes into use |
-| 1000s | Danish king **Cnut** (Canute) rules England | Short break in Anglo-Saxon rule |
+| Viking times | **Alfred the Great** defeats the Vikings | Anglo-Saxon kingdoms unite under him |
+| Viking times | Viking threat unites the north under **Kenneth MacAlpin** | The word *Scotland* comes into use |
+| Before 1066 | Danish king **Cnut** (Canute) rules England | Short break in Anglo-Saxon rule |
 | **1066**{: .hy} | **Battle of Hastings**: William, Duke of Normandy, beats Saxon king **Harold** (killed) | Norman Conquest; **Bayeux Tapestry**; William I "the Conqueror"; **Domesday Book** surveys every town and village; Norman French shapes English |
 
 ![Who came to Britain, from the first farmers to the Normans in 1066]({{ '/assets/img/history/invasions.png' | relative_url }})
@@ -68,18 +68,18 @@ The period runs from Hastings (1066) to Bosworth (1485), and Magna Carta (1215) 
 | Middle Ages | Parliament develops | **House of Lords** (nobles, landowners, bishops) and **House of Commons** (knights, wealthy townspeople); Scotland's had 3 Estates |
 | Middle Ages | Common law grows | Judges independent of government; law based on precedent |
 | Middle Ages | Building | Castles; cathedrals such as **Lincoln** and **York Minster**, with stained glass |
-| 1000s to 1200s | Crusades | European Christians fight for control of the Holy Land |
+| Middle Ages | Crusades | European Christians fight for control of the Holy Land |
+| Middle Ages | **Hundred Years War** with France | Actually lasted **116 years**; Agincourt (1415) was one of its most famous battles |
 | By 1200 | English rule in Ireland limited | Only **the Pale**, an area around Dublin |
 | **1215**{: .hy} | **Magna Carta** ("Great Charter") | Nobles force **King John** to agree; limits the king's power; even the king is subject to law |
 | **1284** | **Statute of Rhuddlan**: **Edward I** annexes Wales | Castles built at **Conwy** and **Caernarvon**; last Welsh rebellions defeated by the mid-1400s |
 | **1314**{: .hy} | **Battle of Bannockburn** | Scots under **Robert the Bruce** beat the English; Scotland stays unconquered |
-| **1337 to 1453** | **Hundred Years War** with France | Actually lasted **116 years** |
 | **1348**{: .hy} | **Black Death** | About **one third** of England's population dies; labour shortage, peasants demand higher wages; gentry class emerges |
-| Late 1300s | **Geoffrey Chaucer**, *The Canterbury Tales* | Pilgrims to Canterbury tell stories; in English |
+| Before 1400 | **Geoffrey Chaucer**, *The Canterbury Tales* | Pilgrims to Canterbury tell stories; in English |
+| Middle Ages | **William Caxton** | First person in England to print books using a printing press; *The Canterbury Tales* was one of the first |
 | **1415**{: .hy} | **Battle of Agincourt** | **Henry V** beats the French; English leave France by the 1450s |
 | **1455** | **Wars of the Roses** begin | House of **Lancaster** (red rose) vs House of **York** (white rose) |
-| Late 1400s | **William Caxton** | First printing press in England |
-| **1485**{: .hy} | **Battle of Bosworth Field** | **Richard III** (York) killed; **Henry Tudor** becomes **Henry VII**, marries Elizabeth of York; red-and-white **Tudor rose** |
+| **1485**{: .hy} | **Battle of Bosworth Field** | **Richard III** (York) killed; **Henry Tudor** becomes **Henry VII**, marries **Elizabeth of York** and unites the two families; the first king of the House of **Tudor** |
 
 ![Wars of the Roses: red rose plus white rose makes the Tudor rose]({{ '/assets/img/history/wars-of-the-roses.png' | relative_url }})
 
@@ -95,31 +95,32 @@ The break with Rome under Henry VIII and the Civil War of 1642 are the two big t
 | --- | --- | --- |
 | 1485 to 1509 | **Henry VII** | Strengthened central government, cut the power of the nobles |
 | 1509 to 1547 | **Henry VIII**{: .hy} breaks with Rome | Pope refused to annul his marriage, so he founded the **Church of England** with the king as head |
-| 1530s to 1540s | Henry VIII's **six wives** | Catherine of Aragon (divorced), Anne Boleyn (beheaded, mother of Elizabeth I), Jane Seymour (died, mother of Edward VI), Anne of Cleves (divorced), Catherine Howard (beheaded), Catherine Parr (survived) |
+| Henry VIII's reign | Henry VIII's **six wives** | Catherine of Aragon (divorced), Anne Boleyn (beheaded, mother of Elizabeth I), Jane Seymour (died, mother of Edward VI), Anne of Cleves (divorced), Catherine Howard (beheaded), Catherine Parr (survived) |
 | 1530s | **Act for the Government of Wales** | Wales formally united with England; Welsh MPs in the Commons |
-| 1500s | **Reformation** | Protestant churches break from the Pope; Protestants read the Bible in their own language |
-| 1547 to 1553 | **Edward VI** | Protestant; **Book of Common Prayer** written; died aged 15 |
-| 1553 to 1558 | **Mary I** ("Bloody Mary") | Catholic; persecuted Protestants |
-| **1558 to 1603** | **Elizabeth I** | Protestant; re-established the Church of England; never married |
+| 1530s | **Reformation** | Protestant churches break from the Pope; Protestants read the Bible in their own language |
+| 1547 | **Edward VI** | Protestant; **Book of Common Prayer** written; ruled just over six years and died aged 15 |
+| After Edward VI | **Mary I** ("Bloody Mary") | Catholic; persecuted Protestants; a short reign |
+| Until **1603** | **Elizabeth I** | Protestant; re-established the Church of England; never married |
 | **1564 to 1616** | **William Shakespeare** | Born **Stratford-upon-Avon**; plays and sonnets |
-| 1500s | **Sir Francis Drake** | Ship *Golden Hind*; one of the first ships to sail around the world; Drake also helped beat the Armada; settlers begin colonising America's east coast |
-| 1587 | **Mary, Queen of Scots** executed | Catholic; fled to England; held prisoner about 20 years; accused of plotting against Elizabeth |
+| Elizabeth I's reign | **Sir Francis Drake** | Ship *Golden Hind*; one of the first ships to sail around the world; Drake also helped beat the Armada; settlers begin colonising America's east coast |
+| Elizabeth I's reign | **Mary, Queen of Scots** executed | Catholic; fled to England; held prisoner for **20 years**; accused of plotting against Elizabeth |
 | **1588**{: .hy} | **Spanish Armada** defeated | Spain's fleet tried to conquer England and restore Catholicism |
 | **1603**{: .hy} | **James VI of Scotland** becomes **James I of England** | Son of Mary, Queen of Scots; crowns united, but Scotland stays a separate country |
-| 1600s | **King James Bible** (Authorised Version); **Ulster plantations** | Protestant settlers from England and Scotland in Ireland |
-| 1625 | **Charles I** | Believed in the **Divine Right of Kings**; clashed with Parliament |
+| James I's reign | **King James Bible** (Authorised Version); **Ulster plantations** | Protestant settlers from England and Scotland in Ireland |
+| After James I | **Charles I** | Like James I, believed in the **Divine Right of Kings**; clashed with Parliament |
 | **1642**{: .hy} | **English Civil War** begins | **Cavaliers** (king) vs **Roundheads** (Parliament) |
-| 1644 / 1645 | Battles of **Marston Moor** and **Naseby** | King's army defeated |
+| By 1646 | Battles of **Marston Moor** and **Naseby** | King's army defeated; by 1646 Parliament had won |
 | **1649**{: .hy} | **Charles I executed** | England becomes a republic, the **Commonwealth** |
-| 1653 to 1658 | **Oliver Cromwell**, **Lord Protector** | Brutal 1649 campaign in Ireland (e.g. Drogheda); defeated Scots who backed Charles II |
+| Until **1658** | **Oliver Cromwell**, **Lord Protector** | Brutal 1649 campaign in Ireland (e.g. Drogheda); defeated Charles II's Scots at Dunbar and Worcester |
+| **1656** | The first **Jews** to come to Britain since the Middle Ages settle in **London** | |
 | **1660**{: .hy} | **The Restoration**: **Charles II** | **Royal Society** founded, oldest surviving scientific society in the world |
-| 1643 to 1727 | **Isaac Newton** | Born Lincolnshire; *Principia Mathematica* (1687); gravity; white light is many colours |
+| 1643 to 1727 | **Isaac Newton** | Born Lincolnshire; *Principia Mathematica*: gravity applies to the whole universe; white light is many colours |
 | **1665 / 1666**{: .hy} | **Great Plague** / **Great Fire of London** | Recorded in **Samuel Pepys**' diary; **St Paul's Cathedral** rebuilt by **Sir Christopher Wren** |
 | **1679** | **Habeas Corpus Act** | Every prisoner has the right to a court hearing |
 | 1685 | **James II** | Catholic; unpopular |
 | **1688**{: .hy} | **Glorious Revolution** | Protestant **William of Orange** (married to James's daughter Mary) invades; James flees to France; no fighting in England |
 | **1690** | **Battle of the Boyne** (Ireland) | William III defeats James II; still celebrated by some in Northern Ireland |
-| 1692 | **Glencoe massacre** (Scotland) | Clan killed, women and children included, for being slow to swear loyalty to William |
+| William III's reign | **Glencoe massacre** (Scotland) | The MacDonalds of Glencoe were late taking the oath to William and were all killed |
 
 ![Three royal houses, 1485 to 1901: Tudors, Stuarts and Hanoverians]({{ '/assets/img/history/royal-houses.png' | relative_url }})
 
@@ -145,7 +146,7 @@ This era takes Britain from the Bill of Rights (1689) to the end of Queen Victor
 | 1714 | **George I** (from Hanover, Germany) | Queen Anne had no surviving children |
 | **1721 to 1742**{: .hy} | **Sir Robert Walpole** | **First Prime Minister** |
 | **1745 / 1746** | **Bonnie Prince Charlie** (Charles Edward Stuart, grandson of James II) rebels | Defeated at the **Battle of Culloden, 1746** |
-| 1700s to 1800s | **Highland Clearances** | Scottish landlords evict small farmers for sheep and cattle; many emigrate |
+| Early 1800s | **Highland Clearances** | Scottish landlords evict small farmers for sheep and cattle; many emigrate to North America |
 | 1759 to 1796 | **Robert Burns** | Scottish poet; *Auld Lang Syne* |
 | 1700s | **The Enlightenment** | **Adam Smith** (economics), **David Hume** (human nature), **James Watt** (steam power) |
 | 1700s to 1800s | **Industrial Revolution** | Britain first to industrialise; canals; **Bessemer process** for mass-produced steel |
@@ -168,6 +169,7 @@ This era takes Britain from the Bill of Rights (1689) to the end of Queen Victor
 | **1853 to 1856** | **Crimean War** | With Turkey and France against Russia; **Victoria Cross** introduced; **Florence Nightingale** (1820 to 1910) founds modern nursing, school at St Thomas' Hospital (1860) |
 | **1867** | **Second Reform Act** | More urban seats; more working men can vote |
 | 1870 and 1882 | Married women's property laws | Wives keep their own earnings and property |
+| 1870 to 1914 | Around **120,000 Russian and Polish Jews** come to Britain to escape persecution | Many settle in London's East End, Manchester and Leeds |
 | 1865 to 1936 | **Rudyard Kipling** | Born in India; *The Jungle Book*, *Just So Stories*, poem *If*; **Nobel Prize in Literature, 1907** |
 | 1899 to 1902 | **Boer War** (South Africa) | Against Dutch settlers (Boers); fuelled debate on the Empire's future |
 
@@ -179,7 +181,7 @@ Union Flag crosses: **St George** (red cross on white, England), **St Andrew** (
 ## 5. The 20th century (1900 to 1945)
 {: .era-5}
 
-Two world wars dominate this era: WWI ended at 11am on 11 November 1918, and WWII ended in Europe on 8 May 1945.
+Two world wars dominate this era: WWI ended at 11am on 11 November 1918, and the Allies defeated Germany in May 1945.
 
 | When | Event | Exam hook |
 | --- | --- | --- |
@@ -199,11 +201,13 @@ Two world wars dominate this era: WWI ended at 11am on 11 November 1918, and WWI
 | **1939**{: .hy} | Hitler invades Poland; Britain and France declare war | **Axis**: Germany, Italy, Japan |
 | **1940** | **Winston Churchill** becomes Prime Minister | Speeches rallied the nation; voted **Greatest Briton** in **2002** |
 | **1940** | **Dunkirk** evacuation | More than 300,000 men rescued, helped by civilian volunteers in small boats; "Dunkirk spirit" |
+| June 1940 to June 1941 | Britain and the Empire stand **almost alone** against Nazi Germany | Until Germany invades the Soviet Union |
 | **Summer 1940** | **Battle of Britain** (in the air) | **Spitfires** and **Hurricanes**; then the **Blitz** bombing of cities (London, Coventry) |
-| **Dec 1941** | Japan attacks **Pearl Harbor** | **USA** joins the war |
+| **December 1941** | Japan bombs the US naval base at **Pearl Harbour** | The **United States** enters the war |
 | **6 June 1944**{: .hy} | **D-Day**, Normandy | Allied invasion of occupied France |
-| **8 May 1945** | **VE Day** | War in Europe ends |
+| **May 1945** | The Allies **defeat Germany** | War in Europe ends |
 | **Aug 1945** | Atomic bombs on **Hiroshima** and **Nagasaki** | Japan surrenders; war ends |
+| Second World War | Scientists led by **Ernest Rutherford** were the first to **split the atom** | They took part in the Manhattan Project |
 
 ![The road to the vote: from Magna Carta in 1215 to equal votes in 1928]({{ '/assets/img/history/road-to-the-vote.png' | relative_url }})
 
@@ -234,6 +238,7 @@ The NHS (1948), joining the EEC (1973) and devolution (1999) are the anchor date
 | **1960s** | **"Swinging Sixties"** | The Beatles, the Rolling Stones; divorce and abortion laws relaxed; immigration laws tightened late in the decade |
 | **1969** | **The Troubles** begin in Northern Ireland | Over 3,000 people died in the decades that followed |
 | **1972** | NI Parliament suspended | Direct rule from London |
+| **1972** | **Mary Peters** (born 1939 in Manchester, moved to Northern Ireland as a child) wins **Olympic gold** in the **pentathlon** | Later raised money for local athletics |
 | Early 1970s | Britain admits **28,000** people of Indian origin forced to leave **Uganda** | Uganda, 28,000 |
 | **1973** | Britain joins the **EEC** | (Left the EU in 2020, not in the handbook) |
 | **1979 to 1990**{: .hy} | **Margaret Thatcher** | **First woman PM**; longest-serving PM of the 20th century; privatisation |
@@ -260,16 +265,17 @@ Dates are the year each first took office. The handbook stops at 2010, so later 
 | **John Logie Baird** (Scottish) | **Television** | 1920s; first TV broadcast London to Glasgow 1932 |
 | **Alan Turing** | **Turing machine**, basis of the computer | 1930s |
 | **Sir Robert Watson-Watt** | **Radar** | 1935 |
+| **Sir Bernard Lovell** | Radio telescope at **Jodrell Bank**, Cheshire | Work with radar led to his discoveries in astronomy |
 | **Sir Frank Whittle** | **Jet engine** | 1930s |
-| **John Macleod** (Scottish) | Co-discoverer of **insulin** | 1920s |
+| **John Macleod** (Scottish) | Co-discoverer of **insulin** | No date in the handbook |
 | **Francis Crick** (with others) | Structure of **DNA** | 1953 |
 | **Sir Christopher Cockerell** | **Hovercraft** | 1950s |
 | Britain and France | **Concorde** | First flew 1969; in service 1976 to 2003 |
-| British design | **Harrier jump jet** | 1960s |
-| **James Goodfellow** (Scottish) | **Cash machine (ATM)** and PIN | 1960s |
+| British design | **Harrier jump jet** | No date in the handbook |
+| **James Goodfellow** | **Cash machine (ATM)**, the "cashpoint" | 1960s; the first was used by Barclays in Enfield, north London, in 1967 |
 | **Robert Edwards** and **Patrick Steptoe** | **IVF**; first test-tube baby | 1978 |
-| **Sir Peter Mansfield** | **MRI** scanner | Late 20th century |
-| **Ian Wilmut** and **Keith Campbell** | **Dolly the sheep**, first cloned mammal | 1996, Roslin Institute |
+| **Sir Peter Mansfield** | **MRI** scanner (co-inventor) | No date in the handbook |
+| **Sir Ian Wilmot** and **Keith Campbell** | **Dolly the sheep**, first cloned mammal | 1996 (the handbook spells it Wilmot) |
 | **Sir Tim Berners-Lee** | **World Wide Web** | 1990 (first transfer 25 Dec 1990) |
 
 ## 7. Commonly confused pairs
@@ -281,7 +287,7 @@ Most wrong answers come from mixing up these pairs, so drill them last before th
 | --- | --- |
 | **Hastings 1066** vs **Bosworth 1485** | Hastings starts the Middle Ages (Normans win); Bosworth ends them (Tudors win) |
 | **Bannockburn 1314** vs **Culloden 1746** | Bannockburn: Scots **win** against England. Culloden: Jacobites **lose** |
-| **Marston Moor 1644** / **Naseby 1645** vs **Boyne 1690** | First two are Civil War in England; Boyne is William III vs James II in Ireland |
+| **Marston Moor** / **Naseby** vs **Boyne 1690** | First two are Civil War in England; Boyne is William III vs James II in Ireland |
 | **Glorious Revolution 1688** vs **Bill of Rights 1689** | Revolution = William takes the throne; Bill of Rights = Parliament's rights confirmed the year after |
 | **Act of Union 1707** vs **1801** | 1707 = England + Scotland = Great Britain. 1801 = + Ireland = United Kingdom, new Union Flag |
 | **Trafalgar 1805** vs **Waterloo 1815** | Trafalgar: sea, **Nelson** (died). Waterloo: land, **Wellington** beats Napoleon |
@@ -291,7 +297,7 @@ Most wrong answers come from mixing up these pairs, so drill them last before th
 | **Battle of Britain** vs **the Blitz** | Battle of Britain = air battle in summer 1940; the Blitz = German bombing of cities, 1940 to 1941 |
 | **Walpole** vs **Thatcher** | First Prime Minister (1721) vs first woman Prime Minister (1979) |
 | **St Patrick** / **St Columba** / **St Augustine** | Ireland / Iona / Canterbury |
-| **Lancaster** vs **York** | **Red** rose vs **white** rose; Tudor rose combines both |
+| **Lancaster** vs **York** | **Red** rose vs **white** rose; Henry VII (Lancaster) married Elizabeth of York and united the two families |
 | **Chaucer** vs **Caxton** | Chaucer **wrote** *The Canterbury Tales*; Caxton **printed** books |
 
 Henry VIII's wives in order: *divorced, beheaded, died, divorced, beheaded, survived*.
