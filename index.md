@@ -12,6 +12,7 @@ title: Chapters
 <div class="home-cards">
 <a class="revision-card" href="{{ '/revision/' | relative_url }}"><span class="rc-body"><strong>★ Revision</strong><br>Every often-asked fact from all five chapters on one page, with the self-test.</span><span class="rc-go">Start revising →</span></a>
 <a class="revision-card flash" href="{{ '/flashcards/' | relative_url }}"><span class="rc-body"><strong>Flashcards</strong><br>One fact at a time from every chapter table. Tracks what you've learned.</span><span class="rc-go">Start the cards →</span></a>
+<a class="revision-card practice" href="{{ '/practice/' | relative_url }}"><span class="rc-body"><strong>Practice test</strong><br>24 questions, 45 minutes, pass mark 75%. See what to revise.</span><span class="rc-go">Take a test →</span></a>
 </div>
 
 <ul class="chapters">

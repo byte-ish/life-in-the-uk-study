@@ -51,6 +51,7 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
 
 - **Self-test bar** on chapter pages: Hide dates, Hide answers, and **★ Often asked only**, which hides every row that isn't gold.
 - **Revision page** (`revision.md`, `assets/js/revision.js`): collects every gold row from all chapter pages at load time, so new gold rows appear there automatically.
+- **Practice test** (`practice.md`, `assets/js/practice.js`): 24 questions, 45 minutes, 75% pass mark, made from the chapter tables. Wrong options are other rows' facts from the same table; date options never overlap. All-chapter tests follow the spread of the official practice questions.
 - **Flashcards** (`flashcards.md`, `assets/js/flashcards.js`): one card per table row, built at load time. Answer columns go on the back. Got it / Again, with learned cards saved in the browser's localStorage.
 
 ## Keeping it up to date
