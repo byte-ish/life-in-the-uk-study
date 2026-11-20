@@ -266,6 +266,35 @@ img {
 .seg button:hover { color: var(--text); }
 .seg button[aria-pressed="true"] { background: #fff; color: var(--accent); font-weight: 700; box-shadow: 0 1px 3px rgb(16 24 40 / 0.15); }
 
+.only-hy {
+  min-height: 38px;
+  padding: 6px 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--muted);
+  font: inherit;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s;
+}
+.only-hy:hover { color: var(--text); }
+.only-hy[aria-pressed="true"] { background: var(--gold-bg); border-color: var(--gold-bar); color: var(--gold-text); font-weight: 700; }
+.only-hy .short { display: none; }
+body.only-hy tbody tr:not(:has(.hy)) { display: none; }
+body.only-hy .table-wrap:not(:has(.hy)) { display: none; }
+
+/* Revision page: every row is often asked, so drop the gold highlighting there */
+#revision tbody tr:has(.hy) { background: transparent; box-shadow: none; }
+#revision tbody tr:has(.hy):nth-child(even) { background: var(--stripe); }
+#revision tbody tr:has(.hy) td:first-child { box-shadow: none; }
+#revision tbody tr:has(.hy) td:first-child::after { display: none; }
+#revision h3 a { color: inherit; text-decoration: none; }
+#revision h3 a:hover { color: var(--accent); }
+.revision-card { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; margin: 28px 0 0; padding: 18px 22px; border: 1px solid var(--gold-bar); border-radius: var(--radius); background: var(--gold-bg); color: var(--text); text-decoration: none; }
+.revision-card strong { font-size: 18px; }
+.revision-card span { color: var(--gold-text); font-weight: 700; }
+
 [data-quiz="dates"] td.q-date:not(.shown),
 [data-quiz="hooks"] td.q-hook:not(.shown) {
   filter: blur(5px);
@@ -400,7 +429,10 @@ a.card:hover { transform: translateY(-2px); box-shadow: 0 2px 4px rgb(16 24 40 /
   .site-header { padding: 12px 16px; }
   .site-header nav a { padding: 6px 8px; font-size: 14px; }
   .study-bar { flex-wrap: nowrap; gap: 8px; margin: 16px -16px 8px; padding: 8px 16px; }
-  .study-bar .label { font-size: 14px; white-space: nowrap; }
+  .study-bar .label { display: none; }
+  .only-hy { padding: 6px 10px; font-size: 14px; white-space: nowrap; }
+  .only-hy .long { display: none; }
+  .only-hy .short { display: inline; }
   .study-bar .hint { display: none; }
   .seg button { padding: 6px 10px; font-size: 14px; white-space: nowrap; }
   h2, h3 { scroll-margin-top: 72px; }

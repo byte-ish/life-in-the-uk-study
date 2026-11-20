@@ -19,6 +19,7 @@
       <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Chapters</a>
       {% assign chapter_pages = site.pages | where_exp: "p", "p.chapter" | sort: "chapter" %}
       {% for p in chapter_pages %}<a href="{{ p.url | relative_url }}"{% if page.url == p.url %} aria-current="page"{% endif %}>{{ p.chapter }}. {{ p.nav_title }}</a>{% endfor %}
+      <a href="{{ '/revision/' | relative_url }}"{% if page.url == '/revision/' %} aria-current="page"{% endif %}>★ Revision</a>
     </nav>
   </header>
   <div class="page{% if page.chapter %} has-rail{% endif %}">

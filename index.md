@@ -9,6 +9,8 @@ title: Chapters
 
 <p class="lead">Cheat sheets, timelines and memory diagrams for the Life in the UK test, following the official handbook. One page per chapter, added over time.</p>
 
+<a class="revision-card" href="{{ '/revision/' | relative_url }}"><div><strong>★ Revision</strong><br>Every often-asked fact from all five chapters on one page, with the self-test.</div><span>Start revising →</span></a>
+
 <ul class="chapters">
   <li><a class="card" href="{{ '/values/' | relative_url }}"><div class="card-top"><span class="card-num">1</span><span class="chip ready">Ready</span></div><h2>The values and principles of the UK</h2><p>The five principles, five responsibilities and five freedoms, the citizenship pledge, settling in the UK and the test itself, with 2 diagrams and a self-test.</p><span class="go">Open the cheat sheet →</span></a></li>
   <li><a class="card" href="{{ '/what-is-the-uk/' | relative_url }}"><div class="card-top"><span class="card-num">2</span><span class="chip ready">Ready</span></div><h2>What is the UK?</h2><p>The UK vs Great Britain, Crown dependencies and overseas territories, the official name and who governs, with 2 diagrams and a self-test.</p><span class="go">Open the cheat sheet →</span></a></li>

@@ -45,6 +45,11 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
 6. In `index.md`, turn that chapter's `card soon` into an `a.card` link with a `Ready` chip
    (copy the Chapter 3 card).
 
+## Study features
+
+- **Self-test bar** on chapter pages: Hide dates, Hide answers, and **★ Often asked only**, which hides every row that isn't gold.
+- **Revision page** (`revision.md`, `assets/js/revision.js`): collects every gold row from all chapter pages at load time, so new gold rows appear there automatically.
+
 ## Publishing
 
 Settings → Pages → Build and deployment → Source: **Deploy from a branch**, branch `main`, folder `/ (root)`. Pages on a private repository needs GitHub Pro, Team or Enterprise.

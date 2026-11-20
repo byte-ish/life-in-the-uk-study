@@ -109,6 +109,30 @@
       var b = e.target.closest('button');
       if (b) setMode(b.dataset.mode);
     });
+
+    // "Often asked only": hide every row that isn't gold, for a quick last pass.
+    // Skipped where every row is gold already (the Revision page).
+    var allRows = content.querySelectorAll('tbody tr');
+    var goldRows = content.querySelectorAll('tbody tr .hy');
+    if (goldRows.length && goldRows.length < allRows.length) {
+      var only = document.createElement('button');
+      only.type = 'button';
+      only.className = 'only-hy';
+      only.innerHTML = '<span class="long">★ Often asked only</span><span class="short">★ Gold</span>';
+      only.setAttribute('aria-label', 'Show only often-asked rows');
+      var setOnly = function (on) {
+        document.body.classList.toggle('only-hy', on);
+        only.setAttribute('aria-pressed', String(on));
+        try { localStorage.setItem('only-hy', on ? '1' : '0'); } catch (e) {}
+      };
+      only.addEventListener('click', function () {
+        setOnly(!document.body.classList.contains('only-hy'));
+      });
+      bar.insertBefore(only, hint);
+      var savedOnly = false;
+      try { savedOnly = localStorage.getItem('only-hy') === '1'; } catch (e) {}
+      setOnly(savedOnly);
+    }
     var toggle = function (e) {
       var td = e.target.closest('td.q[tabindex]');
       if (td) td.classList.toggle('shown');
