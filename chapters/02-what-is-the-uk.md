@@ -84,7 +84,7 @@ The handbook defines three names, and explains how it uses "Britain" and "Britis
 | --- | --- | --- |
 | United Kingdom of Great Britain and Northern Ireland | **The official name**{: .hy} of the country | Great Britain **and** Northern Ireland |
 | Great Britain | **England, Scotland and Wales** only, **not**{: .hy} Northern Ireland | GB is three countries, the UK is four |
-| The UK | **England, Scotland, Wales and Northern Ireland** | Four countries |
+| The UK | **England, Scotland, Wales and Northern Ireland**{: .hy} | Four countries |
 | "Britain", "British Isles", "British" | Used **in the handbook** to refer to **everyone in the UK** | In this book they all mean the whole UK |
 
 Outside the handbook, "British Isles" usually means the whole group of islands, including Ireland. That isn't tested: for the test, go by the handbook.
@@ -101,11 +101,14 @@ Some places are closely linked to the UK but are not part of it.
 | Group | Examples | Handbook says | Exam hook |
 | --- | --- | --- | --- |
 | Crown dependencies | **Channel Islands**, **Isle of Man** | Closely linked with the UK but **not part of it**; they have **their own governments**{: .hy} | Close to home, own governments |
-| British overseas territories | **St Helena**, **Falkland Islands** | In **other parts of the world**; linked to the UK but **not part of it** | Overseas = far away |
+| British overseas territories | **St Helena**{: .hy}, **Falkland Islands** | In **other parts of the world**; linked to the UK but **not part of it** | Overseas = far away; a "choose two" favourite |
 | The rest of Ireland | (none) | An **independent country** | Not a Crown dependency or a territory |
 
 **C**hannel Islands and Isle of Man = **C**rown dependencies, **c**lose to home with their own governments. **O**verseas territories are in **o**ther parts of the world.
 {: .hook}
+
+Some questions ask you to choose **two** answers. The official practice questions do this for overseas territories: the two the handbook names are **St Helena** and the **Falkland Islands**.
+{: .note}
 
 ## 4. Who governs
 {: .era-none}
@@ -116,7 +119,7 @@ One parliament governs the whole UK, and three parts of it also have their own.
 | --- | --- | --- |
 | The UK | Governed by **the parliament sitting in Westminster**{: .hy} | Westminster = the whole UK |
 | Scotland, Wales and Northern Ireland | Also have **parliaments or assemblies** of their own, with **devolved powers in defined areas** | Devolved = some powers handed down, only in defined areas |
-| Their names (Chapter 5) | **Scottish Parliament**, **National Assembly for Wales**, **Northern Ireland Assembly** | Scotland has a parliament; Wales and Northern Ireland have assemblies |
+| Their names (Chapter 5) | **Scottish Parliament**, **National Assembly for Wales** (also called the **Welsh Assembly**), **Northern Ireland Assembly** | Scotland has a parliament; Wales and Northern Ireland have assemblies |
 | Today (not in the handbook) | The Welsh body has been called the **Senedd** (Welsh Parliament) since 2020 | For the test, use the handbook's name |
 
 <figure class="diagram">
@@ -147,7 +150,22 @@ The body names come from Chapter 5. Since 2020 the Welsh body has been called th
 **One** parliament for the whole UK at Westminster, plus **three** devolved bodies: one each for Scotland, Wales and Northern Ireland.
 {: .hook}
 
-## 5. Commonly confused
+## 5. Linked facts from other chapters
+{: .era-none}
+
+Questions on these places often draw on other chapters too. These facts are tested from the chapters listed.
+
+| Fact | Chapter | Exam hook |
+| --- | --- | --- |
+| **1801**: Act of Union with Ireland makes the **United Kingdom of Great Britain and Ireland** | [3](../history/) | The old name, before Ireland split |
+| **1922**: Ireland splits; **Northern Ireland** stays in the UK, the south becomes the **Irish Free State** | [3](../history/) | Why today's name ends "and Northern Ireland" |
+| Union Flag: crosses of **St George**, **St Andrew** and **St Patrick**; Wales is not on it | [3](../history/) | Three crosses, three countries; not Wales |
+| **1982**: Falklands War; British forces recover the islands | [3](../history/) | The Falkland Islands are an overseas territory |
+| **1999**: the **Scottish Parliament** and the **Welsh Assembly** are established | 3, 5 | Devolution's anchor date |
+| The National Assembly for Wales is based in **Cardiff**, the capital city of Wales | 5 | Wales: Cardiff |
+| Capital cities, patron saints and national days, languages, banknotes, landmarks | 4 | Covered on the Chapter 4 page, coming next |
+
+## 6. Commonly confused
 {: .era-none}
 
 Most wrong answers in this chapter come from mixing up the UK and Great Britain, or the two kinds of linked places.
