@@ -53,7 +53,40 @@ Britain became an island about 10,000 years ago, and 1066 is the last successful
 | Before 1066 | Danish king **Cnut** (Canute) rules England | Short break in Anglo-Saxon rule |
 | **1066**{: .hy} | **Battle of Hastings**: William, Duke of Normandy, beats Saxon king **Harold** (killed) | Norman Conquest; **Bayeux Tapestry**; William I "the Conqueror"; **Domesday Book** surveys every town and village; Norman French shapes English |
 
-![Who came to Britain, from the first farmers to the Normans in 1066]({{ '/assets/img/history/invasions.png' | relative_url }})
+<figure class="diagram">
+<svg viewBox="0 0 1000 430" role="img" aria-labelledby="d14-title d14-desc">
+<title id="d14-title">Who came to Britain: the Normans were the last to conquer England</title>
+<desc id="d14-desc">First farmers about 6,000 years ago; the Romans in AD 43 under Claudius, leaving in AD 410; the Jutes, Angles and Saxons after AD 410; the Vikings from AD 789; the Normans in 1066, the last successful foreign invasion of England.</desc>
+<text class="t-title" x="24" y="32">Who came to Britain: the Normans were the last to conquer England</text>
+<text class="t-sub" x="24" y="54">From the first farmers to 1066</text>
+<path d="M200 101.0V381.0" style="stroke:var(--line);stroke-width:2"/>
+<text class="t-item" x="176" y="106.0" text-anchor="end" style="font-weight:700">~6,000 years ago</text>
+<circle cx="200" cy="101.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="72" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="96">First farmers</text>
+<text class="t-sub" x="242" y="117">Probably from south-east Europe</text>
+<text class="t-item" x="176" y="176.0" text-anchor="end" style="font-weight:700">AD 43</text>
+<circle cx="200" cy="171.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="142" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="166">Romans, under Emperor Claudius</text>
+<text class="t-sub" x="242" y="187">Julius Caesar failed in 55 BC; the Romans stayed about 400 years and left in AD 410</text>
+<text class="t-item" x="176" y="246.0" text-anchor="end" style="font-weight:700">After AD 410</text>
+<circle cx="200" cy="241.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="212" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="236">Jutes, Angles and Saxons</text>
+<text class="t-sub" x="242" y="257">Anglo-Saxon kingdoms by about AD 600; much of what is now Wales, and Scotland, stayed free</text>
+<text class="t-item" x="176" y="316.0" text-anchor="end" style="font-weight:700">AD 789</text>
+<circle cx="200" cy="311.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="282" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="306">Vikings, from Denmark and Norway</text>
+<text class="t-sub" x="242" y="327">Settled in the Danelaw; Alfred the Great defeated them</text>
+<text class="t-item" x="176" y="386.0" text-anchor="end" style="font-weight:700">1066</text>
+<circle cx="200" cy="381.0" r="8" style="fill:var(--era, var(--accent))"/>
+<rect x="224" y="352" width="752" height="58" rx="10" style="fill:color-mix(in srgb, var(--era, var(--accent)) 7%, #fff);stroke:var(--era, var(--accent));stroke-width:1.5"/>
+<text class="t-head" x="242" y="376">Normans, under William, Duke of Normandy</text>
+<text class="t-sub" x="242" y="397">Battle of Hastings: King Harold killed; the last successful foreign invasion of England</text>
+</svg>
+</figure>
 
 **F**armers, **R**omans, **A**nglo-Saxons, **V**ikings, **N**ormans.
 {: .hook}
@@ -81,7 +114,25 @@ The period runs from Hastings (1066) to Bosworth (1485), and Magna Carta (1215) 
 | **1455** | **Wars of the Roses** begin | House of **Lancaster** (red rose) vs House of **York** (white rose) |
 | **1485**{: .hy} | **Battle of Bosworth Field** | **Richard III** (York) killed; **Henry Tudor** becomes **Henry VII**, marries **Elizabeth of York** and unites the two families; the first king of the House of **Tudor** |
 
-![Wars of the Roses: red rose plus white rose makes the Tudor rose]({{ '/assets/img/history/wars-of-the-roses.png' | relative_url }})
+<figure class="diagram">
+<svg viewBox="0 0 1000 300" role="img" aria-labelledby="d13-title d13-desc">
+<title id="d13-title">The Wars of the Roses</title>
+<desc id="d13-desc">The House of Lancaster (red rose) and the House of York (white rose) fought the Wars of the Roses. The war ended at the Battle of Bosworth Field in 1485, where King Richard III of York was killed and Henry Tudor, leader of the House of Lancaster, became King Henry VII. Henry married King Richard&#x27;s niece, Elizabeth of York, uniting the two families. He was the first king of the House of Tudor.</desc>
+<defs><marker id="d13-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#a3aab6"/></marker></defs>
+<text class="t-title" x="24" y="32">The Wars of the Roses: two houses become one</text>
+<text class="t-sub" x="24" y="54">The war ended with the Battle of Bosworth Field in 1485.</text>
+<rect x="24" y="78" width="300" height="82" rx="10" style="fill:#fdecee;stroke:#be123c;stroke-width:1.5"/>
+<text class="t-head" x="42" y="108" style="fill:#be123c">House of Lancaster</text><text class="t-sub" x="42" y="132">Symbol: a red rose</text><text class="t-sub" x="42" y="150">Henry Tudor was its leader</text>
+<rect class="box" x="24" y="184" width="300" height="82" rx="10" style="stroke:#a3aab6"/>
+<text class="t-head" x="42" y="214">House of York</text><text class="t-sub" x="42" y="238">Symbol: a white rose</text><text class="t-sub" x="42" y="256">King Richard III</text>
+<path class="wire" d="M326 119H350V170H372" marker-end="url(#d13-arrow)"/><path class="wire" d="M326 225H350V176H372" marker-end="url(#d13-arrow)"/>
+<rect class="box" x="376" y="120" width="290" height="104" rx="10"/>
+<text class="t-head" x="394" y="150">1485: Bosworth Field</text><text class="t-sub" x="394" y="174">Richard III (York) killed</text><text class="t-sub" x="394" y="194">Henry Tudor becomes Henry VII</text>
+<path class="wire" d="M668 172H700" marker-end="url(#d13-arrow)"/>
+<rect x="704" y="110" width="272" height="124" rx="10" style="fill:color-mix(in srgb, var(--era, var(--accent)) 7%, #fff);stroke:var(--era, var(--accent));stroke-width:1.5"/>
+<text class="t-head" x="722" y="140">The House of Tudor</text><text class="t-sub" x="722" y="164">Henry VII marries Elizabeth</text><text class="t-sub" x="722" y="184">of York, Richard’s niece, and</text><text class="t-sub" x="722" y="204">unites the two families</text>
+</svg>
+</figure>
 
 **L**ancaster = **L**ipstick red; **Y**ork = **Y**oghurt white.
 {: .hook}
@@ -122,9 +173,66 @@ The break with Rome under Henry VIII and the Civil War of 1642 are the two big t
 | **1690** | **Battle of the Boyne** (Ireland) | William III defeats James II; still celebrated by some in Northern Ireland |
 | William III's reign | **Glencoe massacre** (Scotland) | The MacDonalds of Glencoe were late taking the oath to William and were all killed |
 
-![Three royal houses, 1485 to 1901: Tudors, Stuarts and Hanoverians]({{ '/assets/img/history/royal-houses.png' | relative_url }})
+<figure class="diagram">
+<svg viewBox="0 0 1000 596" role="img" aria-labelledby="d12-title d12-desc">
+<title id="d12-title">Monarchs the handbook names, 1485 to 1901</title>
+<desc id="d12-desc">Tudors from 1485: Henry VII, Henry VIII, Edward VI, Mary I, Elizabeth I. Stuarts from 1603: James I, Charles I, then no monarch under Oliver Cromwell, Charles II, James II, William III and Mary, Anne. From 1714: George I, George II, Victoria (1837 to 1901). The handbook does not name the monarchs between George II and Victoria.</desc>
+<text class="t-title" x="24" y="32">Monarchs the handbook names, 1485 to 1901</text>
+<text class="t-sub" x="24" y="54">Read each column top to bottom. Only dates the handbook gives are shown.</text>
+<text class="t-head" x="24" y="88">Tudors, from 1485</text>
+<rect x="24" y="104" width="308" height="56" rx="10" class="box"/>
+<text class="t-head" x="40" y="127">Henry VII</text>
+<text class="t-sub" x="40" y="147">Won at Bosworth, 1485; first Tudor</text>
+<rect x="24" y="170" width="308" height="56" rx="10" class="box"/>
+<text class="t-head" x="40" y="193">Henry VIII</text>
+<text class="t-sub" x="40" y="213">1509 to 1547; Church of England</text>
+<rect x="24" y="236" width="308" height="56" rx="10" class="box"/>
+<text class="t-head" x="40" y="259">Edward VI</text>
+<text class="t-sub" x="40" y="279">Book of Common Prayer; died aged 15</text>
+<rect x="24" y="302" width="308" height="56" rx="10" class="box"/>
+<text class="t-head" x="40" y="325">Mary I</text>
+<text class="t-sub" x="40" y="345">Catholic; known as ‘Bloody Mary’</text>
+<rect x="24" y="368" width="308" height="56" rx="10" style="fill:color-mix(in srgb, var(--era, var(--accent)) 7%, #fff);stroke:var(--era, var(--accent));stroke-width:1.5"/>
+<text class="t-head" x="40" y="391">Elizabeth I</text>
+<text class="t-sub" x="40" y="411">Armada defeated, 1588; died 1603</text>
+<text class="t-head" x="346" y="88">Stuarts, from 1603</text>
+<rect x="346" y="104" width="308" height="56" rx="10" class="box"/>
+<text class="t-head" x="362" y="127">James I</text>
+<text class="t-sub" x="362" y="147">James VI of Scotland; King James Bible</text>
+<rect x="346" y="170" width="308" height="56" rx="10" class="box"/>
+<text class="t-head" x="362" y="193">Charles I</text>
+<text class="t-sub" x="362" y="213">Civil War from 1642; executed 1649</text>
+<rect x="346" y="236" width="308" height="56" rx="10" class="box-soft" style="stroke-dasharray:6 4"/>
+<text class="t-head" x="362" y="259">No monarch</text>
+<text class="t-sub" x="362" y="279">Cromwell, Lord Protector, until 1658</text>
+<rect x="346" y="302" width="308" height="56" rx="10" class="box"/>
+<text class="t-head" x="362" y="325">Charles II</text>
+<text class="t-sub" x="362" y="345">The Restoration, May 1660; died 1685</text>
+<rect x="346" y="368" width="308" height="56" rx="10" class="box"/>
+<text class="t-head" x="362" y="391">James II</text>
+<text class="t-sub" x="362" y="411">Catholic; fled to France in 1688</text>
+<rect x="346" y="434" width="308" height="56" rx="10" class="box"/>
+<text class="t-head" x="362" y="457">William III and Mary</text>
+<text class="t-sub" x="362" y="477">Bill of Rights, 1689; ruled jointly</text>
+<rect x="346" y="500" width="308" height="56" rx="10" class="box"/>
+<text class="t-head" x="362" y="523">Anne</text>
+<text class="t-sub" x="362" y="543">No surviving children; died 1714</text>
+<text class="t-head" x="668" y="88">From 1714</text>
+<rect x="668" y="104" width="308" height="56" rx="10" class="box"/>
+<text class="t-head" x="684" y="127">George I</text>
+<text class="t-sub" x="684" y="147">German; Walpole became first PM</text>
+<rect x="668" y="170" width="308" height="56" rx="10" class="box"/>
+<text class="t-head" x="684" y="193">George II</text>
+<text class="t-sub" x="684" y="213">His army won at Culloden, 1746</text>
+<rect x="668" y="236" width="308" height="56" rx="10" style="fill:color-mix(in srgb, var(--era, var(--accent)) 7%, #fff);stroke:var(--era, var(--accent));stroke-width:1.5"/>
+<text class="t-head" x="684" y="259">Victoria</text>
+<text class="t-sub" x="684" y="279">1837 to 1901: almost 64 years</text>
+<text class="t-sub" x="668" y="322">The handbook does not name the</text>
+<text class="t-sub" x="668" y="340">monarchs between George II and Victoria.</text>
+</svg>
+</figure>
 
-The Tudors: two Henrys, then Henry VIII's three children, *Edward, Mary, Elizabeth*. Reign dates are for orientation; the test rarely asks them.
+The Tudors: two Henrys, then Henry VIII's three children, *Edward, Mary, Elizabeth*.
 {: .hook}
 
 ![Henry VIII's six wives in order: divorced, beheaded, died, divorced, beheaded, survived]({{ '/assets/img/history/henry-viii-wives.png' | relative_url }})
@@ -209,12 +317,113 @@ Two world wars dominate this era: WWI ended at 11am on 11 November 1918, and the
 | **Aug 1945** | Atomic bombs on **Hiroshima** and **Nagasaki** | Japan surrenders; war ends |
 | Second World War | Scientists led by **Ernest Rutherford** were the first to **split the atom** | They took part in the Manhattan Project |
 
-![The road to the vote: from Magna Carta in 1215 to equal votes in 1928]({{ '/assets/img/history/road-to-the-vote.png' | relative_url }})
+<figure class="diagram">
+<svg viewBox="0 0 1000 710" role="img" aria-labelledby="d15-title d15-desc">
+<title id="d15-title">The road to the vote, 1215 to 1969</title>
+<desc id="d15-desc">1215 Magna Carta; 1689 Bill of Rights; 1832 Reform Act; the Chartists in the 1830s and 1840s; 1867 Reform Act; 1903 the WSPU; 1918 women over 30; 1928 men and women over 21; 1969 voting age 18.</desc>
+<text class="t-title" x="24" y="32">The road to the vote, 1215 to 1969</text>
+<text class="t-sub" x="24" y="54">Every date is from the handbook (Chapters 3 and 5).</text>
+<path d="M200 101.0V661.0" style="stroke:var(--line);stroke-width:2"/>
+<text class="t-item" x="176" y="106.0" text-anchor="end" style="font-weight:700">1215</text>
+<circle cx="200" cy="101.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="72" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="96">Magna Carta</text>
+<text class="t-sub" x="242" y="117">Even the king is subject to the law</text>
+<text class="t-item" x="176" y="176.0" text-anchor="end" style="font-weight:700">1689</text>
+<circle cx="200" cy="171.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="142" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="166">Bill of Rights</text>
+<text class="t-sub" x="242" y="187">Confirms Parliament&#x27;s rights and limits the king&#x27;s power</text>
+<text class="t-item" x="176" y="246.0" text-anchor="end" style="font-weight:700">1832</text>
+<circle cx="200" cy="241.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="212" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="236">Reform Act</text>
+<text class="t-sub" x="242" y="257">Greatly increases the number of voters; abolishes pocket and rotten boroughs</text>
+<text class="t-item" x="176" y="316.0" text-anchor="end" style="font-weight:700">1830s-1840s</text>
+<circle cx="200" cy="311.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="282" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="306">The Chartists</text>
+<text class="t-sub" x="242" y="327">Campaign for six changes, including a vote for every man and secret ballots</text>
+<text class="t-item" x="176" y="386.0" text-anchor="end" style="font-weight:700">1867</text>
+<circle cx="200" cy="381.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="352" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="376">Another Reform Act</text>
+<text class="t-sub" x="242" y="397">More urban seats; less property needed to vote</text>
+<text class="t-item" x="176" y="456.0" text-anchor="end" style="font-weight:700">1903</text>
+<circle cx="200" cy="451.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="422" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="446">The WSPU</text>
+<text class="t-sub" x="242" y="467">Emmeline Pankhurst helps found it; its members were the first called suffragettes</text>
+<text class="t-item" x="176" y="526.0" text-anchor="end" style="font-weight:700">1918</text>
+<circle cx="200" cy="521.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="492" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="516">Women over 30 can vote</text>
+<text class="t-sub" x="242" y="537">And can stand for Parliament</text>
+<text class="t-item" x="176" y="596.0" text-anchor="end" style="font-weight:700">1928</text>
+<circle cx="200" cy="591.0" r="8" style="fill:var(--era, var(--accent))"/>
+<rect x="224" y="562" width="752" height="58" rx="10" style="fill:color-mix(in srgb, var(--era, var(--accent)) 7%, #fff);stroke:var(--era, var(--accent));stroke-width:1.5"/>
+<text class="t-head" x="242" y="586">Men and women over 21 can vote</text>
+<text class="t-sub" x="242" y="607">A fully democratic voting system</text>
+<text class="t-item" x="176" y="666.0" text-anchor="end" style="font-weight:700">1969</text>
+<circle cx="200" cy="661.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="632" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="656">Voting age 18</text>
+<text class="t-sub" x="242" y="677">For men and women</text>
+</svg>
+</figure>
 
 **1918** = women over 30 (the war just ended); **1928** = ten years later, equal at 21.
 {: .hook}
 
-![World War II in eight dates, 1939 to 1945]({{ '/assets/img/history/ww2.png' | relative_url }})
+<figure class="diagram">
+<svg viewBox="0 0 1000 640" role="img" aria-labelledby="d16-title d16-desc">
+<title id="d16-title">The Second World War in the handbook&#x27;s dates</title>
+<desc id="d16-desc">1939 Hitler invades Poland; May 1940 Churchill becomes Prime Minister; 1940 Dunkirk, more than 300,000 rescued; summer 1940 Battle of Britain; December 1941 Pearl Harbour; 6 June 1944 D-Day; May 1945 Germany defeated; August 1945 Hiroshima and Nagasaki.</desc>
+<text class="t-title" x="24" y="32">The Second World War in the handbook&#x27;s dates</text>
+<text class="t-sub" x="24" y="54">1939 to 1945</text>
+<path d="M200 101.0V591.0" style="stroke:var(--line);stroke-width:2"/>
+<text class="t-item" x="176" y="106.0" text-anchor="end" style="font-weight:700">1939</text>
+<circle cx="200" cy="101.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="72" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="96">Hitler invades Poland</text>
+<text class="t-sub" x="242" y="117">Britain and France declare war</text>
+<text class="t-item" x="176" y="176.0" text-anchor="end" style="font-weight:700">May 1940</text>
+<circle cx="200" cy="171.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="142" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="166">Churchill becomes Prime Minister</text>
+<text class="t-sub" x="242" y="187">Britain&#x27;s war leader; refused to surrender</text>
+<text class="t-item" x="176" y="246.0" text-anchor="end" style="font-weight:700">1940</text>
+<circle cx="200" cy="241.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="212" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="236">Dunkirk</text>
+<text class="t-sub" x="242" y="257">More than 300,000 men rescued, helped by civilians in small boats</text>
+<text class="t-item" x="176" y="316.0" text-anchor="end" style="font-weight:700">Summer 1940</text>
+<circle cx="200" cy="311.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="282" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="306">The Battle of Britain</text>
+<text class="t-sub" x="242" y="327">Spitfires and Hurricanes win the air battle; the Blitz on cities follows</text>
+<text class="t-item" x="176" y="386.0" text-anchor="end" style="font-weight:700">Dec 1941</text>
+<circle cx="200" cy="381.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="352" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="376">Pearl Harbour</text>
+<text class="t-sub" x="242" y="397">Japan bombs the US naval base; the United States enters the war</text>
+<text class="t-item" x="176" y="456.0" text-anchor="end" style="font-weight:700">6 June 1944</text>
+<circle cx="200" cy="451.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="422" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="446">D-Day</text>
+<text class="t-sub" x="242" y="467">Allied forces land in Normandy</text>
+<text class="t-item" x="176" y="526.0" text-anchor="end" style="font-weight:700">May 1945</text>
+<circle cx="200" cy="521.0" r="8" style="fill:var(--era, var(--accent))"/>
+<rect x="224" y="492" width="752" height="58" rx="10" style="fill:color-mix(in srgb, var(--era, var(--accent)) 7%, #fff);stroke:var(--era, var(--accent));stroke-width:1.5"/>
+<text class="t-head" x="242" y="516">The Allies defeat Germany</text>
+<text class="t-sub" x="242" y="537">The war in Europe ends</text>
+<text class="t-item" x="176" y="596.0" text-anchor="end" style="font-weight:700">Aug 1945</text>
+<circle cx="200" cy="591.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="562" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="586">Hiroshima and Nagasaki</text>
+<text class="t-sub" x="242" y="607">Atom bombs; the war against Japan ends</text>
+</svg>
+</figure>
 
 1940 is Britain's year of standing alone (Churchill, Dunkirk, Battle of Britain); 1941 brings in the USA.
 {: .hook}
@@ -233,6 +442,7 @@ The NHS (1948), joining the EEC (1973) and devolution (1999) are the anchor date
 | **1947** | Independence for **India**, **Pakistan** and **Ceylon** (Sri Lanka) | Handbook puts all three in 1947 (Ceylon was actually Feb 1948) |
 | **1948**{: .hy} | **NHS** founded | **Aneurin (Nye) Bevan**, Minister for Health |
 | 1949 | Britain a founding member of **NATO** | Also developed its own atomic bomb |
+| 1951 to 1964 | **Conservative** government; the 1950s bring economic recovery | **Harold Macmillan**'s "wind of change" speech about decolonisation |
 | 1950s | Migration to fill labour shortages | Workers from the **West Indies**, **India**, **Pakistan**, later **Bangladesh** |
 | 1950s | **Dylan Thomas** (1914 to 1953) | Welsh poet; *Under Milk Wood* |
 | **1960s** | **"Swinging Sixties"** | The Beatles, the Rolling Stones; divorce and abortion laws relaxed; immigration laws tightened late in the decade |
@@ -253,9 +463,67 @@ The NHS (1948), joining the EEC (1973) and devolution (1999) are the anchor date
 | **2009** | British combat troops leave **Iraq** | Left Iraq 2009 |
 | **2010** | **Coalition** government | Conservative and Liberal Democrat; **David Cameron** PM |
 
-![Prime Ministers the handbook names, from Walpole in 1721 to Cameron in 2010]({{ '/assets/img/history/prime-ministers.png' | relative_url }})
+<figure class="diagram">
+<svg viewBox="0 0 1000 780" role="img" aria-labelledby="d17-title d17-desc">
+<title id="d17-title">Prime Ministers the handbook names</title>
+<desc id="d17-desc">Walpole 1721 to 1742, the first Prime Minister; Wellington, later; Churchill from May 1940 and again from 1951; Attlee 1945 to 1951; Macmillan in the 1950s; Thatcher from 1979 to 1990, the first woman Prime Minister; John Major; Tony Blair 1997; Gordon Brown 2007; David Cameron 2010.</desc>
+<text class="t-title" x="24" y="32">Prime Ministers the handbook names</text>
+<text class="t-sub" x="24" y="54">Two firsts to remember: Walpole and Thatcher</text>
+<path d="M200 101.0V731.0" style="stroke:var(--line);stroke-width:2"/>
+<text class="t-item" x="176" y="106.0" text-anchor="end" style="font-weight:700">1721</text>
+<circle cx="200" cy="101.0" r="8" style="fill:var(--era, var(--accent))"/>
+<rect x="224" y="72" width="752" height="58" rx="10" style="fill:color-mix(in srgb, var(--era, var(--accent)) 7%, #fff);stroke:var(--era, var(--accent));stroke-width:1.5"/>
+<text class="t-head" x="242" y="96">Sir Robert Walpole</text>
+<text class="t-sub" x="242" y="117">The first Prime Minister, until 1742</text>
+<text class="t-item" x="176" y="176.0" text-anchor="end" style="font-weight:700">After 1815</text>
+<circle cx="200" cy="171.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="142" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="166">The Duke of Wellington</text>
+<text class="t-sub" x="242" y="187">The Iron Duke, who beat Napoleon at Waterloo, later became Prime Minister</text>
+<text class="t-item" x="176" y="246.0" text-anchor="end" style="font-weight:700">May 1940</text>
+<circle cx="200" cy="241.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="212" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="236">Winston Churchill</text>
+<text class="t-sub" x="242" y="257">Wartime leader; lost the 1945 election; Prime Minister again from 1951</text>
+<text class="t-item" x="176" y="316.0" text-anchor="end" style="font-weight:700">1945</text>
+<circle cx="200" cy="311.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="282" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="306">Clement Attlee</text>
+<text class="t-sub" x="242" y="327">Labour, 1945 to 1951: the welfare state and the NHS</text>
+<text class="t-item" x="176" y="386.0" text-anchor="end" style="font-weight:700">1950s</text>
+<circle cx="200" cy="381.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="352" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="376">Harold Macmillan</text>
+<text class="t-sub" x="242" y="397">Known for his &#x27;wind of change&#x27; speech about decolonisation</text>
+<text class="t-item" x="176" y="456.0" text-anchor="end" style="font-weight:700">1979</text>
+<circle cx="200" cy="451.0" r="8" style="fill:var(--era, var(--accent))"/>
+<rect x="224" y="422" width="752" height="58" rx="10" style="fill:color-mix(in srgb, var(--era, var(--accent)) 7%, #fff);stroke:var(--era, var(--accent));stroke-width:1.5"/>
+<text class="t-head" x="242" y="446">Margaret Thatcher</text>
+<text class="t-sub" x="242" y="467">The first woman Prime Minister; the longest-serving of the 20th century, until 1990</text>
+<text class="t-item" x="176" y="526.0" text-anchor="end" style="font-weight:700">After 1990</text>
+<circle cx="200" cy="521.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="492" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="516">John Major</text>
+<text class="t-sub" x="242" y="537">Helped establish the Northern Ireland peace process</text>
+<text class="t-item" x="176" y="596.0" text-anchor="end" style="font-weight:700">1997</text>
+<circle cx="200" cy="591.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="562" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="586">Tony Blair</text>
+<text class="t-sub" x="242" y="607">Labour; a Scottish Parliament and a Welsh Assembly</text>
+<text class="t-item" x="176" y="666.0" text-anchor="end" style="font-weight:700">2007</text>
+<circle cx="200" cy="661.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="632" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="656">Gordon Brown</text>
+<text class="t-sub" x="242" y="677">Took over from Tony Blair</text>
+<text class="t-item" x="176" y="736.0" text-anchor="end" style="font-weight:700">2010</text>
+<circle cx="200" cy="731.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="702" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="726">David Cameron</text>
+<text class="t-sub" x="242" y="747">A Conservative and Liberal Democrat coalition</text>
+</svg>
+</figure>
 
-Dates are the year each first took office. The handbook stops at 2010, so later Prime Ministers are not tested.
+Dates are when each took office, as the handbook gives them. The handbook stops at 2010, so later Prime Ministers are not tested.
 {: .note}
 
 ### British inventions and discoveries (name to invention)
