@@ -19,7 +19,7 @@ This sheet follows Chapter 3 of the official handbook, *Life in the United Kingd
 
 - **Bold** = a key date or name.
 - Gold rows marked **★ Often asked** = the dates that come up most in practice tests. This is based on unofficial study guides, as the Home Office does not publish question data.
-- The handbook was written in 2013. The test still asks about what it says, so recent changes (Brexit, King Charles III) are not tested here.
+- This sheet follows the handbook's 2013 text, which ends with the 2010 coalition government. Later events, such as Brexit and King Charles III, are not covered here. Newer printings of the handbook may already include some of these changes, so if your copy differs from this sheet, follow your copy.
 - Every date is the handbook's own. Where it gives no year, the When column says so in words ("Anglo-Saxon times", "By 1646").
 
 <figure class="diagram">
@@ -647,7 +647,7 @@ The NHS (1948), joining the EEC (1973) and devolution (1999) are the anchor date
 </svg>
 </figure>
 
-Dates are when each took office, as the handbook gives them. The handbook stops at 2010, so later Prime Ministers are not tested.
+Dates are when each took office, as the handbook gives them. The 2013 text stops at 2010, so later Prime Ministers are not listed.
 {: .note}
 
 ### British inventions and discoveries (name to invention)

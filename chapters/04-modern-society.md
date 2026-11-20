@@ -20,7 +20,7 @@ This sheet follows Chapter 4 of the official handbook, *Life in the United Kingd
 - Chapter 4 is a big part of the test: **119 of the 390** official 2013 practice questions come from it.
 - **Bold** = a key name, date or number. Gold rows marked **★ Often asked** = topics the official practice questions ask about, most of them more than once.
 - Most tables here match a name to a fact. Use **Hide answers** to test yourself: the name stays visible and the fact is blurred.
-- Rows marked **Today (not in the handbook)** show changes since 2013. They are not tested.
+- Rows marked **Today (not in the handbook)** show changes since 2013. Newer printings of the handbook may already include some of these changes, so if your copy differs from this sheet, follow your copy.
 
 <figure class="diagram">
 <svg viewBox="0 0 1000 650" role="img" aria-labelledby="d5-title d5-desc">

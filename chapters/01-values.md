@@ -19,7 +19,7 @@ This sheet follows Chapter 1 of the official handbook, *Life in the United Kingd
 
 - Chapter 1 has almost no dates, so most tables here are numbered lists with an exam hook for each item.
 - **Bold** = a key word or number. Gold rows marked **★ Often asked** = what comes up most in practice tests. This is based on unofficial study guides, as the Home Office does not publish question data.
-- The handbook was written in 2013. Where the rules have changed since, the row says **Today (not in the handbook)**. Those rows are not tested.
+- The handbook was written in 2013. Where the rules have changed since, the row says **Today (not in the handbook)**. Newer printings of the handbook may already include some of these changes, so if your copy differs from this sheet, follow your copy.
 
 <figure class="diagram">
 <svg viewBox="0 0 1000 504" role="img" aria-labelledby="d1-title d1-desc">
@@ -213,7 +213,7 @@ What the handbook says about the test itself.
 | "Check that you understand" boxes | A guide only: knowing just these **will not be enough to pass** | Read the whole handbook |
 | Glossary | Key words and phrases, at the back of the handbook | Use it for unfamiliar terms |
 
-Not in the handbook, so not tested. [GOV.UK](https://www.gov.uk/life-in-the-uk-test) says that today you have **45 minutes** for the 24 questions, you need **75%** to pass (18 of 24), it costs **£50**, you must book at least **3 days** ahead, and there are **over 30** test centres. You don't need to take the test if you are under 18 or 65 or over.
+Not in the 2013 handbook text. [GOV.UK](https://www.gov.uk/life-in-the-uk-test) says that today you have **45 minutes** for the 24 questions, you need **75%** to pass (18 of 24), it costs **£50**, you must book at least **3 days** ahead, and there are **over 30** test centres. You don't need to take the test if you are under 18 or 65 or over.
 {: .note}
 
 **24** questions, about **60** centres, bring **ID and proof of address**, in English, Welsh or Scottish Gaelic.

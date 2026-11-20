@@ -19,7 +19,7 @@ This sheet follows Chapter 2 of the official handbook, *Life in the United Kingd
 
 - Chapter 2 has no dates, so the tables sort places and names. Use **Hide answers** to test yourself on each yes/no.
 - **Bold** = a key word. Gold rows marked **★ Often asked** = what comes up most in practice tests. This is based on unofficial study guides, as the Home Office does not publish question data.
-- Rows marked **Today (not in the handbook)** show changes since 2013. They are not tested.
+- Rows marked **Today (not in the handbook)** show changes since 2013. Newer printings of the handbook may already include some of these changes, so if your copy differs from this sheet, follow your copy.
 
 <figure class="diagram">
 <svg viewBox="0 0 1000 372" role="img" aria-labelledby="d3-title d3-desc">
@@ -120,7 +120,7 @@ One parliament governs the whole UK, and three parts of it also have their own.
 | The UK | Governed by **the parliament sitting in Westminster**{: .hy} | Westminster = the whole UK |
 | Scotland, Wales and Northern Ireland | Also have **parliaments or assemblies** of their own, with **devolved powers in defined areas** | Devolved = some powers handed down, only in defined areas |
 | Their names (Chapter 5) | **Scottish Parliament**, **National Assembly for Wales** (also called the **Welsh Assembly**), **Northern Ireland Assembly** | Scotland has a parliament; Wales and Northern Ireland have assemblies |
-| Today (not in the handbook) | The Welsh body has been called the **Senedd** (Welsh Parliament) since 2020 | For the test, use the handbook's name |
+| Today (not in the handbook) | The Welsh body has been called the **Senedd** (Welsh Parliament) since 2020 | The 2013 text uses the older names |
 
 <figure class="diagram">
 <svg viewBox="0 0 1000 252" role="img" aria-labelledby="d4-title d4-desc">
@@ -177,7 +177,7 @@ Most wrong answers in this chapter come from mixing up the UK and Great Britain,
 | **Crown dependencies** vs **British overseas territories** | Crown dependencies: Channel Islands and Isle of Man, with their own governments. Overseas territories: e.g. St Helena and the Falkland Islands, in other parts of the world. **Neither** is part of the UK |
 | **Today's official name** vs **the 1801 name** | United Kingdom of Great Britain and **Northern Ireland** (today) vs United Kingdom of Great Britain and **Ireland** (1801, Chapter 3) |
 | **Westminster** vs **devolved** bodies | Westminster governs the whole UK; Scotland, Wales and Northern Ireland have parliaments or assemblies with powers in defined areas |
-| **"British Isles"** in the handbook vs in geography | The handbook uses it for everyone in the UK; geography usually includes Ireland too (not tested) |
+| **"British Isles"** in the handbook vs in geography | The handbook uses it for everyone in the UK; geography usually includes Ireland too |
 
 If a question asks whether a place is "part of the UK", only England, Scotland, Wales and Northern Ireland are. The Channel Islands, the Isle of Man, St Helena and the Falkland Islands are only *linked*.
 {: .hook}
