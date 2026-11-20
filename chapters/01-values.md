@@ -207,13 +207,13 @@ What the handbook says about the test itself.
 | Questions | **24**{: .hy} questions, different for each person at that test session | 24, like the hours in a day |
 | Based on | **All parts**{: .hy} of the handbook, including the introduction | Every chapter can come up |
 | Language | Usually **English**{: .hy}; special arrangements can be made for **Welsh** or **Scottish Gaelic** | English, Welsh or Scottish Gaelic only |
-| Where | Only at a **registered and approved** Life in the UK test centre; **about 60** around the UK | 60 centres, 24 questions |
+| Where | Only at a **registered and approved** Life in the UK test centre; **about 60** around the UK | 60 centres, 24 questions. Today: GOV.UK says over 30 centres |
 | Booking | **Online only**, at www.lifeintheuktest.gov.uk (the handbook's address) | Today: book through GOV.UK, the only official booking service |
-| What to bring | **Identification** and **proof of address**; without them you cannot take the test | Today: check GOV.UK's list of accepted ID before the day |
+| What to bring | **Identification** and **proof of address**; without them you cannot take the test | Today: GOV.UK says bring the same original ID you booked with; your photo is taken on the day |
 | "Check that you understand" boxes | A guide only: knowing just these **will not be enough to pass** | Read the whole handbook |
 | Glossary | Key words and phrases, at the back of the handbook | Use it for unfamiliar terms |
 
-Not in the handbook, so not tested: as listed on GOV.UK and test guides in 2026, the test takes **45 minutes**, you pass with **18 of 24** correct (75%), and it costs **£50**. Check GOV.UK before booking.
+Not in the handbook, so not tested. [GOV.UK](https://www.gov.uk/life-in-the-uk-test) says that today you have **45 minutes** for the 24 questions, you need **75%** to pass (18 of 24), it costs **£50**, you must book at least **3 days** ahead, and there are **over 30** test centres. You don't need to take the test if you are under 18 or 65 or over.
 {: .note}
 
 **24** questions, about **60** centres, bring **ID and proof of address**, in English, Welsh or Scottish Gaelic.
