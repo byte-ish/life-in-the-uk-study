@@ -413,6 +413,8 @@ a.card:hover { transform: translateY(-2px); box-shadow: 0 2px 4px rgb(16 24 40 /
   tr { padding: 12px 16px; border-bottom: 1px solid var(--line); }
   tbody tr:last-child { border-bottom: 0; }
   td { padding: 2px 0; border: 0; }
+  tbody tr:has(.hy) { box-shadow: inset 4px 0 0 var(--gold-bar); }
+  tbody tr:has(.hy) td:first-child { box-shadow: none; }
   td:first-child { white-space: normal; font-weight: 700; margin-bottom: 2px; } /* key dates keep their era colour via strong */
   td[data-label]:not(:first-child)::before {
     content: attr(data-label);
