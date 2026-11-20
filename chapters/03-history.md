@@ -19,7 +19,9 @@ This sheet follows Chapter 3 of the official handbook, *Life in the United Kingd
 
 - **Bold** = a key date or name.
 - Gold rows marked **★ Often asked** = the dates that come up most in practice tests. This is based on unofficial study guides, as the Home Office does not publish question data.
-- This sheet follows the handbook's 2013 text, which ends with the 2010 coalition government. Later events, such as Brexit and King Charles III, are not covered here. Newer printings of the handbook may already include some of these changes, so if your copy differs from this sheet, follow your copy.
+- Updated to the **current printing** (3rd edition, 28th impression, 2026), using the text of the 2019 printing and TSO's [list of amendments](https://tsoshop.co.uk/gempdf/Life_in_the_UK_latest_impression_amendments%20050126.pdf) since then. Where a figure changed, the row says what older printings said.
+- The history chapter ends in **2016**, when Theresa May became Prime Minister. If your copy differs from this sheet, follow your copy.
+- The handbook says you **will not need to remember dates of birth or death**, so the years in brackets after people's names are for context only.
 - Every date is the handbook's own. Where it gives no year, the When column says so in words ("Anglo-Saxon times", "By 1646").
 
 <figure class="diagram">
@@ -95,7 +97,7 @@ Britain became an island about 10,000 years ago, and 1066 is the last successful
 | After 410 | Jutes, Angles and Saxons invade | Anglo-Saxon kingdoms by about AD 600; much of Wales, and Scotland, stay free |
 | Anglo-Saxon times | Christian missionaries | **St Patrick** = Ireland; **St Columba** = Iona; **St Augustine** = first Archbishop of Canterbury |
 | Anglo-Saxon times | **Sutton Hoo**, Suffolk | Anglo-Saxon king buried in a ship with treasure and armour |
-| **AD 789**{: .hy} | Vikings first raid, from Denmark and Norway | Settled in the **Danelaw** (east and north England); place names like Grimsby, Scunthorpe |
+| **AD 789**{: .hy} | Vikings first raid, from **Denmark, Norway and Sweden** | Settled in the **Danelaw** (east and north England); place names like Grimsby, Scunthorpe |
 | Viking times | **Alfred the Great** defeats the Vikings | Anglo-Saxon kingdoms unite under him |
 | Viking times | Viking threat unites the north under **Kenneth MacAlpin** | The word *Scotland* comes into use |
 | Before 1066 | Danish king **Cnut** (Canute) rules England | Short break in Anglo-Saxon rule |
@@ -126,7 +128,7 @@ Britain became an island about 10,000 years ago, and 1066 is the last successful
 <text class="t-item" x="176" y="316.0" text-anchor="end" style="font-weight:700">AD 789</text>
 <circle cx="200" cy="311.0" r="6" style="fill:#c3c8d1"/>
 <rect x="224" y="282" width="752" height="58" rx="10" class="box"/>
-<text class="t-head" x="242" y="306">Vikings, from Denmark and Norway</text>
+<text class="t-head" x="242" y="306">Vikings, from Denmark, Norway and Sweden</text>
 <text class="t-sub" x="242" y="327">Settled in the Danelaw; Alfred the Great defeated them</text>
 <text class="t-item" x="176" y="386.0" text-anchor="end" style="font-weight:700">1066</text>
 <circle cx="200" cy="381.0" r="8" style="fill:var(--era, var(--accent))"/>
@@ -146,6 +148,7 @@ The period runs from Hastings (1066) to Bosworth (1485), and Magna Carta (1215) 
 
 | When | Event | Exam hook |
 | --- | --- | --- |
+| AD 476 to 1485 | The **Middle Ages** (medieval period), broadly: from the end of the Roman Empire to 1485 | The handbook focuses on the time after the Norman Conquest |
 | Middle Ages | Parliament develops | **House of Lords** (nobles, landowners, bishops) and **House of Commons** (knights, wealthy townspeople); Scotland's had 3 Estates |
 | Middle Ages | Common law grows | Judges independent of government; law based on precedent |
 | Middle Ages | Building | Castles; cathedrals such as **Lincoln** and **York Minster**, with stained glass |
@@ -362,7 +365,7 @@ This era takes Britain from the Bill of Rights (1689) to the end of Queen Victor
 | 19th century | The **Irish Nationalist** movement grows | The **Fenians** want complete independence; **Charles Stuart Parnell** wants **Home Rule**: Ireland stays in the UK but has its own parliament |
 | **1846** | **Corn Laws repealed** | Cheaper imported grain; free trade |
 | 1847 | Working day for women and children limited to 10 hours | Factory reform |
-| **1851** | **Great Exhibition**, **Crystal Palace**, Hyde Park | Showed off British industry |
+| **1851** | **Great Exhibition** in Hyde Park, in the **Crystal Palace**, a huge building of **iron and glass** | Showed off British industry; most objects were made in Britain |
 | **1853 to 1856** | **Crimean War** | With Turkey and France against Russia; **Victoria Cross** introduced; **Florence Nightingale** (1820 to 1910) founds modern nursing; in **1860** she set up the **Nightingale Training School** for nurses at **St Thomas' Hospital**, London, the first of its kind |
 | **1867** | **Second Reform Act** | More urban seats; more working men can vote |
 | 1870 and 1882 | Married women's property laws | Wives keep their own earnings and property |
@@ -439,7 +442,7 @@ Two world wars dominate this era: WWI ended at 11am on 11 November 1918, and the
 | **6 June 1944**{: .hy} | **D-Day**, Normandy | Allied invasion of occupied France |
 | **May 1945** | The Allies **defeat Germany** | War in Europe ends |
 | **Aug 1945** | Atomic bombs on **Hiroshima** and **Nagasaki** | Japan surrenders; war ends |
-| Second World War | Scientists led by **Ernest Rutherford** were the first to **split the atom** | They took part in the Manhattan Project |
+| Second World War | Scientists led by New Zealand-born **Ernest Rutherford** were the first to **split the atom** | Some British scientists went on to the **Manhattan Project** in the US, which developed the atomic bomb |
 
 <figure class="diagram">
 <svg viewBox="0 0 1000 710" role="img" aria-labelledby="d15-title d15-desc">
@@ -575,7 +578,7 @@ The NHS (1948), joining the EEC (1973) and devolution (1999) are the anchor date
 | **1972** | **Mary Peters** (born 1939 in Manchester, moved to Northern Ireland as a child) wins **Olympic gold** in the **pentathlon** | Later raised money for local athletics |
 | Early 1970s | Britain admits **28,000** people of Indian origin forced to leave **Uganda** | Uganda, 28,000 |
 | **1973** | Britain joins the **EEC** | (Left the EU in 2020, not in the handbook) |
-| **1979 to 1990**{: .hy} | **Margaret Thatcher** | **First woman PM**; longest-serving PM of the 20th century; privatisation |
+| **1979 to 1990**{: .hy} | **Margaret Thatcher** (1925–2013) | **First woman PM**; longest-serving PM of the 20th century; privatisation |
 | **1982** | **Falklands War** | Argentina invades; British forces recover the islands |
 | 1990 to 1997 | **John Major** | Helped start the Northern Ireland peace process |
 | 1990s | Britain helps liberate **Kuwait** after Iraq's 1990 invasion; conflict in the former Yugoslavia | Coalition forces |
@@ -586,14 +589,16 @@ The NHS (1948), joining the EEC (1973) and devolution (1999) are the anchor date
 | 2007 to 2010 | **Gordon Brown** | |
 | **2009** | British combat troops leave **Iraq** | Left Iraq 2009 |
 | **2010** | **Coalition** government | Conservative and Liberal Democrat; **David Cameron** PM |
+| **7 May 2015** | General election: a **Conservative majority** | David Cameron stays Prime Minister |
+| **13 July 2016** | **Theresa May** succeeds David Cameron as Prime Minister | |
 
 <figure class="diagram">
-<svg viewBox="0 0 1000 780" role="img" aria-labelledby="d17-title d17-desc">
+<svg viewBox="0 0 1000 850" role="img" aria-labelledby="d17-title d17-desc">
 <title id="d17-title">Prime Ministers the handbook names</title>
-<desc id="d17-desc">Walpole 1721 to 1742, the first Prime Minister; Wellington, later; Churchill from May 1940 and again from 1951; Attlee 1945 to 1951; Macmillan in the 1950s; Thatcher from 1979 to 1990, the first woman Prime Minister; John Major; Tony Blair 1997; Gordon Brown 2007; David Cameron 2010.</desc>
+<desc id="d17-desc">Walpole 1721 to 1742, the first Prime Minister; Wellington, later; Churchill from May 1940 and again from 1951; Attlee 1945 to 1951; Macmillan in the 1950s; Thatcher from 1979 to 1990, the first woman Prime Minister; John Major; Tony Blair 1997; Gordon Brown 2007; David Cameron 2010, with a Conservative majority from 2015; Theresa May 2016.</desc>
 <text class="t-title" x="24" y="32">Prime Ministers the handbook names</text>
 <text class="t-sub" x="24" y="54">Two firsts to remember: Walpole and Thatcher</text>
-<path d="M200 101.0V731.0" style="stroke:var(--line);stroke-width:2"/>
+<path d="M200 101.0V801.0" style="stroke:var(--line);stroke-width:2"/>
 <text class="t-item" x="176" y="106.0" text-anchor="end" style="font-weight:700">1721</text>
 <circle cx="200" cy="101.0" r="8" style="fill:var(--era, var(--accent))"/>
 <rect x="224" y="72" width="752" height="58" rx="10" style="fill:color-mix(in srgb, var(--era, var(--accent)) 7%, #fff);stroke:var(--era, var(--accent));stroke-width:1.5"/>
@@ -643,11 +648,16 @@ The NHS (1948), joining the EEC (1973) and devolution (1999) are the anchor date
 <circle cx="200" cy="731.0" r="6" style="fill:#c3c8d1"/>
 <rect x="224" y="702" width="752" height="58" rx="10" class="box"/>
 <text class="t-head" x="242" y="726">David Cameron</text>
-<text class="t-sub" x="242" y="747">A Conservative and Liberal Democrat coalition</text>
+<text class="t-sub" x="242" y="747">A coalition in 2010; a Conservative majority in 2015</text>
+<text class="t-item" x="176" y="806.0" text-anchor="end" style="font-weight:700">2016</text>
+<circle cx="200" cy="801.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="772" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="796">Theresa May</text>
+<text class="t-sub" x="242" y="817">Succeeded David Cameron on 13 July 2016</text>
 </svg>
 </figure>
 
-Dates are when each took office, as the handbook gives them. The 2013 text stops at 2010, so later Prime Ministers are not listed.
+Dates are when each took office, as the handbook gives them. The history chapter stops at Theresa May (2016), so later Prime Ministers are not listed.
 {: .note}
 
 ### British inventions and discoveries (name to invention)
@@ -667,7 +677,7 @@ Dates are when each took office, as the handbook gives them. The 2013 text stops
 | **James Goodfellow** | **Cash machine (ATM)**, the "cashpoint" | 1960s; the first was used by Barclays in Enfield, north London, in 1967 |
 | **Robert Edwards** and **Patrick Steptoe** | **IVF**; first test-tube baby | 1978 |
 | **Sir Peter Mansfield** | **MRI** scanner (co-inventor) | No date in the handbook |
-| **Sir Ian Wilmot** and **Keith Campbell** | **Dolly the sheep**, first cloned mammal | 1996 (the handbook spells it Wilmot) |
+| **Sir Ian Wilmut** (1944–2023) and **Keith Campbell** | **Dolly the sheep**, first cloned mammal | 1996. Older printings spell it Wilmot; the current printing adds his death ([University of Edinburgh](https://vet.ed.ac.uk/roslin/news-events/archive/2023/dolly-the-sheep-pioneer-ian-wilmut-dies)) |
 | **Sir Tim Berners-Lee** | **World Wide Web** | 1990 (first transfer 25 Dec 1990) |
 
 ## 7. Commonly confused pairs

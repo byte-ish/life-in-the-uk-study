@@ -19,13 +19,15 @@ This sheet follows Chapter 5 of the official handbook, *Life in the United Kingd
 
 - Chapter 5 is a big part of the test: **121 of the 390** official 2013 practice questions come from it.
 - **Bold** = a key name, date or number. Gold rows marked **★ Often asked** = topics the official practice questions ask about, most of them more than once.
-- **This is the chapter most changed since 2013.** TSO says the handbook's sections on the UK's EU membership and on Queen Elizabeth II and the monarchy "have been removed from subsequent prints" ([TSO](https://tsoshop.co.uk/article/636421/Life-in-the-United-Kingdom-A-Guide-for-New-Residents-3rd-Edition)). So this sheet leaves out the EU material, and shows the 2013 monarchy wording next to today's. Newer printings may word these parts differently: **if your copy of the handbook differs from this sheet, follow the handbook.**
+- **This is the chapter most changed since 2013.** TSO says the handbook's sections on the UK's EU membership and on Queen Elizabeth II and the monarchy "have been removed from subsequent prints" ([TSO](https://tsoshop.co.uk/article/636421/Life-in-the-United-Kingdom-A-Guide-for-New-Residents-3rd-Edition)). TSO's [list of amendments](https://tsoshop.co.uk/gempdf/Life_in_the_UK_latest_impression_amendments%20050126.pdf) shows that printings from the 23rd impression say **the King**, with a paragraph on Queen Elizabeth II's death. So this sheet leaves out the EU material, and shows the 2013 monarchy wording next to today's. Newer printings may word these parts differently: **if your copy of the handbook differs from this sheet, follow the handbook.**
+- Updated to the **current printing** (3rd edition, 28th impression, 2026), using the text of the 2019 printing and TSO's [list of amendments](https://tsoshop.co.uk/gempdf/Life_in_the_UK_latest_impression_amendments%20050126.pdf) since then. Where a figure changed, the row says what older printings said.
+- The current printing also updates how to contact elected members, the electoral register, polling stations, the Scottish Parliament and applying for a National Insurance number online, and removes the National Citizen Service.
 - Rows marked **Today (not in the handbook)** show changes since 2013, each checked online and linked. Newer printings of the handbook may already include some of these changes, so if your copy differs from this sheet, follow your copy.
 
 <figure class="diagram">
 <svg viewBox="0 0 1000 470" role="img" aria-labelledby="d9-title d9-desc">
 <title id="d9-title">How the UK is governed</title>
-<desc id="d9-desc">The monarch is head of state but does not rule. Parliament has two chambers: the House of Commons, with MPs elected for each constituency by first past the post at a General Election held at least every five years, and the House of Lords, with peers who are not elected, most of them now life peers. The government is the Prime Minister and a cabinet of about 20 senior MPs, formed by the party with most MPs or a coalition; the opposition is the second-largest party, with a shadow cabinet. Devolved bodies: the Scottish Parliament in Edinburgh with 129 MSPs, the National Assembly for Wales in Cardiff with 60 AMs, and the Northern Ireland Assembly at Stormont, Belfast, with 108 MLAs. Local government is run by elected councils.</desc>
+<desc id="d9-desc">The monarch is head of state but does not rule. Parliament has two chambers: the House of Commons, with MPs elected for each constituency by first past the post at a General Election held at least every five years, and the House of Lords, with peers who are not elected, most of them now life peers. The government is the Prime Minister and a cabinet of about 20 senior MPs, formed by the party with most MPs or a coalition; the opposition is the second-largest party, with a shadow cabinet. Devolved bodies: the Scottish Parliament in Edinburgh with 129 MSPs, the Senedd in Cardiff with 60 MSs, and the Northern Ireland Assembly at Stormont, Belfast, with 108 MLAs. Local government is run by elected councils.</desc>
 <defs><marker id="d9-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#a3aab6"/></marker></defs>
 <text class="t-title" x="24" y="32">How the UK is governed: a parliamentary democracy</text>
 <rect x="360" y="50" width="280" height="60" rx="10" style="fill:color-mix(in srgb, var(--era-2) 8%, #fff);stroke:var(--era-2);stroke-width:1.5"/>
@@ -49,7 +51,7 @@ This sheet follows Chapter 5 of the official handbook, *Life in the United Kingd
 <text class="t-item" x="616" y="256" style="font-size:13px">Prime Minister's Questions every week</text>
 <text class="t-cap" x="24" y="306">DEVOLVED (SINCE 1999): POWERS IN DEFINED AREAS</text>
 <rect class="box" x="24" y="316" width="306" height="64" rx="10"/><text class="t-head" x="40" y="342">Scottish Parliament</text><text class="t-sub" x="40" y="364">Edinburgh (Holyrood) · 129 MSPs</text>
-<rect class="box" x="347" y="316" width="306" height="64" rx="10"/><text class="t-head" x="363" y="342">National Assembly for Wales</text><text class="t-sub" x="363" y="364">Cardiff (the Senedd) · 60 AMs</text>
+<rect class="box" x="347" y="316" width="306" height="64" rx="10"/><text class="t-head" x="363" y="342">Senedd (Welsh Parliament)</text><text class="t-sub" x="363" y="364">Cardiff (the Senedd) · 60 MSs</text>
 <rect class="box" x="670" y="316" width="306" height="64" rx="10"/><text class="t-head" x="686" y="342">Northern Ireland Assembly</text><text class="t-sub" x="686" y="364">Stormont, Belfast · 108 MLAs</text>
 <rect class="box-soft" x="24" y="396" width="952" height="56" rx="10"/>
 <text class="t-head" x="40" y="420">Local government</text>
@@ -57,7 +59,7 @@ This sheet follows Chapter 5 of the official handbook, *Life in the United Kingd
 </svg>
 </figure>
 
-The numbers of members are the handbook's (2013). Since 2020 the Welsh body has been called the **Senedd** ([Senedd](https://senedd.wales/senedd-now/news/senedd-cymru-and-welsh-parliament-names-become-law/)), and the Northern Ireland Assembly now has **90** seats, not 108 ([Wikipedia](https://en.wikipedia.org/wiki/1998_Northern_Ireland_Assembly_election)). Neither change is tested.
+The current printing calls the Welsh members **Members of the Senedd (MSs)**; older printings say National Assembly for Wales and AMs. Since the May 2026 election the Senedd has **96** members ([Senedd](https://senedd.wales/how-we-work/our-role/senedd-election-and-member-changes)), and the Northern Ireland Assembly now has **90** seats, not 108 ([Wikipedia](https://en.wikipedia.org/wiki/1998_Northern_Ireland_Assembly_election)).
 {: .note}
 
 ## 1. Democracy and the constitution
@@ -107,7 +109,7 @@ The UK is a parliamentary democracy with the monarch as head of state, and a **c
 | National Anthem: **"God Save the Queen"** | **"God Save the King"**, now that the monarch is a king ([royal.uk](https://www.royal.uk/national-anthem)) | Only "Queen" became "King" and the pronouns changed |
 | Allegiance to "Her Majesty Queen Elizabeth the Second, her Heirs and Successors" | Allegiance to "King Charles III, his Heirs and Successors" ([GOV.UK guidance](https://assets.publishing.service.gov.uk/media/645a174cc6e8970012a0fadf/Citizenship_Ceremonies_Guidance_Notes_2023.pdf)) | |
 
-A prep site reports that the handbook was updated on 15 June 2023 to say "King" instead of "Queen" ([thelifeinuktest.co.uk](https://www.thelifeinuktest.co.uk/new-3rd-edition-test/)). Recent printings of the handbook may use this updated wording, so check the printing you are studying from.
+TSO's [list of amendments](https://tsoshop.co.uk/gempdf/Life_in_the_UK_latest_impression_amendments%20050126.pdf) confirms that printings from the 23rd impression change every reference to the Queen to the King and add a paragraph on Queen Elizabeth II's death; the 26th removes the word "Consort".
 {: .note}
 
 The monarch's three verbs with the Prime Minister: **advise, warn, encourage**. The decisions belong to the PM and cabinet.
@@ -175,13 +177,13 @@ The party with the most MPs forms the government, led by the Prime Minister.
 | --- | --- | --- |
 | Devolution | Since **1997**, some powers devolved to give Wales, Scotland and Northern Ireland **more control over matters that directly affect them**{: .hy}; a Welsh Assembly and Scottish Parliament since **1999** | Each has its own civil service |
 | Kept by the UK government | **Defence, foreign affairs, immigration, taxation, social security** | Many other services, e.g. **education**, are devolved |
-| National Assembly for Wales | In **Cardiff**{: .hy}; **60** Assembly members (AMs); elections every **four** years by proportional representation; members speak Welsh or English; laws in **20** areas, e.g. education and training, health and social services, economic development, housing | Since **2011** it can pass laws on these without the UK Parliament's agreement |
+| The Senedd (Welsh Parliament) | In **Cardiff**{: .hy}; **60** Members of the Senedd (**MSs**; older printings: Assembly members, AMs); elections every **four** years by proportional representation; members speak Welsh or English; laws in **20** areas, e.g. education and training, health and social services, economic development, housing | Since **2011** it can pass laws on these without the UK Parliament's agreement |
 | Scottish Parliament | Formed in **1999**; sits in **Edinburgh**{: .hy} (Holyrood); **129** MSPs, elected by proportional representation; can pass laws on **all matters not reserved** to the UK Parliament, e.g. civil and criminal law, health, education, planning, additional tax-raising powers | |
 | Northern Ireland Parliament | Established in **1922** when Ireland was divided; **abolished in 1972**, shortly after the Troubles broke out in 1969 | |
 | Northern Ireland Assembly | Established soon after the **Belfast (Good Friday) Agreement** of **1998**; **power-sharing**; **108** MLAs, by proportional representation; decides e.g. education, **agriculture**, the environment, health, **social services**{: .hy} | The UK government can suspend devolved assemblies; NI's has run successfully since **2007** |
 | Buildings | Welsh Assembly building opened **March 2006**; Scottish Parliament building opened **October 2004**; NI Assembly building: **Stormont** | From the handbook's photo captions |
 
-**Who sits where**: Wales in **Cardiff** (60 AMs), Scotland in **Edinburgh** (129 MSPs), Northern Ireland at **Stormont** in Belfast (108 MLAs). The UK government keeps defence, foreign affairs, immigration, taxation and social security.
+**Who sits where**: Wales in **Cardiff** (60 MSs), Scotland in **Edinburgh** (129 MSPs), Northern Ireland at **Stormont** in Belfast (108 MLAs). The UK government keeps defence, foreign affairs, immigration, taxation and social security.
 {: .hook}
 
 ## 5. Voting and standing for office
@@ -191,7 +193,7 @@ The UK has had a fully democratic voting system since **1928**, and the present 
 
 | Topic | Handbook says | Exam hook |
 | --- | --- | --- |
-| Who can vote | UK-born and naturalised adult citizens; and **citizens of the Commonwealth and the Irish Republic**{: .hy} resident in the UK, in all public elections | |
+| Who can vote | UK-born and naturalised adult citizens; and **citizens of the Commonwealth and Ireland**{: .hy} resident in the UK, in all public elections | |
 | The electoral register | You must be **on the register**{: .hy} to vote; register through your **local council electoral registration office** | Find yours at www.aboutmyvote.co.uk |
 | Updating the register | Every year in **September or October**; a form goes to **every household** | |
 | Northern Ireland | **"Individual registration"**{: .hy}: everyone entitled to vote completes their own form | |
@@ -200,10 +202,10 @@ The UK has had a fully democratic voting system since **1928**, and the present 
 | At the polling station | Give your name and address (in Northern Ireland, also **photo ID**); mark your ballot paper privately in a polling booth; no one can make you vote for a particular candidate | |
 | Postal ballot | Register for one if it's hard to get to a polling station | |
 | Today (not in the handbook) | **Photo ID** has been needed to vote in person in **Great Britain** too since **May 2023** ([LSE](https://blogs.lse.ac.uk/politicsandpolicy/no-id-no-vote-voter-id-comes-to-great-britain)) | |
-| Standing for office | Most citizens of the **UK, the Irish Republic or the Commonwealth** aged **18 or over**{: .hy} | |
+| Standing for office | Most citizens of the **UK, Ireland or the Commonwealth** aged **18 or over**{: .hy} | |
 | Who cannot stand | Members of the **armed forces**, **civil servants**, people found guilty of certain criminal offences | Members of the Lords cannot stand for the Commons |
 | Visiting Parliament | Watch debates from the **public galleries** of both Houses; **entrance is free**{: .hy}; get tickets from your MP or **queue** on the day | The Commons queue can be 1 to 2 hours; the Lords is easier |
-| Visiting the devolved bodies | **Stormont** (via the Education Service or an MLA); the Scottish Parliament at **Holyrood**; the Welsh Assembly in the **Senedd**, **Cardiff Bay** | |
+| Visiting the devolved bodies | **Stormont** (via the Education Service or an MLA); the Scottish Parliament at **Holyrood**; the **Senedd** building in **Cardiff Bay** | |
 
 The 2013 text also said adult citizens of other EU states living in the UK could vote in all elections except General Elections. That is EU material, which TSO says was removed from later prints.
 {: .note}
@@ -221,12 +223,12 @@ The UK is a member of the Commonwealth, the Council of Europe, the United Nation
 | The Commonwealth | An association of countries working towards shared goals in **democracy and development**; most were once part of the **British Empire** | Membership is **voluntary**; it has **no power** over members but can **suspend** them |
 | Its head and size | The monarch is its **ceremonial head**{: .hy}; **54** member states (2013) | Australia and Canada are members |
 | Its values | **Democracy, good government and the rule of law**{: .hy} | |
-| The Council of Europe | **Separate from the EU**; **47** members (2013), including the UK; protects and promotes **human rights**; **cannot make laws**, but draws up conventions and charters | Best known: the **European Convention on Human Rights** |
+| The Council of Europe | **Separate from the EU**; **46** members in the current printing (47 in older printings; Russia stopped being a member in 2022, [EEAS](https://www.eeas.europa.eu/delegations/council-europe/committee-ministers-decides-russia-ceases-be-member-council-europe_en)), including the UK; protects and promotes **human rights**; **cannot make laws**, but draws up conventions and charters | Best known: the **European Convention on Human Rights** |
 | The United Nations | More than **190** countries; set up **after the Second World War**{: .hy} to prevent war and promote peace and security | |
 | The UN Security Council | **15** members; the UK is one of **five permanent** members | |
 | NATO | European and North American countries that agree to **help each other if attacked**{: .hy}, and keep peace between members | |
 
-The handbook's Commonwealth list names all 54 members in 2013, including Antigua and Barbuda, Australia, The Bahamas, Bangladesh, Barbados, Belize, Botswana, Brunei Darussalam, Cameroon, Canada, Cyprus, Dominica, Fiji (then suspended), The Gambia, Ghana, Grenada, Guyana, India, Jamaica, Kenya, Kiribati, Lesotho, Malawi, Malaysia, Maldives, Malta, Mauritius, Mozambique, Namibia, Nauru, New Zealand, Nigeria, Pakistan, Papua New Guinea, Rwanda, Samoa, Seychelles, Sierra Leone, Singapore, Solomon Islands, South Africa, Sri Lanka, St Kitts and Nevis, St Lucia, St Vincent and the Grenadines, Swaziland, Tanzania, Tonga, Trinidad and Tobago, Tuvalu, Uganda, the UK, Vanuatu and Zambia.
+The handbook's Commonwealth list names all 54 members in 2013, including Antigua and Barbuda, Australia, The Bahamas, Bangladesh, Barbados, Belize, Botswana, Brunei Darussalam, Cameroon, Canada, Cyprus, Dominica, Fiji (then suspended), The Gambia, Ghana, Grenada, Guyana, India, Jamaica, Kenya, Kiribati, Lesotho, Malawi, Malaysia, Maldives, Malta, Mauritius, Mozambique, Namibia, Nauru, New Zealand, Nigeria, Pakistan, Papua New Guinea, Rwanda, Samoa, Seychelles, Sierra Leone, Singapore, Solomon Islands, South Africa, Sri Lanka, St Kitts and Nevis, St Lucia, St Vincent and the Grenadines, Swaziland, Tanzania, Tonga, Trinidad and Tobago, Tuvalu, Uganda, the UK, Vanuatu and Zambia. The 2019 printing adds that the Maldives left the Commonwealth in October 2016.
 {: .note}
 
 The 2013 text also had a section on the European Union (the Treaty of Rome in 1957, the UK joining in 1973). TSO says the EU sections were removed from later prints, and the UK left the EU on 31 January 2020. The 1973 joining date is still in Chapter 3.
@@ -257,7 +259,7 @@ Everyone in the UK receives **equal treatment under the law**, and knowing and o
 | Police and Crime Commissioners | First elected in **November 2012**{: .hy} in **England and Wales**; set local priorities and budget; appoint the Chief Constable | |
 | PCSOs | **Police community support officers** patrol, work with the public and support officers | |
 | Police behaviour | Police must **obey the law**; must not misuse authority, make false statements, be rude or abusive, or commit racial discrimination | |
-| Complaints | To a police station or the Chief Constable; or the **Independent Police Complaints Commission** (England and Wales), the **Police Complaints Commissioner for Scotland**, the **Police Ombudsman** for Northern Ireland | |
+| Complaints | To a police station or the Chief Constable; or an independent body: the **Independent Office for Police Conduct** (England and Wales); in Scotland, if unhappy with how a complaint was handled, the **Police Investigations and Review Commissioner**; in Northern Ireland, the **Police Ombudsman** | Older printings: the Independent Police Complaints Commission |
 | Terrorism | The most serious threat: **Al Qa'ida**, its affiliates and like-minded groups; also Northern Ireland-related terrorism | Tell your local police if someone tries to recruit you |
 | Extremism | Vocal or active opposition to **fundamental British values**; includes religious and far-right extremism | |
 
@@ -329,7 +331,7 @@ Judges (**the judiciary**) interpret the law and make sure trials are fair; the 
 | Serious civil cases | E.g. large compensation claims: the **High Court** (England, Wales, NI); the **Court of Session** in Edinburgh (Scotland) | |
 | Small claims procedure | An **informal** way to settle minor disputes **without a lawyer**{: .hy}; a judge in an ordinary room, around a table. Limits today: up to **£10,000** in England and Wales, under **£5,000** in Scotland, up to **£5,000** in Northern Ireland | Also online: **Money Claims Online**. Older printings of the handbook give the 2013 limits: £5,000 in England and Wales, £3,000 in Scotland and NI |
 | Small claims limits: sources | England and Wales: **£10,000** from **1 April 2013** ([Civil Procedure Rules 27.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.1/2013-04-01)), still the limit ([GOV.UK](https://www.gov.uk/government/publications/small-claims-track-fast-track-and-multi-track-ex305-and-ex306)). Scotland: **simple procedure** for claims under **£5,000** ([mygov.scot](https://www.mygov.scot/court-claim-money)). Northern Ireland: raised from £3,000 to **£5,000** on **3 October 2022** ([nidirect](https://www.nidirect.gov.uk/articles/overview-small-claims-process), [Department of Justice NI](https://www.justice-ni.gov.uk/news/long-increases-small-claims-court-limit)) | Checked online in November 2026 |
-| Solicitors | Trained lawyers who **advise**, act for clients and **represent them in court**; charges usually based on **time** spent | The **Citizens Advice Bureau**{: .hy} can suggest local solicitors; so can the **Law Society** (England and Wales), the Law Society of Scotland and the Law Society of Northern Ireland |
+| Solicitors | Trained lawyers who **advise**, act for clients and **represent them in court**; charges usually based on **time** spent | The **Citizens Advice**{: .hy} can suggest local solicitors; so can the **Law Society** (England and Wales), the Law Society of Scotland and the Law Society of Northern Ireland |
 | The Old Bailey | Probably the **most famous criminal court in the world** | From the handbook's photo caption |
 
 **Scotland's three differences**: a **15**-person jury, a **"not proven"** verdict, and its own court names (Justice of the Peace, Sheriff, High Court, Court of Session).
@@ -346,7 +348,7 @@ Britain's rights have their roots in **Magna Carta**, the **Habeas Corpus Act** 
 | Its principles include | Right to **life**; prohibition of **torture**; prohibition of **slavery and forced labour**{: .hy}; right to **liberty and security**; right to a **fair trial**; freedom of **thought, conscience and religion**; freedom of **expression** (speech) | Seven named principles |
 | Human Rights Act 1998 | Brought the Convention **into UK law**; government, public bodies and courts must follow it | 1998 |
 | Equal opportunities | No unfair treatment because of **age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status**{: .hy} | Eight grounds. Help: Citizens Advice, the **Equality and Human Rights Commission** (England, Wales and Scotland), the Scottish Human Rights Commission, the Equality Commission for Northern Ireland and the Northern Ireland Human Rights Commission |
-| Domestic violence | A serious crime, whether married or living together; a husband who forces his wife to have sex **can be charged with rape**{: .hy} | Help: solicitor, Citizens Advice, refuges, a 24-hour helpline, the police |
+| Domestic violence | A serious crime, whether married or living together; a husband who forces his wife to have sex **can be charged with rape**{: .hy} | Help: a solicitor or Citizens Advice; refuges; the 24-hour **National Domestic Abuse Freephone Helpline**; the Women's Aid website; in an emergency, always call the **police** |
 | Female genital mutilation (FGM) | **Illegal**; taking a girl or woman abroad for FGM is a criminal offence | |
 | Forced marriage | A **criminal offence**{: .hy}; **arranged** marriages, where both agree, are acceptable | **Forced Marriage Protection Orders**: 2008 in England, Wales and NI; November 2011 in Scotland; breach = up to **two years** in jail |
 | Income tax | Paid on wages, self-employment profits, taxable benefits, pensions, and income from property, savings and dividends; pays for **roads, education, police and the armed forces**{: .hy} | |
@@ -357,25 +359,24 @@ Britain's rights have their roots in **Magna Carta**, the **Habeas Corpus Act** 
 | Licence age | Valid until **70**, then renewed every **three years** | |
 | Northern Ireland | New drivers display an **"R" plate** (restricted) for **one year** | |
 | Licences from other countries | Up to **12 months**, then you need a UK licence | The 2013 rule for EU licences is EU material, removed from later prints |
-| Your vehicle | Register with the **DVLA**; pay annual road tax; valid **motor insurance** (driving without it is a serious criminal offence) | **MOT** test every year once a vehicle is **over three years old** |
-| Today (not in the handbook) | The paper **tax disc** was abolished on **1 October 2014**; you still pay vehicle tax ([GOV.UK](https://www.gov.uk/government/news/direct-debit-and-abolition-of-the-tax-disc)) | The 2013 text says to display a tax disc |
+| Your vehicle | Register with the **DVLA**; pay annual **vehicle tax**, which can't be passed on when a vehicle changes hands; not using it and parked off the road: make a **SORN** (Statutory Off Road Notification); valid **motor insurance** (driving without it is a serious criminal offence) | **MOT** test every year once a vehicle is **over three years old**. Older printings: display a tax disc |
 
 <figure class="diagram">
 <svg viewBox="0 0 1000 300" role="img" aria-labelledby="d11-title d11-desc">
 <title id="d11-title">Ages to know in Chapter 5</title>
-<desc id="d11-desc">10 to 17: Youth Court in England, Wales and Northern Ireland. 16: National Insurance number sent just before your 16th birthday; ride a moped; the National Citizen Service is for 16- and 17-year-olds. 17: drive a car or motor cycle. 18: vote, since 1969; stand for office; jury service; buy alcohol or tobacco; become a school governor. 70: jury service ends at 70 in the 2013 text; your driving licence is renewed every three years.</desc>
+<desc id="d11-desc">10 to 17: Youth Court in England, Wales and Northern Ireland. 16: National Insurance number sent just before your 16th birthday; ride a moped; 17: drive a car or motor cycle. 18: vote, since 1969; stand for office; jury service; buy alcohol or tobacco; become a school governor. 70: jury service ends at 70, or 75 in England and Wales; your driving licence is renewed every three years.</desc>
 <text class="t-title" x="24" y="32">Ages to know</text>
 <text class="t-sub" x="24" y="54">From Chapter 5; Chapter 4 adds 16 for the Lottery and 18 for betting.</text>
 <rect class="box" x="24" y="72" width="184" height="210" rx="10"/><circle cx="66" cy="110" r="24" style="fill:var(--era-1)"/><text x="66" y="117" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700;font-family:var(--font)">10</text>
 <text class="t-item" x="40" y="160" style="font-size:13px">Youth Court for ages</text><text class="t-item" x="40" y="178" style="font-size:13px">10 to 17 (England,</text><text class="t-item" x="40" y="196" style="font-size:13px">Wales and Northern</text><text class="t-item" x="40" y="214" style="font-size:13px">Ireland)</text>
 <rect class="box" x="216" y="72" width="184" height="210" rx="10"/><circle cx="258" cy="110" r="24" style="fill:var(--era-3)"/><text x="258" y="117" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700;font-family:var(--font)">16</text>
-<text class="t-item" x="232" y="160" style="font-size:13px">NI number sent just</text><text class="t-item" x="232" y="178" style="font-size:13px">before your 16th birthday</text><text class="t-item" x="232" y="202" style="font-size:13px">Ride a moped</text><text class="t-item" x="232" y="226" style="font-size:13px">National Citizen Service</text><text class="t-item" x="232" y="244" style="font-size:13px">(16- and 17-year-olds)</text>
+<text class="t-item" x="232" y="160" style="font-size:13px">NI number sent just</text><text class="t-item" x="232" y="178" style="font-size:13px">before your 16th birthday</text><text class="t-item" x="232" y="202" style="font-size:13px">Ride a moped</text>
 <rect class="box" x="408" y="72" width="184" height="210" rx="10"/><circle cx="450" cy="110" r="24" style="fill:var(--era-4)"/><text x="450" y="117" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700;font-family:var(--font)">17</text>
 <text class="t-item" x="424" y="160" style="font-size:13px">Drive a car or</text><text class="t-item" x="424" y="178" style="font-size:13px">motor cycle, with a</text><text class="t-item" x="424" y="196" style="font-size:13px">licence and a test</text>
 <rect class="box" x="600" y="72" width="184" height="210" rx="10" style="stroke:var(--accent)"/><circle cx="642" cy="110" r="24" style="fill:var(--accent)"/><text x="642" y="117" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700;font-family:var(--font)">18</text>
 <text class="t-item" x="616" y="160" style="font-size:13px">Vote (since 1969)</text><text class="t-item" x="616" y="180" style="font-size:13px">Stand for office</text><text class="t-item" x="616" y="200" style="font-size:13px">Jury service</text><text class="t-item" x="616" y="220" style="font-size:13px">Buy alcohol or tobacco</text><text class="t-item" x="616" y="240" style="font-size:13px">School governor</text>
 <rect class="box" x="792" y="72" width="184" height="210" rx="10"/><circle cx="834" cy="110" r="24" style="fill:var(--era-6)"/><text x="834" y="117" text-anchor="middle" style="fill:#fff;font-size:17px;font-weight:700;font-family:var(--font)">70</text>
-<text class="t-item" x="808" y="160" style="font-size:13px">Jury service ends</text><text class="t-item" x="808" y="178" style="font-size:13px">(handbook, 2013)</text><text class="t-item" x="808" y="202" style="font-size:13px">Driving licence then</text><text class="t-item" x="808" y="220" style="font-size:13px">renewed every</text><text class="t-item" x="808" y="238" style="font-size:13px">three years</text>
+<text class="t-item" x="808" y="160" style="font-size:13px">Jury service ends</text><text class="t-item" x="808" y="178" style="font-size:13px">(75 in England and Wales)</text><text class="t-item" x="808" y="202" style="font-size:13px">Driving licence then</text><text class="t-item" x="808" y="220" style="font-size:13px">renewed every</text><text class="t-item" x="808" y="238" style="font-size:13px">three years</text>
 </svg>
 </figure>
 
@@ -391,7 +392,7 @@ Becoming a citizen or settling brings responsibilities and opportunities.
 | --- | --- | --- |
 | Shared values and responsibilities | Obey and respect the law; respect others' rights; treat others with fairness; behave responsibly; help and protect your family; respect and preserve the environment; treat everyone equally; work to provide for yourself and your family; help others; **vote** in local and national elections | **Ten** items, a longer list than Chapter 1's five responsibilities |
 | Being a good neighbour | Introduce yourself; respect their privacy; limit noise; keep your garden tidy; put bins out only on collection day | Neighbours are a good source of help |
-| Jury service | People on the electoral register aged **18 to 70**{: .hy} can be selected at random | Today (not in the handbook): **75** in England and Wales since **1 December 2016** ([GOV.UK](https://www.gov.uk/government/news/jury-age-limit-to-be-raised-to-75-in-england-and-wales)) |
+| Jury service | People on the electoral register aged **18 to 70**{: .hy} can be selected at random; **18 to 75** in England and Wales | Older printings: 18 to 70 everywhere |
 | Helping in schools | Help in classrooms, listen to children read, help raise money; join a **parent–teacher association** (PTA) | |
 | School governors and school boards | Local volunteers aged **18 or over**, with **no upper age limit**; school board in Scotland | Three roles: **strategic direction**{: .hy}, **accountability**, **monitoring and evaluating** performance |
 | Free schools | In **England**, parents and community groups can apply to open one | |
@@ -402,7 +403,7 @@ Becoming a citizen or settling brings responsibilities and opportunities.
 | Organ donation | Registering makes it easier for your family to decide; **living people can donate a kidney**{: .hy} | |
 | Volunteering | **Working for good causes without payment**{: .hy}: animals, youth work, the environment, the homeless, mentoring, hospitals, older people | Benefits: meet people, practise English, gain work skills |
 | Charities named | British Red Cross; **Age UK** (older people); **NSPCC** (children); **Crisis** and **Shelter** (the homeless); **Cancer Research UK**; the **National Trust** and **Friends of the Earth** (environment); **PDSA** (animals) | |
-| National Citizen Service | For **16- and 17-year-olds**{: .hy}: outdoor activities, skills and a community project | |
+| National Citizen Service | Older printings only: for 16- and 17-year-olds, outdoor activities, skills and a community project | Removed from the current printing |
 | The environment | **Recycle**{: .hy}; **shop locally** (helps local businesses, cuts your carbon footprint); **walk** and use **public transport** | |
 
 **Two lists of responsibilities**: Chapter 1 has **five** "you should" items; Chapter 5 has **ten** shared values, adding behave responsibly, treat everyone equally, work, help others and **vote**.
@@ -423,7 +424,7 @@ The government and law pairs that trip people up.
 | **Pressure groups** vs **political parties** | Influence policy (CBI, Greenpeace, Liberty) vs stand for election |
 | **Civil servants** vs **ministers** | Politically neutral and chosen on merit vs politicians in charge of departments |
 | **Life peers** vs **hereditary peers** | Appointed for their lifetime (since 1958) vs inherited titles, no automatic right to sit since 1999 |
-| **Scottish Parliament** vs **Welsh Assembly** vs **NI Assembly** | Edinburgh, 129 MSPs vs Cardiff, 60 AMs vs Stormont, 108 MLAs |
+| **Scottish Parliament** vs **Senedd** vs **NI Assembly** | Edinburgh, 129 MSPs vs Cardiff, 60 MSs vs Stormont, 108 MLAs |
 | **Council of Europe** vs **the EU** | Human rights, makes no laws vs (2013 text, now removed) EU law binding on members |
 | **UN Security Council** | 15 members; the UK is one of 5 permanent members |
 | **Criminal law** vs **civil law** | Crimes punished by the courts vs disputes between people or groups (housing, consumer, employment, debt) |

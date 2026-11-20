@@ -120,7 +120,7 @@ One parliament governs the whole UK, and three parts of it also have their own.
 | The UK | Governed by **the parliament sitting in Westminster**{: .hy} | Westminster = the whole UK |
 | Scotland, Wales and Northern Ireland | Also have **parliaments or assemblies** of their own, with **devolved powers in defined areas** | Devolved = some powers handed down, only in defined areas |
 | Their names (Chapter 5) | **Scottish Parliament**, **National Assembly for Wales** (also called the **Welsh Assembly**), **Northern Ireland Assembly** | Scotland has a parliament; Wales and Northern Ireland have assemblies |
-| Today (not in the handbook) | The Welsh body has been called the **Senedd** (Welsh Parliament) since 2020 | The 2013 text uses the older names |
+| Newer printings | The current printing calls the Welsh members **Members of the Senedd (MSs)**; the body has been called the **Senedd** (Welsh Parliament) since 2020 | Older printings: National Assembly for Wales, AMs |
 
 <figure class="diagram">
 <svg viewBox="0 0 1000 252" role="img" aria-labelledby="d4-title d4-desc">
@@ -144,7 +144,7 @@ One parliament governs the whole UK, and three parts of it also have their own.
 </svg>
 </figure>
 
-The body names come from Chapter 5. Since 2020 the Welsh body has been called the Senedd, which isn't in the handbook.
+The body names come from Chapter 5. Newer printings use the Senedd's name; older printings say National Assembly for Wales.
 {: .note}
 
 **One** parliament for the whole UK at Westminster, plus **three** devolved bodies: one each for Scotland, Wales and Northern Ireland.

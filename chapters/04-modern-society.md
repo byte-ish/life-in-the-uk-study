@@ -20,6 +20,9 @@ This sheet follows Chapter 4 of the official handbook, *Life in the United Kingd
 - Chapter 4 is a big part of the test: **119 of the 390** official 2013 practice questions come from it.
 - **Bold** = a key name, date or number. Gold rows marked **★ Often asked** = topics the official practice questions ask about, most of them more than once.
 - Most tables here match a name to a fact. Use **Hide answers** to test yourself: the name stays visible and the fact is blurred.
+- Updated to the **current printing** (3rd edition, 28th impression, 2026), using the text of the 2019 printing and TSO's [list of amendments](https://tsoshop.co.uk/gempdf/Life_in_the_UK_latest_impression_amendments%20050126.pdf) since then. Where a figure changed, the row says what older printings said.
+- The current printing also updates the ski centres, the National Eisteddfod's location, the Turner Prize venues, TV licences and the number of National Trust volunteers. The rows below say so where the new wording isn't shown.
+- The handbook says you **will not need to remember dates of birth or death**, so the years in brackets after people's names are for context only.
 - Rows marked **Today (not in the handbook)** show changes since 2013. Newer printings of the handbook may already include some of these changes, so if your copy differs from this sheet, follow your copy.
 
 <figure class="diagram">
@@ -99,6 +102,7 @@ A more diverse society than 100 years ago, in both ethnic and religious terms.
 | Town and country | **Most people live in towns and cities**{: .hy}, but much of Britain is still countryside | Asked twice in the official practice set |
 | Currency | The **pound sterling**{: .hy} (£); **100 pence** in a pound | |
 | Coins | 1p, 2p, 5p, 10p, 20p, 50p, **£1**, **£2** | Eight coins |
+| Notes | **£5, £10, £20, £50** | Four notes |
 | Notes | **£5, £10, £20, £50** | £50 is the highest note |
 | Scottish and NI banknotes | **Scotland** and **Northern Ireland**{: .hy} have their own; valid everywhere in the UK, but shops **do not have to accept** them | Valid, but optional to accept |
 | Languages | **Welsh**{: .hy} in Wales (taught in schools and universities); **Gaelic** in parts of the Highlands and Islands; **Irish Gaelic** in Northern Ireland; English has many accents and dialects | Welsh, Gaelic, Irish Gaelic |
@@ -119,25 +123,27 @@ A more diverse society than 100 years ago, in both ethnic and religious terms.
 | 1998 | **57 million** | |
 | 2005 | Just under **60 million** | |
 | **2010**{: .hy} | Just over **62 million** | Faster recent growth: **migration** and **longer life expectancy** |
+| **2021**{: .hy} | Just over **67 million** | Added in the current printing |
 
 <figure class="diagram">
 <svg viewBox="0 0 1000 340" role="img" aria-labelledby="d6-title d6-desc">
-<title id="d6-title">UK population, 1600 to 2010</title>
-<desc id="d6-desc">Bar chart of the handbook's population figures: just over 4 million in 1600, 5 million in 1700, 8 million in 1801, 20 million in 1851, 40 million in 1901, 50 million in 1951, 57 million in 1998, just under 60 million in 2005 and just over 62 million in 2010.</desc>
-<text class="t-title" x="24" y="32">UK population, 1600 to 2010</text>
-<text class="t-sub" x="24" y="54">Handbook figures. The years are not evenly spaced.</text>
+<title id="d6-title">UK population, 1600 to 2021</title>
+<desc id="d6-desc">Bar chart of the handbook's population figures: just over 4 million in 1600, 5 million in 1700, 8 million in 1801, 20 million in 1851, 40 million in 1901, 50 million in 1951, 57 million in 1998, just under 60 million in 2005, just over 62 million in 2010 and just over 67 million in 2021.</desc>
+<text class="t-title" x="24" y="32">UK population, 1600 to 2021</text>
+<text class="t-sub" x="24" y="54">Handbook figures; the current printing adds 2021. The years are not evenly spaced.</text>
 <path d="M60 226H980M60 152H980M60 79H980" style="stroke:var(--line);stroke-width:1"/>
 <text class="t-sub" x="52" y="230" text-anchor="end">20m</text><text class="t-sub" x="52" y="156" text-anchor="end">40m</text><text class="t-sub" x="52" y="83" text-anchor="end">60m</text>
 <path d="M60 300H980" style="stroke:#a3aab6;stroke-width:1.5"/>
-<rect x="80" y="285" width="64" height="15" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="112" y="277" text-anchor="middle">just over 4m</text><text class="t-item" x="112" y="322" text-anchor="middle" style="font-weight:700">1600</text>
-<rect x="184" y="281" width="64" height="19" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="216" y="273" text-anchor="middle">5m</text><text class="t-item" x="216" y="322" text-anchor="middle" style="font-weight:700">1700</text>
-<rect x="288" y="270" width="64" height="30" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="320" y="262" text-anchor="middle">8m</text><text class="t-item" x="320" y="322" text-anchor="middle" style="font-weight:700">1801</text>
-<rect x="392" y="226" width="64" height="74" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="424" y="218" text-anchor="middle">20m</text><text class="t-item" x="424" y="322" text-anchor="middle" style="font-weight:700">1851</text>
-<rect x="496" y="152" width="64" height="148" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="528" y="144" text-anchor="middle">40m</text><text class="t-item" x="528" y="322" text-anchor="middle" style="font-weight:700">1901</text>
-<rect x="600" y="115" width="64" height="185" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="632" y="107" text-anchor="middle">50m</text><text class="t-item" x="632" y="322" text-anchor="middle" style="font-weight:700">1951</text>
-<rect x="704" y="90" width="64" height="210" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="736" y="82" text-anchor="middle">57m</text><text class="t-item" x="736" y="322" text-anchor="middle" style="font-weight:700">1998</text>
-<rect x="808" y="79" width="64" height="221" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="840" y="71" text-anchor="middle">just under 60m</text><text class="t-item" x="840" y="322" text-anchor="middle" style="font-weight:700">2005</text>
-<rect x="912" y="70" width="64" height="230" rx="3" style="fill:var(--era-1)"/><text class="t-sub" x="944" y="62" text-anchor="middle" style="fill:var(--era-1);font-weight:700">just over 62m</text><text class="t-item" x="944" y="322" text-anchor="middle" style="font-weight:700">2010</text>
+<rect x="74" y="285" width="60" height="15" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="104" y="277" text-anchor="middle">just over 4m</text><text class="t-item" x="104" y="322" text-anchor="middle" style="font-weight:700">1600</text>
+<rect x="166" y="282" width="60" height="18" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="196" y="274" text-anchor="middle">5m</text><text class="t-item" x="196" y="322" text-anchor="middle" style="font-weight:700">1700</text>
+<rect x="258" y="271" width="60" height="29" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="288" y="263" text-anchor="middle">8m</text><text class="t-item" x="288" y="322" text-anchor="middle" style="font-weight:700">1801</text>
+<rect x="350" y="226" width="60" height="74" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="380" y="218" text-anchor="middle">20m</text><text class="t-item" x="380" y="322" text-anchor="middle" style="font-weight:700">1851</text>
+<rect x="442" y="153" width="60" height="147" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="472" y="145" text-anchor="middle">40m</text><text class="t-item" x="472" y="322" text-anchor="middle" style="font-weight:700">1901</text>
+<rect x="534" y="116" width="60" height="184" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="564" y="108" text-anchor="middle">50m</text><text class="t-item" x="564" y="322" text-anchor="middle" style="font-weight:700">1951</text>
+<rect x="626" y="90" width="60" height="210" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="656" y="82" text-anchor="middle">57m</text><text class="t-item" x="656" y="322" text-anchor="middle" style="font-weight:700">1998</text>
+<rect x="718" y="80" width="60" height="220" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="748" y="72" text-anchor="middle">just under 60m</text><text class="t-item" x="748" y="322" text-anchor="middle" style="font-weight:700">2005</text>
+<rect x="810" y="71" width="60" height="229" rx="3" style="fill:color-mix(in srgb, var(--era-1) 40%, #fff)"/><text class="t-sub" x="840" y="63" text-anchor="middle">just over 62m</text><text class="t-item" x="840" y="322" text-anchor="middle" style="font-weight:700">2010</text>
+<rect x="902" y="52" width="60" height="248" rx="3" style="fill:var(--era-1)"/><text class="t-sub" x="932" y="44" text-anchor="middle" style="fill:var(--era-1);font-weight:700">just over 67m</text><text class="t-item" x="932" y="322" text-anchor="middle" style="font-weight:700">2021</text>
 </svg>
 </figure>
 
@@ -151,12 +157,11 @@ The UK is historically a Christian country, and everyone has the legal right to 
 
 | Group | Share | Exam hook |
 | --- | --- | --- |
-| Christian | **70%**{: .hy} | From the **2009 Citizenship Survey** |
-| No religion | **21%** | Second biggest answer |
-| Muslim | **4%** | |
-| Hindu | **2%** | |
-| Another religion | **2%** | |
-| Sikh | **1%** | |
+| Christian | **59%**{: .hy} | From the **2011 Census** (older printings: 70%, 2009 Citizenship Survey) |
+| No religion | **25%**{: .hy} | Second biggest answer (older printings: 21%) |
+| Muslim | **4.8%** | |
+| Hindu | **1.5%** | |
+| Sikh | **0.8%** | |
 | Jewish or Buddhist | **Less than 0.5%** each | |
 
 | Church | Handbook says | Exam hook |
@@ -170,7 +175,7 @@ The UK is historically a Christian country, and everyone has the legal right to 
 | Other Protestant groups | **Baptists, Methodists, Presbyterians, Quakers** | All Protestant |
 | Biggest other denomination | **Roman Catholic** | |
 | Other religious buildings | Islamic **mosques**, Hindu **temples**, Jewish **synagogues**, Sikh **gurdwaras**, Buddhist **temples** | Sikh = gurdwara |
-| Westminster Abbey | The **coronation church since 1066**; resting place of **17 monarchs**; Poet's Corner | From a photo caption in the handbook |
+| Westminster Abbey | The **coronation church since 1066**; resting place of **many monarchs**; Poet's Corner | From a photo caption in the handbook |
 
 | When | Saint | Country | Exam hook |
 | --- | --- | --- | --- |
@@ -262,22 +267,22 @@ Many famous sports began in Britain: **cricket, football, lawn tennis, golf and 
 
 | Topic | Handbook says | Exam hook |
 | --- | --- | --- |
-| Major stadiums | **Wembley Stadium** (London) and the **Millennium Stadium** (Cardiff) | Today (not in the handbook): the Cardiff stadium is called the Principality Stadium |
+| Major stadiums | **Wembley Stadium** (London) and the **Principality Stadium** (Cardiff) | Older printings: the Millennium Stadium |
 | Olympic Games | Hosted **three times**{: .hy}: **1908, 1948 and 2012**; the 2012 main site was **Stratford**, East London; the British team finished **third** in the medal table | 1908, 1948, 2012 |
 | Paralympics | **2012** in London; the Paralympics began with **Dr Sir Ludwig Guttman**, a German refugee, at **Stoke Mandeville** hospital in Buckinghamshire, treating spinal injuries | Stoke Mandeville |
 
 | Sport | Handbook says | Exam hook |
 | --- | --- | --- |
-| Football | The **UK's most popular sport**{: .hy}; first professional clubs in the **late 19th century**; separate leagues in each country; the **English Premier League**; UEFA Champions League; each country has its own national team | England's only international win: the **1966 World Cup**, hosted in the UK |
+| Football | The **UK's most popular sport**{: .hy}; first professional clubs in the **late 19th century**; separate leagues in each country; the **English Premier League**; UEFA Champions League; each country has its own national team | Men: England's only international tournament win is the **1966 World Cup**, hosted in the UK. Women: England won the **European Championship** in **2022** and **2025** (current printing; [Al Jazeera](https://www.aljazeera.com/sports/2025/7/27/england-beat-spain-in-penalty-shootout-to-win-womens-euro-2025)) |
 | Cricket | Originated in **England**{: .hy}; games last up to **five days** and can still end in a **draw**; sayings like "rain stopped play" and "it's just not cricket" | **The Ashes** = Test series between England and **Australia** |
 | Rugby | Originated in England in the **early 19th century**; two types: **union** and **league**; Northern Ireland plays with the Irish Republic | **Six Nations**: England, Ireland, Scotland, Wales, France, Italy. **Super League** = rugby league |
 | Horse racing | Back to **Roman times**; linked with royalty | **Royal Ascot**{: .hy} (5 days, Berkshire, Royal Family); **Grand National** at **Aintree** near Liverpool; **Scottish Grand National** at **Ayr**; National Horseracing Museum at **Newmarket**, Suffolk |
 | Golf | Modern game traced to **15th-century Scotland**{: .hy} | **St Andrews** = home of golf; **The Open** is the only "Major" held outside the US |
 | Tennis | Modern tennis evolved in England in the late 19th century; first club at **Leamington Spa** in **1872** | **Wimbledon**{: .hy}: All England Lawn Tennis and Croquet Club; the **oldest** tournament and the **only Grand Slam on grass** |
-| Sailing | **Sir Francis Chichester**: first to sail single-handed around the world, **1966/67**; **Sir Robin Knox-Johnston**: two years later, first to do it **without stopping** | Most famous event: **Cowes**, Isle of Wight |
+| Sailing | **Sir Francis Chichester**: first to sail single-handed around the world, passing the **Cape of Good Hope** (Africa) and **Cape Horn** (South America), **1966/67**; **Sir Robin Knox-Johnston**: two years later, first to do it **without stopping** | Most famous event: **Cowes**, Isle of Wight |
 | Rowing | Popular for leisure and competition | Yearly race on the **Thames** between **Oxford and Cambridge** |
-| Motor sports | Motor-car racing in the UK started in **1902**; a Formula 1 Grand Prix each year | Recent British F1 champions: **Damon Hill, Lewis Hamilton, Jensen Button** |
-| Skiing | Dry ski slopes across the UK | **Five ski centres in Scotland**; Europe's longest dry slope near **Edinburgh** |
+| Motor sports | Motor-car racing in the UK started in **1902**; a Formula 1 Grand Prix each year | Recent British F1 champions: **Damon Hill, Lewis Hamilton, Jenson Button** |
+| Skiing | Dry ski slopes across the UK | Older printings: **five ski centres in Scotland** and Europe's longest dry slope near **Edinburgh**. The current printing updates the ski centres |
 
 The official practice questions ask about 9 of these 16 people. Use **Hide answers** to drill them.
 {: .note}
@@ -287,18 +292,18 @@ The official practice questions ask about 9 of these 16 people. Use **Hide answe
 | Sir Roger Bannister (1929–) | First man to run a mile in **under four minutes**, **1954** | |
 | Sir Jackie Stewart (1939–) | Scottish racing driver; **Formula 1 world champion three times** | Not one of the "recent" F1 winners |
 | Bobby Moore (1941–93) | Captained England to win the **1966 World Cup** | Football |
-| Sir Ian Botham (1955–) | Captained England at **cricket**; Test records for batting and bowling | Cricket |
+| Lord (Ian) Botham (1955–) | Captained England at **cricket**; **held** Test records for batting and bowling | Cricket. Made a peer in 2020 ([Sky Sports](https://www.skysports.com/cricket/news/12123/12091692/england-cricket-legend-sir-ian-botham-introduced-as-peer-at-house-of-lords)) |
 | Jayne Torvill (1957–) and Christopher Dean (1958–) | **Ice dancing** gold, **1984** Olympics; four consecutive world championships | |
 | Sir Steve Redgrave (1962–) | **Rowing** gold in **five consecutive** Olympic Games | |
 | Baroness Tanni Grey-Thompson (1969–) | Wheelchair athlete: **16 Paralympic medals** (11 gold) over five Games; won the London Marathon **six times**; 30 world records | |
 | Dame Kelly Holmes (1970–) | **Two running golds**, 2004 Olympics | |
 | Dame Ellen MacArthur (1976–) | Yachtswoman; in **2004** the **fastest** person to sail around the world single-handed | Fastest, not first |
 | Sir Chris Hoy (1976–) | Scottish **cyclist**: six gold and one silver Olympic medals; 11 world titles | |
-| David Weir (1979–) | Wheelchair Paralympian: **six golds** over two Games; won the London Marathon **six times** | |
-| Bradley Wiggins (1980–) | Cyclist: in **2012** the **first Briton to win the Tour de France**; seven Olympic medals | |
-| Mo Farah (1983–) | Distance runner, born in **Somalia**: 2012 golds in the **5,000 and 10,000 metres** | First Briton to win Olympic 10,000 m gold |
-| Jessica Ennis (1986–) | 2012 Olympic gold in the **heptathlon** (seven events) | |
-| Andy Murray (1987–) | Scottish tennis player: **2012 US Open**; first British man to win a Grand Slam singles title **since 1936** | Also 2012 Olympic gold and silver |
+| David Weir (1979–) | Wheelchair Paralympian: **six golds** over two Games; won the London Marathon **eight times** ([Guinness World Records](https://www.guinnessworldrecords.com/world-records/469803-most-wheelchair-london-marathon-wins)) | Older printings: six times |
+| Sir Bradley Wiggins (1980–) | Cyclist: in **2012** the **first Briton to win the Tour de France**; **eight** Olympic medals, including gold in **2004, 2008, 2012 and 2016** | |
+| Sir Mo Farah (1983–) | Distance runner, born in **Somalia**: golds in the **5,000 and 10,000 metres** at the **2012 and 2016** Olympics | First Briton to win Olympic 10,000 m gold |
+| Dame Jessica Ennis-Hill (1986–) | **2012** Olympic gold in the **heptathlon** (seven events); silver in **2016** | |
+| Sir Andy Murray (1987–) | Scottish tennis player: **2012 US Open**; first British man to win a Grand Slam singles title **since 1936**; **Wimbledon** men's singles in **2013 and 2016** | 2012 Olympic gold and silver; gold again in 2016 |
 | Ellie Simmonds (1994–) | Paralympic **swimming** golds, **2008 and 2012**; youngest in the 2008 British team | |
 
 **Sailing firsts**: Chichester was **first** alone (1966/67), Knox-Johnston first **non-stop** (two years later), MacArthur **fastest** (2004).
@@ -314,21 +319,21 @@ Music, theatre, art, architecture, design and literature, and the prizes that re
 | The Proms | An **eight-week** summer season of orchestral classical music, including at the **Royal Albert Hall**; organised by the **BBC**{: .hy} since **1927**; the **Last Night of the Proms** is the best known | BBC since 1927 |
 | Pop music | **The Beatles** and **The Rolling Stones** since the 1960s; **Punk** in the late 1970s; **boy and girl bands** in the 1990s | |
 | Big venues | **Wembley Stadium**; **The O2** in Greenwich; the **SECC** in Glasgow | |
-| Festivals | **Glastonbury**, the **Isle of Wight Festival**, the **V Festival** | |
-| National Eisteddfod of Wales | Annual festival of music, dance, art and performances, **largely in Welsh**; important Welsh **poetry** competitions | Welsh |
+| Festivals | **Glastonbury**, the **Isle of Wight Festival**, **Creamfields** | Older printings: the V Festival |
+| National Eisteddfod of Wales | Annual festival of music, dance, art and performances, **largely in Welsh**; important Welsh **poetry** competitions | Welsh. The current printing updates its location |
 | Mercury Music Prize | Each **September**, for the best album from the UK and Ireland | Best album |
 | Brit Awards | Annual awards such as best British group and best British solo artist | |
 | West End | London's **"Theatreland"** | |
 | The Mousetrap | Murder mystery by Dame **Agatha Christie**{: .hy}; in the West End since **1952**; the longest initial run of any show in history | 1952 |
 | Gilbert and Sullivan | 19th-century **comic operas**: *HMS Pinafore*, *The Pirates of Penzance*, *The Mikado* | |
-| Andrew Lloyd Webber | With Tim Rice: *Jesus Christ Superstar* and *Evita*; also *Cats* and *The Phantom of the Opera* | |
+| Lord (Andrew) Lloyd-Webber | With **Sir Tim Rice**: *Jesus Christ Superstar* and *Evita*; also *Cats* and *The Phantom of the Opera* | |
 | Pantomime | A **Christmas**{: .hy} tradition: light-hearted plays based on fairy stories; the **Dame** is a woman played by a man; a pantomime horse or cow | Asked twice in the official practice set |
 | Edinburgh Festival | Every **summer**; the biggest part is the **Fringe**, mainly theatre and comedy, often experimental | |
 | Laurence Olivier Awards | Annual theatre awards in London: best director, actor, actress | Named after Sir Laurence Olivier, known for Shakespeare roles |
 | Galleries | **The National Gallery, Tate Britain, Tate Modern** (London); **National Museum** (Cardiff); **National Gallery of Scotland** (Edinburgh) | Tate Modern is in the former **Bankside Power Station** |
-| Turner Prize | Since **1984**; contemporary art; named after Joseph Turner; four works shortlisted and shown at **Tate Britain** | Winners include Damien Hirst, Richard Wright |
+| Turner Prize | Since **1984**; contemporary art; named after Joseph Turner; four works shortlisted and exhibited | Winners include Damien Hirst, Richard Wright. Older printings: shown at **Tate Britain**; the current printing updates the venues |
 | Nobel Prize in Literature | **Sir William Golding** (novelist), **Seamus Heaney** (poet), **Harold Pinter**{: .hy} (playwright) | Asked twice in the official practice set |
-| Man Booker Prize for Fiction | Since **1968**; best fiction novel by an author from the Commonwealth, Ireland or Zimbabwe; winners include Ian McEwan, Hilary Mantel, Julian Barnes | Today (not in the handbook): now called the Booker Prize |
+| Booker Prize for Fiction | Since **1968**; best fiction novel by an author from the Commonwealth, Ireland or Zimbabwe; winners include Ian McEwan, Hilary Mantel, Julian Barnes | Older printings: the Man Booker Prize |
 | Best-loved novel | **2003**: *The Lord of the Rings* by **J R R Tolkien** | |
 | Popular fiction | **Agatha Christie**'s detective stories; **Ian Fleming** introduced **James Bond** | |
 | Design | **Thomas Chippendale** (18th-century furniture); **Clarice Cliff** (Art Deco ceramics); **Sir Terence Conran** (20th-century interiors) | |
@@ -341,7 +346,7 @@ Music, theatre, art, architecture, design and literature, and the prizes that re
 | Gustav Holst (1874–1934) | *The Planets*; *Jupiter* became the hymn *I vow to thee my country* | |
 | Sir Edward Elgar (1857–1934) | Born in **Worcester**; *Pomp and Circumstance* Marches; March No 1, *Land of Hope and Glory*, is played at the **Last Night of the Proms** | |
 | Ralph Vaughan Williams (1872–1958) | Orchestral and choral music, influenced by **English folk music** | |
-| Sir William Walton (1902–83) | Marches for the coronations of George VI and Elizabeth II; *Façade*; *Balthazar's Feast* | |
+| Sir William Walton (1902–83) | Marches for the coronations of George VI and Elizabeth II; *Façade*; *Belshazzar's Feast* | |
 | Benjamin Britten (1913–76) | Operas *Peter Grimes* and *Billy Budd*; *A Young Person's Guide to the Orchestra*; founded the **Aldeburgh** festival in Suffolk | |
 | Hans Holbein, Sir Anthony Van Dyck | **Painters from abroad** working in Britain in the 16th and 17th centuries | |
 | Thomas Gainsborough (1727–88) | **Portraits**, often in country or garden scenery | |
@@ -394,7 +399,7 @@ Music, theatre, art, architecture, design and literature, and the prizes that re
 Spellings on this sheet follow the handbook, which is not always consistent: it writes "Sir Laurence Olivier" in its theatre section but "Sir Lawrence Olivier" in its film section.
 {: .note}
 
-**Awards by art form**: music = **Mercury** (album) and **Brits**; theatre = **Laurence Olivier Awards**; art = **Turner Prize**; film = **BAFTAs**; fiction = **Man Booker**; worldwide = **Nobel**.
+**Awards by art form**: music = **Mercury** (album) and **Brits**; theatre = **Laurence Olivier Awards**; art = **Turner Prize**; film = **BAFTAs**; fiction = **Booker**; worldwide = **Nobel**.
 {: .hook}
 
 ## 6. Leisure
@@ -411,9 +416,9 @@ How people in the UK spend their free time, and the age rules that come with it.
 | Traditional food | **England**: roast beef with Yorkshire puddings; fish and chips. **Wales**: **Welsh cakes**. **Scotland**: **haggis**{: .hy} (sheep's stomach with offal, suet, onions, oatmeal). **Northern Ireland**: **Ulster fry** | Foods by nation are asked often |
 | Comedy | Medieval **jesters**; 18th-century **political cartoons**; ***Punch*** (1840s); ***Private Eye***; music hall stars like **Morecambe and Wise**; *That Was The Week That Was* (1960s); *Spitting Image* (1980s–90s); **1969**: *Monty Python's Flying Circus* | |
 | TV | Soaps: **Coronation Street**, **EastEnders**; a Gaelic channel in Scotland and a Welsh-language channel in Wales | |
-| TV licence | **Everyone**{: .hy} with a TV, computer or other device that can be used to watch TV needs one; one per home (separate tenancies need their own); over-75s can apply for a **free** licence; blind people get **50%** off; fine of up to **£1,000** | Today (not in the handbook): since 2020 only over-75s on Pension Credit get it free |
-| The BBC | Paid for by TV licences; the **largest broadcaster in the world**; the only wholly **state-funded** media organisation **independent of government** | Other channels: adverts and subscriptions |
-| Social networking | Facebook and Twitter | |
+| TV licence | **Everyone**{: .hy} with a TV, computer or other device that can be used to watch TV needs one; one per home (separate tenancies need their own); over-75s can apply for a **free** licence; blind people get **50%** off; fine of up to **£1,000** | Today (not in the handbook): since 2020 only over-75s on Pension Credit get it free The current printing updates this section |
+| The BBC | Paid for by TV licences; the **largest broadcaster in the world**; it receives some state funding but is **independent of the government** | Other channels: adverts and subscriptions. Older printings: "the only wholly state-funded media organisation that is independent of the government" |
+| Social networking | Facebook and **X** (formerly Twitter) | |
 | Pubs | The "local" is a community focal point; **pub quizzes**; **pool and darts** are traditional pub games; usually open from **11.00 am** (12 noon on Sundays); the **licensee** decides the hours | |
 | Pets | Cruelty and neglect are illegal; **dogs** in public must wear a **collar** with the **owner's name and address**{: .hy}; owners must control and clean up after them | |
 
@@ -460,7 +465,7 @@ National parks, the National Trust, and the nine landmarks the handbook describe
 | --- | --- | --- |
 | National parks | **15**{: .hy} in England, Wales and Scotland: protected countryside that everyone can visit, where people live, work and look after the landscape | 15 |
 | National Trust | The **National Trust** (England, Wales, Northern Ireland) and the **National Trust for Scotland**{: .hy}: charities preserving buildings, coastline and countryside | |
-| National Trust history | Founded in **1895** by **three volunteers**; now more than **61,000** volunteers | |
+| National Trust history | Founded in **1895** by **three volunteers** | Older printings: more than 61,000 volunteers today; the current printing updates the number |
 
 | Landmark | Where | Exam hook |
 | --- | --- | --- |
@@ -477,7 +482,7 @@ National parks, the National Trust, and the nine landmarks the handbook describe
 <figure class="diagram">
 <svg viewBox="0 0 1000 410" role="img" aria-labelledby="d8-title d8-desc">
 <title id="d8-title">Where is it?</title>
-<desc id="d8-desc">England: Big Ben, the London Eye and the Tower of London in London, the Eden Project in Cornwall, the Lake District; gardens Kew, Sissinghurst and Hidcote; cities on the handbook map include London, Plymouth, Norwich and Leeds. Scotland: Edinburgh Castle, Loch Lomond and the Trossachs National Park, St Andrews, the home of golf; gardens Crathes Castle and Inveraray Castle; cities Edinburgh, Dundee and Aberdeen. Wales: Snowdonia National Park with Snowdon, the Millennium Stadium in Cardiff; Bodnant Garden; cities Cardiff, Swansea and Newport. Northern Ireland: the Giant's Causeway, Stormont in Belfast; Mount Stewart; city Belfast.</desc>
+<desc id="d8-desc">England: Big Ben, the London Eye and the Tower of London in London, the Eden Project in Cornwall, the Lake District; gardens Kew, Sissinghurst and Hidcote; cities on the handbook map include London, Plymouth, Norwich and Leeds. Scotland: Edinburgh Castle, Loch Lomond and the Trossachs National Park, St Andrews, the home of golf; gardens Crathes Castle and Inveraray Castle; cities Edinburgh, Dundee and Aberdeen. Wales: Snowdonia National Park with Snowdon, the Principality Stadium in Cardiff; Bodnant Garden; cities Cardiff, Swansea and Newport. Northern Ireland: the Giant's Causeway, Stormont in Belfast; Mount Stewart; city Belfast.</desc>
 <text class="t-title" x="24" y="32">Where is it? Landmarks, gardens and cities by country</text>
 <text class="t-sub" x="24" y="54">Cities are those confirmed on the handbook's map by the official practice answers.</text>
 <rect class="box-soft" x="24" y="68" width="228" height="332" rx="10"/><rect x="24" y="68" width="228" height="40" rx="10" style="fill:color-mix(in srgb, var(--era-2) 12%, #fff);stroke:var(--era-2);stroke-width:1.5"/><text class="t-head" x="138" y="94" text-anchor="middle" style="fill:var(--era-2)">England</text>
@@ -496,7 +501,7 @@ National parks, the National Trust, and the nine landmarks the handbook describe
 <text class="t-item" x="284" y="364">Edinburgh (capital),</text><text class="t-item" x="284" y="384">Dundee, Aberdeen</text>
 <rect class="box-soft" x="512" y="68" width="228" height="332" rx="10"/><rect x="512" y="68" width="228" height="40" rx="10" style="fill:color-mix(in srgb, var(--era-3) 12%, #fff);stroke:var(--era-3);stroke-width:1.5"/><text class="t-head" x="626" y="94" text-anchor="middle" style="fill:var(--era-3)">Wales</text>
 <text class="t-cap" x="528" y="134">LANDMARKS</text>
-<text class="t-item" x="528" y="156">Snowdonia National Park</text><text class="t-item" x="528" y="176">Snowdon: highest in Wales</text><text class="t-item" x="528" y="196">Millennium Stadium</text><text class="t-item" x="528" y="216">(Cardiff)</text>
+<text class="t-item" x="528" y="156">Snowdonia National Park</text><text class="t-item" x="528" y="176">Snowdon: highest in Wales</text><text class="t-item" x="528" y="196">Principality Stadium</text><text class="t-item" x="528" y="216">(Cardiff)</text>
 <text class="t-cap" x="528" y="268">GARDENS</text>
 <text class="t-item" x="528" y="290">Bodnant Garden</text>
 <text class="t-cap" x="528" y="342">CITIES ON THE MAP</text>
@@ -534,7 +539,7 @@ This chapter is full of look-alike names. These are the pairs worth drilling.
 | **Bonfire Night** vs **Remembrance Day** | 5 November, Guy Fawkes, 1605 vs 11 November, poppies, the First World War |
 | **Grand National** vs **Scottish Grand National** vs **Royal Ascot** | Aintree (near Liverpool) vs Ayr vs Berkshire (5 days) |
 | **Chichester** vs **Knox-Johnston** vs **MacArthur** | First alone (1966/67) vs first non-stop vs fastest (2004) |
-| **Tanni Grey-Thompson** vs **David Weir** | Both wheelchair athletes who won the London Marathon six times. Tanni: 16 Paralympic medals over five Games; Weir: six golds over two Games |
+| **Tanni Grey-Thompson** vs **David Weir** | Both wheelchair athletes who won the London Marathon: Tanni six times, Weir eight. Tanni: 16 Paralympic medals over five Games; Weir: six golds over two Games |
 | **Chris Hoy** vs **Bradley Wiggins** | Both cyclists. Hoy: Scottish, six Olympic golds. Wiggins: first Briton to win the **Tour de France** |
 | **Turner** vs **Constable** | Both landscape painters. Turner: modern style, the Turner Prize. Constable: **Dedham Vale** |
 | **Inigo Jones** vs **Wren** vs **Adam** vs **Lutyens** | Queen's House and Banqueting House vs St Paul's vs Dumfries House vs the Cenotaph and New Delhi |

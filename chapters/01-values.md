@@ -19,6 +19,7 @@ This sheet follows Chapter 1 of the official handbook, *Life in the United Kingd
 
 - Chapter 1 has almost no dates, so most tables here are numbered lists with an exam hook for each item.
 - **Bold** = a key word or number. Gold rows marked **★ Often asked** = what comes up most in practice tests. This is based on unofficial study guides, as the Home Office does not publish question data.
+- Updated to the **current printing** (3rd edition, 28th impression, 2026), using the text of the 2019 printing and TSO's [list of amendments](https://tsoshop.co.uk/gempdf/Life_in_the_UK_latest_impression_amendments%20050126.pdf) since then. Where a figure changed, the row says what older printings said.
 - The handbook was written in 2013. Where the rules have changed since, the row says **Today (not in the handbook)**. Newer printings of the handbook may already include some of these changes, so if your copy differs from this sheet, follow your copy.
 
 <figure class="diagram">
@@ -146,23 +147,22 @@ Three *freedoms* (belief and religion, speech, from unfair discrimination) and t
 ## 5. Becoming a permanent resident
 {: .era-6}
 
-The handbook sets out what you need to settle in the UK, and how the rules changed in October 2013.
+The handbook sets out what you need to become a permanent resident or a naturalised citizen.
 
-| When | Event | Exam hook |
+| Topic | Handbook says | Exam hook |
 | --- | --- | --- |
-| January 2013 | To become a permanent resident or citizen you need to **speak and read English** and have a **good understanding of life in the UK** | The two requirements |
-| January 2013 | **Route 1:** pass the **Life in the UK test**. Its questions need English at **ESOL Entry Level 3**, so no separate English test | One test covered both requirements |
-| January 2013 | **Route 2:** if your English is below Entry Level 3, pass an **ESOL course in English with Citizenship**, which ends with a test | For people still learning English |
-| **October 2013**{: .hy} | For **settlement or permanent residence**: pass the Life in the UK test **and** show **speaking and listening** skills in English at **B1** (CEFR), equivalent to **ESOL Entry Level 3** | Both, not either |
-| October 2013 | Citizenship requirements "may also change in the future" | The handbook fixes only the settlement rule |
-| Today (not in the handbook) | The rules have changed since 2013 | Check GOV.UK for the current requirements before you apply |
+| The two requirements | To become a permanent resident or a naturalised citizen you need to **speak and read English** and have a **good understanding of life in the UK** | English + life in the UK |
+| What that means | Pass the **Life in the UK test** **and** produce evidence of **speaking and listening** skills in English at **B1** of the Common European Framework of Reference, equivalent to **ESOL Entry Level 3**{: .hy} | Both, not either |
+| English evidence | A recognised **English test qualification** from an **approved test centre**; details on the Home Office website | |
+| Future changes | The requirements may change; check the **Home Office** website before applying for settlement or citizenship | |
+| Older printings only | The January 2013 text offered two routes: the test alone (its questions needed ESOL Entry Level 3 English), or an **ESOL course in English with Citizenship**; the rules then changed in **October 2013** | Not in the current printing |
 
 <figure class="diagram">
 <svg viewBox="0 0 1000 310" role="img" aria-labelledby="d2-title d2-desc">
-<title id="d2-title">What you need to settle, from October 2013</title>
+<title id="d2-title">What you need to settle or become a citizen</title>
 <desc id="d2-desc">Requirement one, speak and read English, is shown by speaking and listening skills in English at B1, equivalent to ESOL Entry Level 3. Requirement two, a good understanding of life in the UK, is shown by passing the Life in the UK test: 24 questions on the whole handbook at an approved test centre. With both, you can apply for settlement or citizenship. New citizens make the pledge at the citizenship ceremony.</desc>
 <defs><marker id="d2-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#a3aab6"/></marker></defs>
-<text class="t-title" x="24" y="32">What you need to settle (handbook, from October 2013)</text>
+<text class="t-title" x="24" y="32">What you need to settle or become a citizen</text>
 <text class="t-sub" x="24" y="54">Two requirements, each with its own proof. You need both.</text>
 <text class="t-cap" x="24" y="88">REQUIREMENT</text>
 <text class="t-cap" x="284" y="88">HOW YOU SHOW IT</text>
@@ -191,9 +191,6 @@ The handbook sets out what you need to settle in the UK, and how the rules chang
 </svg>
 </figure>
 
-Before October 2013 the test alone could cover both requirements. From October 2013, settlement needs the test **plus** separate English evidence at B1.
-{: .note}
-
 **B1 = Entry Level 3**: the same level of English on two different scales. The evidence is about **speaking and listening**, while the requirement is to **speak and read** English.
 {: .hook}
 
@@ -206,6 +203,7 @@ What the handbook says about the test itself.
 | --- | --- | --- |
 | Questions | **24**{: .hy} questions, different for each person at that test session | 24, like the hours in a day |
 | Based on | **All parts**{: .hy} of the handbook, including the introduction | Every chapter can come up |
+| Dates of birth or death | You **will not need to remember** them{: .hy} | The years after people's names are for context |
 | Language | Usually **English**{: .hy}; special arrangements can be made for **Welsh** or **Scottish Gaelic** | English, Welsh or Scottish Gaelic only |
 | Where | Only at a **registered and approved** Life in the UK test centre; **about 60** around the UK | 60 centres, 24 questions. Today: GOV.UK says over 30 centres |
 | Booking | **Online only**, at www.lifeintheuktest.gov.uk (the handbook's address) | Today: book through GOV.UK, the only official booking service |
@@ -234,8 +232,8 @@ Most wrong answers in this chapter come from putting an item on the wrong list.
 | **Treat others with fairness** vs **freedom from unfair discrimination** | Responsibility (you do it) vs freedom (the UK offers it) |
 | **Freedom *of* speech** vs **freedom *from* unfair discrimination** | *Of* = something you can do; *from* = something you are protected against |
 | **B1** vs **ESOL Entry Level 3** | The same level on two scales (CEFR and ESOL) |
-| **Speak and read** English vs **speaking and listening** at B1 | The requirement vs the evidence needed from October 2013 |
-| **Settlement** vs **citizenship** (October 2013) | The handbook applies the test-plus-B1 rule to settlement; citizenship rules "may also change" |
+| **Speak and read** English vs **speaking and listening** at B1 | The requirement vs the evidence you must produce |
+| **Settlement** vs **citizenship** | The current printing applies the same rule to both: the test **plus** English at B1. Older printings set it for settlement only |
 | **24 questions** vs **about 60 centres** | Questions in the test vs test centres in the UK |
 
 If a statement starts with a verb (respect, treat, look after), it's a responsibility. If it starts with "freedom" or "a right", it's a freedom. Otherwise it's a principle.
