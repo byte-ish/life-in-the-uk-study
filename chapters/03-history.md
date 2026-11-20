@@ -22,7 +22,55 @@ This sheet follows Chapter 3 of the official handbook, *Life in the United Kingd
 - The handbook was written in 2013. The test still asks about what it says, so recent changes (Brexit, King Charles III) are not tested here.
 - Every date is the handbook's own. Where it gives no year, the When column says so in words ("Anglo-Saxon times", "By 1646").
 
-![Six eras of British history with their anchor dates]({{ '/assets/img/history/eras-overview.png' | relative_url }})
+<figure class="diagram">
+<svg viewBox="0 0 1000 454" role="img" aria-labelledby="d18-title d18-desc">
+<title id="d18-title">Six eras, in order, with the dates to learn first</title>
+<desc id="d18-desc">Six eras in order. 1 Early Britain, Stone Age to 1066: first farmers about 6,000 years ago, Romans AD 43 to 410, Vikings from AD 789, Hastings 1066. 2 The Middle Ages, 1066 to 1485: Magna Carta 1215, Bannockburn 1314, Black Death 1348, Bosworth 1485. 3 Tudors and Stuarts, 1485 to 1688: Church of England, Spanish Armada 1588, Civil War 1642, Glorious Revolution 1688. 4 A global power, 1689 to 1901: Act of Union 1707, Trafalgar 1805, Waterloo 1815, slavery abolished 1833. 5 The 20th century, 1900 to 1945: First World War 1914 to 1918, votes for women 1918 and 1928, Second World War 1939 to 1945. 6 Britain since 1945: NHS 1948, EEC 1973, devolution 1999.</desc>
+<defs><marker id="d18-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#a3aab6"/></marker></defs>
+<text class="t-title" x="24" y="32">Six eras, in order, with the dates to learn first</text>
+<rect x="24" y="66" width="298" height="160" rx="10" style="fill:color-mix(in srgb, var(--era-1) 6%, #fff);stroke:color-mix(in srgb, var(--era-1) 45%, #fff);stroke-width:1.5"/>
+<text class="t-head" x="42" y="98" style="fill:var(--era-1)">1. Early Britain</text>
+<text class="t-sub" x="42" y="120">Stone Age to 1066</text>
+<text class="t-item" x="42" y="154">~6,000 years ago: first farmers</text>
+<text class="t-item" x="42" y="178">AD 43 Romans invade; leave AD 410</text>
+<text class="t-item" x="42" y="202">AD 789 Vikings; 1066 Hastings</text>
+<path class="wire" d="M324 146.0H348" marker-end="url(#d18-arrow)"/>
+<rect x="351" y="66" width="298" height="160" rx="10" style="fill:color-mix(in srgb, var(--era-2) 6%, #fff);stroke:color-mix(in srgb, var(--era-2) 45%, #fff);stroke-width:1.5"/>
+<text class="t-head" x="369" y="98" style="fill:var(--era-2)">2. The Middle Ages</text>
+<text class="t-sub" x="369" y="120">1066 to 1485</text>
+<text class="t-item" x="369" y="154">1215 Magna Carta</text>
+<text class="t-item" x="369" y="178">1314 Bannockburn; 1348 Black Death</text>
+<text class="t-item" x="369" y="202">1485 Bosworth Field</text>
+<path class="wire" d="M651 146.0H675" marker-end="url(#d18-arrow)"/>
+<rect x="678" y="66" width="298" height="160" rx="10" style="fill:color-mix(in srgb, var(--era-3) 6%, #fff);stroke:color-mix(in srgb, var(--era-3) 45%, #fff);stroke-width:1.5"/>
+<text class="t-head" x="696" y="98" style="fill:var(--era-3)">3. Tudors and Stuarts</text>
+<text class="t-sub" x="696" y="120">1485 to 1688</text>
+<text class="t-item" x="696" y="154">Henry VIII: Church of England</text>
+<text class="t-item" x="696" y="178">1588 Spanish Armada</text>
+<text class="t-item" x="696" y="202">1642 Civil War; 1688 Revolution</text>
+<rect x="24" y="274" width="298" height="160" rx="10" style="fill:color-mix(in srgb, var(--era-4) 6%, #fff);stroke:color-mix(in srgb, var(--era-4) 45%, #fff);stroke-width:1.5"/>
+<text class="t-head" x="42" y="306" style="fill:var(--era-4)">4. A global power</text>
+<text class="t-sub" x="42" y="328">1689 to 1901</text>
+<text class="t-item" x="42" y="362">1707 Act of Union</text>
+<text class="t-item" x="42" y="386">1805 Trafalgar; 1815 Waterloo</text>
+<text class="t-item" x="42" y="410">1833 slavery abolished</text>
+<path class="wire" d="M324 354.0H348" marker-end="url(#d18-arrow)"/>
+<rect x="351" y="274" width="298" height="160" rx="10" style="fill:color-mix(in srgb, var(--era-5) 6%, #fff);stroke:color-mix(in srgb, var(--era-5) 45%, #fff);stroke-width:1.5"/>
+<text class="t-head" x="369" y="306" style="fill:var(--era-5)">5. The 20th century</text>
+<text class="t-sub" x="369" y="328">1900 to 1945</text>
+<text class="t-item" x="369" y="362">1914 to 1918 First World War</text>
+<text class="t-item" x="369" y="386">1918 and 1928 votes for women</text>
+<text class="t-item" x="369" y="410">1939 to 1945 Second World War</text>
+<path class="wire" d="M651 354.0H675" marker-end="url(#d18-arrow)"/>
+<rect x="678" y="274" width="298" height="160" rx="10" style="fill:color-mix(in srgb, var(--era-6) 6%, #fff);stroke:color-mix(in srgb, var(--era-6) 45%, #fff);stroke-width:1.5"/>
+<text class="t-head" x="696" y="306" style="fill:var(--era-6)">6. Britain since 1945</text>
+<text class="t-sub" x="696" y="328">1945 onwards</text>
+<text class="t-item" x="696" y="362">1948 NHS founded</text>
+<text class="t-item" x="696" y="386">1973 joins the EEC</text>
+<text class="t-item" x="696" y="410">1999 devolution</text>
+<path class="wire" d="M827.0 228V250.0H173.0V271" marker-end="url(#d18-arrow)"/>
+</svg>
+</figure>
 
 Learn these anchor dates first; the tables below hang every other fact on them.
 {: .note}
@@ -146,7 +194,7 @@ The break with Rome under Henry VIII and the Civil War of 1642 are the two big t
 | --- | --- | --- |
 | 1485 to 1509 | **Henry VII** | Strengthened central government, cut the power of the nobles |
 | 1509 to 1547 | **Henry VIII**{: .hy} breaks with Rome | Pope refused to annul his marriage, so he founded the **Church of England** with the king as head |
-| Henry VIII's reign | Henry VIII's **six wives** | Catherine of Aragon (divorced), Anne Boleyn (beheaded, mother of Elizabeth I), Jane Seymour (died, mother of Edward VI), Anne of Cleves (divorced), Catherine Howard (beheaded), Catherine Parr (survived) |
+| Henry VIII's reign | Henry VIII's **six wives** | Catherine of Aragon (divorced), Anne Boleyn (executed, mother of Elizabeth I), Jane Seymour (died, mother of Edward VI), Anne of Cleves (divorced), Catherine Howard (executed), Catherine Parr (survived) |
 | 1530s | **Act for the Government of Wales** | Wales formally united with England; Welsh MPs in the Commons |
 | 1530s | **Reformation** | Protestant churches break from the Pope; Protestants read the Bible in their own language |
 | 1547 | **Edward VI** | Protestant; **Book of Common Prayer** written; ruled just over six years and died aged 15 |
@@ -235,9 +283,46 @@ The break with Rome under Henry VIII and the Civil War of 1642 are the two big t
 The Tudors: two Henrys, then Henry VIII's three children, *Edward, Mary, Elizabeth*.
 {: .hook}
 
-![Henry VIII's six wives in order: divorced, beheaded, died, divorced, beheaded, survived]({{ '/assets/img/history/henry-viii-wives.png' | relative_url }})
+<figure class="diagram">
+<svg viewBox="0 0 1000 354" role="img" aria-labelledby="d19-title d19-desc">
+<title id="d19-title">Henry VIII&#x27;s six wives, in order</title>
+<desc id="d19-desc">Henry VIII&#x27;s six wives in order: Catherine of Aragon, a Spanish princess and mother of Mary, divorced; Anne Boleyn, mother of Elizabeth, executed; Jane Seymour, mother of Edward, died shortly after his birth; Anne of Cleves, a German princess, divorced; Catherine Howard, a cousin of Anne Boleyn, executed; Catherine Parr, a widow, survived him.</desc>
+<defs><marker id="d19-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#a3aab6"/></marker></defs>
+<text class="t-title" x="24" y="32">Henry VIII&#x27;s six wives, in order</text>
+<text class="t-sub" x="24" y="54">Divorced, executed, died, divorced, executed, survived</text>
+<rect x="24" y="74" width="298" height="106" rx="10" class="box"/>
+<text class="t-head" x="42" y="106">1. Catherine of Aragon</text>
+<text class="t-head" x="42" y="132" style="fill:var(--muted)">Divorced</text>
+<text class="t-sub" x="42" y="158">Spanish princess; mother of Mary</text>
+<path class="wire" d="M324 127.0H348" marker-end="url(#d19-arrow)"/>
+<rect x="351" y="74" width="298" height="106" rx="10" class="box"/>
+<text class="t-head" x="369" y="106">2. Anne Boleyn</text>
+<text class="t-head" x="369" y="132" style="fill:#be123c">Executed</text>
+<text class="t-sub" x="369" y="158">English; mother of Elizabeth</text>
+<path class="wire" d="M651 127.0H675" marker-end="url(#d19-arrow)"/>
+<rect x="678" y="74" width="298" height="106" rx="10" class="box"/>
+<text class="t-head" x="696" y="106">3. Jane Seymour</text>
+<text class="t-head" x="696" y="132" style="fill:#a16207">Died</text>
+<text class="t-sub" x="696" y="158">Mother of Edward; died after his birth</text>
+<rect x="24" y="228" width="298" height="106" rx="10" class="box"/>
+<text class="t-head" x="42" y="260">4. Anne of Cleves</text>
+<text class="t-head" x="42" y="286" style="fill:var(--muted)">Divorced</text>
+<text class="t-sub" x="42" y="312">German princess</text>
+<path class="wire" d="M324 281.0H348" marker-end="url(#d19-arrow)"/>
+<rect x="351" y="228" width="298" height="106" rx="10" class="box"/>
+<text class="t-head" x="369" y="260">5. Catherine Howard</text>
+<text class="t-head" x="369" y="286" style="fill:#be123c">Executed</text>
+<text class="t-sub" x="369" y="312">A cousin of Anne Boleyn</text>
+<path class="wire" d="M651 281.0H675" marker-end="url(#d19-arrow)"/>
+<rect x="678" y="228" width="298" height="106" rx="10" class="box"/>
+<text class="t-head" x="696" y="260">6. Catherine Parr</text>
+<text class="t-head" x="696" y="286" style="fill:#15803d">Survived</text>
+<text class="t-sub" x="696" y="312">A widow; she survived Henry</text>
+<path class="wire" d="M827.0 182V204.0H173.0V225" marker-end="url(#d19-arrow)"/>
+</svg>
+</figure>
 
-Three Catherines, two Annes, one Jane. The two beheaded wives were cousins.
+Three Catherines, two Annes, one Jane. The two executed wives were cousins.
 {: .hook}
 
 ## 4. A global power (1689 to 1901)
@@ -281,7 +366,41 @@ This era takes Britain from the Bill of Rights (1689) to the end of Queen Victor
 | 1865 to 1936 | **Rudyard Kipling** | Born in India; *The Jungle Book*, *Just So Stories*, poem *If*; **Nobel Prize in Literature, 1907** |
 | 1899 to 1902 | **Boer War** (South Africa) | Against Dutch settlers (Boers); fuelled debate on the Empire's future |
 
-![How the UK was built: five steps from 1284 to 1922]({{ '/assets/img/history/forming-the-uk.png' | relative_url }})
+<figure class="diagram">
+<svg viewBox="0 0 1000 430" role="img" aria-labelledby="d20-title d20-desc">
+<title id="d20-title">How the UK was formed: five steps from 1284 to 1922</title>
+<desc id="d20-desc">1284 Statute of Rhuddlan annexes Wales; 1603 James VI of Scotland becomes James I of England; 1707 Act of Union creates the Kingdom of Great Britain; 1801 Ireland joins to make the United Kingdom of Great Britain and Ireland; 1922 Ireland becomes two countries and Northern Ireland stays in the UK.</desc>
+<defs><marker id="d20-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#a3aab6"/></marker></defs>
+<text class="t-title" x="24" y="32">How the UK was formed: five steps from 1284 to 1922</text>
+<text class="t-sub" x="24" y="54">The Welsh dragon is not on the Union Flag: Wales was already united with England.</text>
+<path d="M200 101.0V381.0" style="stroke:var(--line);stroke-width:2"/>
+<text class="t-item" x="176" y="106.0" text-anchor="end" style="font-weight:700">1284</text>
+<circle cx="200" cy="101.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="72" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="96">Wales annexed to the Crown of England</text>
+<text class="t-sub" x="242" y="117">Edward I&#x27;s Statute of Rhuddlan; formally united with England under Henry VIII</text>
+<text class="t-item" x="176" y="176.0" text-anchor="end" style="font-weight:700">1603</text>
+<circle cx="200" cy="171.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="142" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="166">One monarch for England and Scotland</text>
+<text class="t-sub" x="242" y="187">James VI of Scotland becomes James I of England, Wales and Ireland; Scotland stays separate</text>
+<text class="t-item" x="176" y="246.0" text-anchor="end" style="font-weight:700">1707</text>
+<circle cx="200" cy="241.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="212" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="236">Kingdom of Great Britain</text>
+<text class="t-sub" x="242" y="257">Act of Union; Scotland keeps its own legal and education systems and Presbyterian Church</text>
+<text class="t-item" x="176" y="316.0" text-anchor="end" style="font-weight:700">1801</text>
+<circle cx="200" cy="311.0" r="6" style="fill:#c3c8d1"/>
+<rect x="224" y="282" width="752" height="58" rx="10" class="box"/>
+<text class="t-head" x="242" y="306">United Kingdom of Great Britain and Ireland</text>
+<text class="t-sub" x="242" y="327">Ireland unified with Britain; the Union Flag adds the cross of St Patrick</text>
+<text class="t-item" x="176" y="386.0" text-anchor="end" style="font-weight:700">1922</text>
+<circle cx="200" cy="381.0" r="8" style="fill:var(--era, var(--accent))"/>
+<rect x="224" y="352" width="752" height="58" rx="10" style="fill:color-mix(in srgb, var(--era, var(--accent)) 7%, #fff);stroke:var(--era, var(--accent));stroke-width:1.5"/>
+<text class="t-head" x="242" y="376">Ireland becomes two countries</text>
+<text class="t-sub" x="242" y="397">Six northern counties stay in the UK as Northern Ireland; the rest becomes the Irish Free State</text>
+</svg>
+</figure>
 
 Union Flag crosses: **St George** (red cross on white, England), **St Andrew** (white diagonal on blue, Scotland), **St Patrick** (red diagonal on white, Ireland).
 {: .hook}
@@ -568,5 +687,5 @@ Most wrong answers come from mixing up these pairs, so drill them last before th
 | **Lancaster** vs **York** | **Red** rose vs **white** rose; Henry VII (Lancaster) married Elizabeth of York and united the two families |
 | **Chaucer** vs **Caxton** | Chaucer **wrote** *The Canterbury Tales*; Caxton **printed** books |
 
-Henry VIII's wives in order: *divorced, beheaded, died, divorced, beheaded, survived*.
+Henry VIII's wives in order: *divorced, executed, died, divorced, executed, survived*.
 {: .hook}
