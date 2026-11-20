@@ -345,9 +345,11 @@ a.card:hover { transform: translateY(-2px); box-shadow: 0 2px 4px rgb(16 24 40 /
   h1 { font-size: 34px; }
   h2 { font-size: 26px; margin-top: 56px; }
   .site-header { padding: 12px 16px; }
-  .study-bar { margin: 16px -16px 8px; padding: 8px 16px; }
+  .study-bar { flex-wrap: nowrap; gap: 8px; margin: 16px -16px 8px; padding: 8px 16px; }
+  .study-bar .label { font-size: 14px; white-space: nowrap; }
   .study-bar .hint { display: none; }
-  .seg button { padding: 6px 12px; font-size: 14px; }
+  .seg button { padding: 6px 10px; font-size: 14px; white-space: nowrap; }
+  h2, h3 { scroll-margin-top: 72px; }
   #markdown-toc { columns: 1; }
   .chapter-nav { grid-template-columns: 1fr; text-align: center; }
   .chapter-nav .next { text-align: center; }
@@ -358,7 +360,7 @@ a.card:hover { transform: translateY(-2px); box-shadow: 0 2px 4px rgb(16 24 40 /
   tr { padding: 12px 16px; border-bottom: 1px solid var(--line); }
   tbody tr:last-child { border-bottom: 0; }
   td { padding: 2px 0; border: 0; }
-  td:first-child { white-space: normal; font-weight: 700; color: var(--era, var(--text)); margin-bottom: 2px; }
+  td:first-child { white-space: normal; font-weight: 700; margin-bottom: 2px; } /* key dates keep their era colour via strong */
   td[data-label]:not(:first-child)::before {
     content: attr(data-label);
     display: block;
