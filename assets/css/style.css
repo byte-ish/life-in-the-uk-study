@@ -66,6 +66,7 @@ a:hover { text-decoration-thickness: 2px; }
 .page { max-width: 1000px; margin: 0 auto; }
 .content { max-width: 1000px; margin: 0 auto; padding: 32px 24px; }
 .content > p, .content > ul, .content > ol { max-width: 72ch; }
+.content > p:has(img) { max-width: none; } /* diagrams use the full width */
 
 h1, h2, h3 { font-weight: 700; line-height: 1.2; letter-spacing: -0.015em; }
 h1 { font-size: 38px; margin: 8px 0 12px; }
