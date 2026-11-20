@@ -294,7 +294,7 @@ body.gold-only .table-wrap:not(:has(.hy)) { display: none; }
 #revision h3 a:hover { color: var(--accent); }
 .revision-card { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; margin: 28px 0 0; padding: 18px 22px; border: 1px solid var(--gold-bar); border-radius: var(--radius); background: var(--gold-bg); color: var(--text); text-decoration: none; }
 .revision-card strong { font-size: 18px; }
-.revision-card span { color: var(--gold-text); font-weight: 700; }
+.revision-card .rc-go { color: var(--gold-text); font-weight: 700; }
 
 [data-quiz="dates"] td.q-date:not(.shown),
 [data-quiz="hooks"] td.q-hook:not(.shown) {
