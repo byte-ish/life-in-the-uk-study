@@ -19,7 +19,7 @@ This sheet follows Chapter 5 of the official handbook, *Life in the United Kingd
 
 - Chapter 5 is a big part of the test: **121 of the 390** official 2013 practice questions come from it.
 - **Bold** = a key name, date or number. Gold rows marked **★ Often asked** = topics the official practice questions ask about, most of them more than once.
-- **This is the chapter most changed since 2013.** TSO says the handbook's sections on the UK's EU membership and on Queen Elizabeth II and the monarchy "have been removed from subsequent prints" ([TSO](https://tsoshop.com/product/9780113414185/Society/Life-in-the-UK/Life-in-the-United-Kingdom-Official-Practice-Questions-and-Answers-PDF)). So this sheet leaves out the EU material, and shows the 2013 monarchy wording next to today's. **Your printed copy is the final word.**
+- **This is the chapter most changed since 2013.** TSO says the handbook's sections on the UK's EU membership and on Queen Elizabeth II and the monarchy "have been removed from subsequent prints" ([TSO](https://tsoshop.co.uk/article/636421/Life-in-the-United-Kingdom-A-Guide-for-New-Residents-3rd-Edition)). So this sheet leaves out the EU material, and shows the 2013 monarchy wording next to today's. Newer printings may word these parts differently: **if your copy of the handbook differs from this sheet, follow the handbook.**
 - Rows marked **Today (not in the handbook)** show changes since 2013, each checked online and linked. They are not tested.
 
 <figure class="diagram">
@@ -102,12 +102,12 @@ The UK is a parliamentary democracy with the monarch as head of state, and a **c
 
 | 2013 text (removed or updated in later prints) | Today (verified) | Exam hook |
 | --- | --- | --- |
-| **Queen Elizabeth II**{: .hy} is head of state; reigned since her father's death in **1952**; **Diamond Jubilee** in **2012** (60 years as queen) | Queen Elizabeth II died on **8 September 2022**; **King Charles III** is the monarch ([TSO](https://tsoshop.com/product/9780113414185/Society/Life-in-the-UK/Life-in-the-United-Kingdom-Official-Practice-Questions-and-Answers-PDF)) | The official 2013 practice set asked about 1952 and the Diamond Jubilee |
+| **Queen Elizabeth II**{: .hy} is head of state; reigned since her father's death in **1952**; **Diamond Jubilee** in **2012** (60 years as queen) | Queen Elizabeth II died on **8 September 2022**; **King Charles III** is the monarch ([TSO](https://tsoshop.co.uk/article/636421/Life-in-the-United-Kingdom-A-Guide-for-New-Residents-3rd-Edition)) | The official 2013 practice set asked about 1952 and the Diamond Jubilee |
 | Married to **Prince Philip, the Duke of Edinburgh**; heir: **Prince Charles, the Prince of Wales** | Prince Charles became King Charles III | |
-| National Anthem: **"God Save the Queen"** | **"God Save the King"** since September 2022 ([Classic FM](https://amp.classicfm.com/discover-music/periods-genres/national-anthems/god-save-the-king-history-change/)) | Only "Queen" became "King" and the pronouns changed |
+| National Anthem: **"God Save the Queen"** | **"God Save the King"**, now that the monarch is a king ([royal.uk](https://www.royal.uk/national-anthem)) | Only "Queen" became "King" and the pronouns changed |
 | Allegiance to "Her Majesty Queen Elizabeth the Second, her Heirs and Successors" | Allegiance to "King Charles III, his Heirs and Successors" ([GOV.UK guidance](https://assets.publishing.service.gov.uk/media/645a174cc6e8970012a0fadf/Citizenship_Ceremonies_Guidance_Notes_2023.pdf)) | |
 
-A prep site reports that the handbook was updated on 15 June 2023 to say "King" instead of "Queen" ([thelifeinuktest.co.uk](https://www.thelifeinuktest.co.uk/new-3rd-edition-test/)). Check what your 2025 printing says about the monarchy before relying on the 2013 wording.
+A prep site reports that the handbook was updated on 15 June 2023 to say "King" instead of "Queen" ([thelifeinuktest.co.uk](https://www.thelifeinuktest.co.uk/new-3rd-edition-test/)). Recent printings of the handbook may use this updated wording, so check the printing you are studying from.
 {: .note}
 
 The monarch's three verbs with the Prime Minister: **advise, warn, encourage**. The decisions belong to the PM and cabinet.
@@ -136,7 +136,7 @@ The UK is divided into **constituencies**. Voters in each one elect an MP at a G
 | Hansard | Proceedings in Parliament are **broadcast on television** and published in official reports called **Hansard** | |
 | The media | The UK has a **free press**{: .hy}: newspapers are free from government control; radio and TV coverage of the parties must be **balanced** | |
 
-The 2013 text also described elections to the European Parliament (MEPs, every five years). TSO says the EU sections were removed from later prints; the UK left the EU on 31 January 2020 ([TSO](https://tsoshop.com/product/9780113414185/Society/Life-in-the-UK/Life-in-the-United-Kingdom-Official-Practice-Questions-and-Answers-PDF)).
+The 2013 text also described elections to the European Parliament (MEPs, every five years). TSO says the EU sections were removed from later prints; the UK left the EU on 31 January 2020 ([TSO](https://tsoshop.co.uk/article/636421/Life-in-the-United-Kingdom-A-Guide-for-New-Residents-3rd-Edition)).
 {: .note}
 
 **Lords dates**: until **1958** all peers were hereditary, judges or bishops; from **1958**, life peers; from **1999**, hereditary peers lost their automatic seat.
@@ -328,7 +328,7 @@ Judges (**the judiciary**) interpret the law and make sure trials are fair; the 
 | County Courts | Civil disputes: money owed, **personal injury**, **family matters**, **breaches of contract**, **divorce**{: .hy} | Scotland: mostly the **Sheriff Court** |
 | Serious civil cases | E.g. large compensation claims: the **High Court** (England, Wales, NI); the **Court of Session** in Edinburgh (Scotland) | |
 | Small claims procedure | An **informal** way to settle minor disputes **without a lawyer**{: .hy}; under **£5,000** in England and Wales, under **£3,000** in Scotland and NI (2013); a judge in an ordinary room, around a table | Also online: **Money Claims Online** |
-| Today (not in the handbook) | The England and Wales small claims limit rose to **£10,000** on **1 April 2013** ([MoneySavingExpert](https://www.moneysavingexpert.com/news/2013/04/small-claims-limit-rises/)) | For the test, use the handbook's figures |
+| Today (not in the handbook) | The England and Wales small claims limit rose to **£10,000** on **1 April 2013** ([Civil Procedure Rules 27.1, as at 1 April 2013](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.1/2013-04-01)) | For the test, use the handbook's figures |
 | Solicitors | Trained lawyers who **advise**, act for clients and **represent them in court**; charges usually based on **time** spent | The **Citizens Advice Bureau**{: .hy} can suggest local solicitors; so can the **Law Society** (England and Wales), the Law Society of Scotland and the Law Society of Northern Ireland |
 | The Old Bailey | Probably the **most famous criminal court in the world** | From the handbook's photo caption |
 
