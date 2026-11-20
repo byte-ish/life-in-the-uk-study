@@ -391,7 +391,7 @@ Music, theatre, art, architecture, design and literature, and the prizes that re
 | More recent poets | Sir Walter de la Mare, John Masefield, Sir John Betjeman, Ted Hughes | |
 | Poet's Corner | In **Westminster Abbey**: many poets are buried or commemorated there | |
 
-The handbook spells some names differently from the usual spelling: it has *Balthazar's Feast* (Walton's work is usually spelled *Belshazzar's Feast*), "Sir Lawrence Olivier" in the film section, "Sir Antony Hopkins" and "Ludwig Guttman" (usually Guttmann).
+Spellings on this sheet follow the handbook, which is not always consistent: it writes "Sir Laurence Olivier" in its theatre section but "Sir Lawrence Olivier" in its film section.
 {: .note}
 
 **Awards by art form**: music = **Mercury** (album) and **Brits**; theatre = **Laurence Olivier Awards**; art = **Turner Prize**; film = **BAFTAs**; fiction = **Man Booker**; worldwide = **Nobel**.
@@ -445,7 +445,7 @@ How people in the UK spend their free time, and the age rules that come with it.
 | 2003 | *Touching the Void* | Directed by Kevin MacDonald |
 | Later directors | **Sir David Lean** and **Ridley Scott** | |
 | Today's industry | **Ealing Studios**: oldest continuously working film studio; **Harry Potter** and **James Bond** are the two highest-grossing franchises; **Nick Park**: four Oscars, three for **Wallace and Gromit** | Strong in special effects and animation |
-| Actors | **Sir Laurence Olivier, David Niven, Sir Rex Harrison, Richard Burton**; recent Oscar winners **Colin Firth, Sir Anthony Hopkins, Dame Judi Dench, Kate Winslet, Tilda Swinton** | |
+| Actors | **Sir Lawrence Olivier, David Niven, Sir Rex Harrison, Richard Burton**; recent Oscar winners **Colin Firth, Sir Antony Hopkins, Dame Judi Dench, Kate Winslet, Tilda Swinton** | |
 | Awards | The **BAFTAs** (British Academy Film Awards) are the British equivalent of the **Oscars** | |
 
 **16 and 18**: at 16 you can play the Lottery and have wine or beer with a meal (with an adult); at 18 you can buy alcohol and gamble.
