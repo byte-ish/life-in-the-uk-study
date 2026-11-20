@@ -26,10 +26,14 @@
     });
   });
 
-  // Self-test: blur the date column or the exam-hook column; tap a cell to reveal it.
+  // Self-test: blur the date column or the answer columns; tap a cell to reveal it.
   // Columns are found by their header text, so new chapters work if they use the same headers.
-  var COLUMNS = { 'when': 'q-date', 'exam hook': 'q-hook', 'what': 'q-hook', 'tell them apart': 'q-hook' };
-  var MODES = [['off', 'Off'], ['dates', 'Hide dates'], ['hooks', 'Hide hooks']];
+  var COLUMNS = {
+    'when': 'q-date',
+    'exam hook': 'q-hook', 'what': 'q-hook', 'tell them apart': 'q-hook', 'handbook says': 'q-hook',
+    'principle': 'q-hook', 'responsibility': 'q-hook', 'freedom': 'q-hook'
+  };
+  var MODES = [['off', 'Off'], ['dates', 'Hide dates'], ['hooks', 'Hide answers']];
   var cells = [];
 
   content.querySelectorAll('table').forEach(function (table) {
@@ -54,6 +58,10 @@
       '<span class="hint">Tap a blurred cell to reveal it, tap again to hide it</span>';
     var seg = bar.querySelector('.seg');
     var hint = bar.querySelector('.hint');
+    // Only offer a mode if the page has columns for it (Chapter 1 has no dates).
+    MODES = MODES.filter(function (m) {
+      return m[0] === 'off' || content.querySelector(m[0] === 'dates' ? '.q-date' : '.q-hook');
+    });
     MODES.forEach(function (m) {
       var b = document.createElement('button');
       b.type = 'button';

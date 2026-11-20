@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 3: History timeline cheat sheet"
 permalink: /history/
 chapter: 3
+nav_title: History
 ---
 
 # Chapter 3: History timeline cheat sheet
@@ -41,7 +42,7 @@ Britain became an island about 10,000 years ago, and 1066 is the last successful
 | **55 BC**{: .hy} | Julius Caesar invades | Unsuccessful |
 | **AD 43**{: .hy} | Emperor **Claudius** invades | Successful; Romans stay about 400 years |
 | AD 43+ | **Boudicca**, queen of the Iceni (eastern England), fights the Romans | Statue on Westminster Bridge, London |
-| AD 122 onwards | **Hadrian's Wall** built | To keep out the Picts (ancestors of the Scottish); forts Housesteads and Vindolanda; UNESCO World Heritage Site |
+| AD 122 onwards | **Hadrian's Wall** built | To keep out the Picts (ancestors of the Scottish); the handbook gives no year; forts Housesteads and Vindolanda; UNESCO World Heritage Site |
 | **AD 410**{: .hy} | Romans leave to defend other parts of their empire | Left roads, public buildings, law, new plants and animals |
 | After 410 | Jutes, Angles and Saxons invade | Anglo-Saxon kingdoms by about AD 600; much of Wales, and Scotland, stay free |
 | AD 400s to 600s | Christian missionaries | **St Patrick** = Ireland; **St Columba** = Iona; **St Augustine** = first Archbishop of Canterbury |
@@ -189,7 +190,7 @@ Two world wars dominate this era: WWI ended at 11am on 11 November 1918, and WWI
 | **July 1916** | **Battle of the Somme** | About **60,000** British casualties on the **first day** |
 | **1916** | **Easter Rising**, Dublin | Rebellion against British rule in Ireland |
 | **11 Nov 1918, 11am**{: .hy} | WWI ends | Remembered on Remembrance Day |
-| **1918**{: .hy} | Women **over 30** get the vote | Men over 21 can vote too |
+| **1918**{: .hy} | Women **over 30** get the vote | Most men over 21 could vote too |
 | 1921 / **1922** | Peace treaty; **Ireland splits in two** | **Northern Ireland** (6 counties) stays in the UK; the south becomes the **Irish Free State** (a republic from 1949) |
 | **1922** | **BBC** starts radio broadcasts | World's first regular **television** service follows in **1936** |
 | **1928**{: .hy} | Women vote at **21**, same as men | |
@@ -241,10 +242,10 @@ The NHS (1948), joining the EEC (1973) and devolution (1999) are the anchor date
 | **1997 to 2007** | **Tony Blair** (Labour) | Devolution |
 | **1998** | **Good Friday Agreement** (Belfast Agreement) | Northern Ireland peace deal |
 | **1999**{: .hy} | **Scottish Parliament** and **Welsh Assembly** open; NI Assembly elected | NI Assembly suspended 2002, restored 2007 |
+| 2001 onwards | British forces in **Afghanistan** with UN-backed international forces | The handbook (2013) predates the end of combat operations in 2014 |
 | **2003** | **Iraq** war | Britain joins a US-led coalition |
 | 2007 to 2010 | **Gordon Brown** | |
 | **2010** | **Coalition** government | Conservative and Liberal Democrat; **David Cameron** PM |
-| 2014 | British combat troops leave **Afghanistan** | Had served with UN-backed forces since 2001 |
 
 ![Prime Ministers the handbook names, from Walpole in 1721 to Cameron in 2010]({{ '/assets/img/history/prime-ministers.png' | relative_url }})
 

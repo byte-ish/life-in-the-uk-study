@@ -22,6 +22,7 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
    title: "Chapter N: <title>"
    permalink: /<short-name>/
    chapter: N
+   nav_title: <Short name>
    ---
    ```
 2. Put any diagrams in `assets/img/<short-name>/` and link them as
@@ -36,7 +37,11 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
    To mark a row as often asked (gold, with a ★ label), add `{: .hy}` straight after its bold date,
    e.g. `| **1066**{: .hy} | ... |`. Keep it to the dates practice tests ask most, about a quarter of the rows.
 5. Optional: colour a section by adding `{: .era-1}` to `{: .era-6}` on the line after its `##`
-   heading; `{: .era-none}` goes back to the default blue.
+   heading; `{: .era-none}` goes back to the default blue. Use the classes in increasing order down the page
+   (era-1 before era-2 ... before era-none), as each one only overrides the classes listed before it in the CSS.
+   Add `nav_title: <Short name>` to the front matter for the header link.
+7. Diagrams for new chapters: inline SVG inside `<figure class="diagram">` (no blank lines inside),
+   using the `.diagram` text and box classes; see `chapters/01-values.md`.
 6. In `index.md`, turn that chapter's `card soon` into an `a.card` link with a `Ready` chip
    (copy the Chapter 3 card).
 

@@ -153,6 +153,28 @@ img {
   box-shadow: var(--shadow);
 }
 
+/* Inline SVG diagrams (new chapters). They scroll sideways on phones rather than shrink to unreadable text. */
+.diagram {
+  margin: 28px 0 10px;
+  padding: 12px;
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--era, var(--line));
+  border-radius: var(--radius);
+  background: #fff;
+  box-shadow: var(--shadow);
+}
+.diagram svg { display: block; width: 100%; min-width: 660px; height: auto; }
+.diagram text { font-family: var(--font); fill: var(--text); }
+.diagram .t-title { font-size: 20px; font-weight: 700; }
+.diagram .t-head { font-size: 16px; font-weight: 700; }
+.diagram .t-sub { font-size: 13.5px; fill: var(--muted); }
+.diagram .t-item { font-size: 14.5px; }
+.diagram .t-cap { font-size: 12px; font-weight: 700; letter-spacing: 0.08em; fill: var(--muted); }
+.diagram .box { fill: #fff; stroke: var(--line); stroke-width: 1.5; }
+.diagram .box-soft { fill: var(--surface); stroke: var(--line); stroke-width: 1.5; }
+.diagram .wire { fill: none; stroke: #a3aab6; stroke-width: 1.5; }
+
 /* Memory hooks: a labelled card with a lightbulb icon in the era colour */
 .hook {
   position: relative;

@@ -17,7 +17,8 @@
     </a>
     <nav aria-label="Site">
       <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Chapters</a>
-      <a href="{{ '/history/' | relative_url }}"{% if page.url == '/history/' %} aria-current="page"{% endif %}>History timeline</a>
+      {% assign chapter_pages = site.pages | where_exp: "p", "p.chapter" | sort: "chapter" %}
+      {% for p in chapter_pages %}<a href="{{ p.url | relative_url }}"{% if page.url == p.url %} aria-current="page"{% endif %}>{{ p.chapter }}. {{ p.nav_title }}</a>{% endfor %}
     </nav>
   </header>
   <div class="page{% if page.chapter %} has-rail{% endif %}">
@@ -28,7 +29,7 @@
     {% if page.chapter %}<aside class="rail" aria-label="On this page"></aside>{% endif %}
   </div>
   <footer class="site-footer">
-    Based on <em>Life in the United Kingdom: A guide for new residents</em> (3rd edition). Personal study notes; the handbook is the final word.
+    Based on <em>Life in the United Kingdom: A guide for new residents</em> (3rd edition). Personal study notes, not affiliated with the Home Office; the handbook is the final word.
   </footer>
   {% if page.chapter %}<script src="{{ '/assets/js/study.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>{% endif %}
 </body>
