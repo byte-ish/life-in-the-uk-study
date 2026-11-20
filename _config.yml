@@ -8,3 +8,5 @@ kramdown:
   toc_levels: "2..3"
 exclude:
   - README.md
+  - LICENSE
+  - LICENSE-CONTENT.md

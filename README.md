@@ -48,3 +48,10 @@ Cheat sheets, timelines and memory diagrams for the Life in the UK test, based o
 ## Publishing
 
 Settings → Pages → Build and deployment → Source: **Deploy from a branch**, branch `main`, folder `/ (root)`. Pages on a private repository needs GitHub Pro, Team or Enterprise.
+
+## Licence
+
+- **Notes and diagrams:** CC BY-NC 4.0, excluding quoted handbook material, which stays © Crown copyright 2013. See [LICENSE-CONTENT.md](LICENSE-CONTENT.md).
+- **Site code:** MIT. See [LICENSE](LICENSE).
+
+The handbook's own terms allow reproduction for private research and study, if it is accurate, credited as Crown copyright with the title, and not presented as official. So keep quotes short and accurate, never use the Home Office crest or the handbook's cover design, and keep the footer's Crown copyright line.

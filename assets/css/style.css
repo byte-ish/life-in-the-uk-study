@@ -384,6 +384,8 @@ a.card:hover { transform: translateY(-2px); box-shadow: 0 2px 4px rgb(16 24 40 /
 .card .go { margin-top: auto; padding-top: 8px; color: var(--accent); font-weight: 700; font-size: 15px; }
 
 .site-footer { max-width: 1000px; margin: 48px auto 0; padding: 24px; color: var(--muted); font-size: 14px; border-top: 1px solid var(--line); }
+.site-footer p { margin: 0 0 8px; }
+.site-footer a { color: var(--muted); }
 
 /* Phones: tables become one card per row, labelled by column */
 @media (max-width: 640px) {
