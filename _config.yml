@@ -1,0 +1,9 @@
+title: Life in the UK study notes
+description: Cheat sheets, timelines and memory diagrams for the Life in the UK test (official handbook, 3rd edition).
+baseurl: "/life-in-the-uk-study"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - README.md
