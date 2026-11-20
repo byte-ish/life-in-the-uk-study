@@ -53,7 +53,7 @@ This sheet follows Chapter 5 of the official handbook, *Life in the United Kingd
 <rect class="box" x="670" y="316" width="306" height="64" rx="10"/><text class="t-head" x="686" y="342">Northern Ireland Assembly</text><text class="t-sub" x="686" y="364">Stormont, Belfast · 108 MLAs</text>
 <rect class="box-soft" x="24" y="396" width="952" height="56" rx="10"/>
 <text class="t-head" x="40" y="420">Local government</text>
-<text class="t-sub" x="40" y="440">Elected councils (local authorities); for most, elections every May. London: 33 local authorities, plus the Greater London Authority and the Mayor of London.</text>
+<text class="t-sub" x="40" y="440">Elected councils (local authorities), most with elections every May. London: 33 local authorities and a Mayor.</text>
 </svg>
 </figure>
 
