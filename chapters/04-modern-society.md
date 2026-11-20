@@ -21,7 +21,7 @@ This sheet follows Chapter 4 of the official handbook, *Life in the United Kingd
 - **Bold** = a key name, date or number. Gold rows marked **★ Often asked** = topics the official practice questions ask about, most of them more than once.
 - Most tables here match a name to a fact. Use **Hide answers** to test yourself: the name stays visible and the fact is blurred.
 - Updated to the **current printing** (3rd edition, 28th impression, 2026), using the text of the 2019 printing and TSO's [list of amendments](https://tsoshop.co.uk/gempdf/Life_in_the_UK_latest_impression_amendments%20050126.pdf) since then. Where a figure changed, the row says what older printings said.
-- The current printing also updates the ski centres, the National Eisteddfod's location, the Turner Prize venues, TV licences and the number of National Trust volunteers. The rows below say so where the new wording isn't shown.
+- The current printing also updates the ski centres, the National Eisteddfod's location, the Turner Prize venues, TV licences and the number of National Trust volunteers. Those rows give today's position from official sources, marked "checked online"; the printing's own wording may differ slightly.
 - The handbook says you **will not need to remember dates of birth or death**, so the years in brackets after people's names are for context only.
 - Rows marked **Today (not in the handbook)** show changes since 2013. Newer printings of the handbook may already include some of these changes, so if your copy differs from this sheet, follow your copy.
 
@@ -282,7 +282,7 @@ Many famous sports began in Britain: **cricket, football, lawn tennis, golf and 
 | Sailing | **Sir Francis Chichester**: first to sail single-handed around the world, passing the **Cape of Good Hope** (Africa) and **Cape Horn** (South America), **1966/67**; **Sir Robin Knox-Johnston**: two years later, first to do it **without stopping** | Most famous event: **Cowes**, Isle of Wight |
 | Rowing | Popular for leisure and competition | Yearly race on the **Thames** between **Oxford and Cambridge** |
 | Motor sports | Motor-car racing in the UK started in **1902**; a Formula 1 Grand Prix each year | Recent British F1 champions: **Damon Hill, Lewis Hamilton, Jenson Button** |
-| Skiing | Dry ski slopes across the UK | Older printings: **five ski centres in Scotland** and Europe's longest dry slope near **Edinburgh**. The current printing updates the ski centres |
+| Skiing | Dry ski slopes across the UK; skiing on snow is possible in winter | **Five ski centres in Scotland**: Cairngorm, Glencoe, Glenshee, The Lecht and Nevis Range ([VisitScotland](https://www.visitscotland.com/see-do/active/skiing-snowsports/), checked online, November 2026). Older printings also mention Europe's longest dry slope near Edinburgh |
 
 The official practice questions ask about 9 of these 16 people. Use **Hide answers** to drill them.
 {: .note}
@@ -320,7 +320,7 @@ Music, theatre, art, architecture, design and literature, and the prizes that re
 | Pop music | **The Beatles** and **The Rolling Stones** since the 1960s; **Punk** in the late 1970s; **boy and girl bands** in the 1990s | |
 | Big venues | **Wembley Stadium**; **The O2** in Greenwich; the **SECC** in Glasgow | |
 | Festivals | **Glastonbury**, the **Isle of Wight Festival**, **Creamfields** | Older printings: the V Festival |
-| National Eisteddfod of Wales | Annual festival of music, dance, art and performances, **largely in Welsh**; important Welsh **poetry** competitions | Welsh. The current printing updates its location |
+| National Eisteddfod of Wales | Annual festival of music, dance, art and performances, **largely in Welsh**; important Welsh **poetry** competitions | Welsh. Held each **August** in a **different place**, moving between **north and south Wales** ([Visit Wales](https://www.visitwales.com/things-do/events/festivals/national-eisteddfod), checked online, November 2026) |
 | Mercury Music Prize | Each **September**, for the best album from the UK and Ireland | Best album |
 | Brit Awards | Annual awards such as best British group and best British solo artist | |
 | West End | London's **"Theatreland"** | |
@@ -331,7 +331,7 @@ Music, theatre, art, architecture, design and literature, and the prizes that re
 | Edinburgh Festival | Every **summer**; the biggest part is the **Fringe**, mainly theatre and comedy, often experimental | |
 | Laurence Olivier Awards | Annual theatre awards in London: best director, actor, actress | Named after Sir Laurence Olivier, known for Shakespeare roles |
 | Galleries | **The National Gallery, Tate Britain, Tate Modern** (London); **National Museum** (Cardiff); **National Gallery of Scotland** (Edinburgh) | Tate Modern is in the former **Bankside Power Station** |
-| Turner Prize | Since **1984**; contemporary art; named after Joseph Turner; four works shortlisted and exhibited | Winners include Damien Hirst, Richard Wright. Older printings: shown at **Tate Britain**; the current printing updates the venues |
+| Turner Prize | Since **1984**; contemporary art; named after Joseph Turner; four works shortlisted and exhibited | Winners include Damien Hirst, Richard Wright. Shown at **Tate Britain** every other year and at a gallery **outside London** in the others ([Tate](https://www.tate.org.uk/art/turner-prize), checked online, November 2026); older printings: Tate Britain only |
 | Nobel Prize in Literature | **Sir William Golding** (novelist), **Seamus Heaney** (poet), **Harold Pinter**{: .hy} (playwright) | Asked twice in the official practice set |
 | Booker Prize for Fiction | Since **1968**; best fiction novel by an author from the Commonwealth, Ireland or Zimbabwe; winners include Ian McEwan, Hilary Mantel, Julian Barnes | Older printings: the Man Booker Prize |
 | Best-loved novel | **2003**: *The Lord of the Rings* by **J R R Tolkien** | |
@@ -416,7 +416,7 @@ How people in the UK spend their free time, and the age rules that come with it.
 | Traditional food | **England**: roast beef with Yorkshire puddings; fish and chips. **Wales**: **Welsh cakes**. **Scotland**: **haggis**{: .hy} (sheep's stomach with offal, suet, onions, oatmeal). **Northern Ireland**: **Ulster fry** | Foods by nation are asked often |
 | Comedy | Medieval **jesters**; 18th-century **political cartoons**; ***Punch*** (1840s); ***Private Eye***; music hall stars like **Morecambe and Wise**; *That Was The Week That Was* (1960s); *Spitting Image* (1980s–90s); **1969**: *Monty Python's Flying Circus* | |
 | TV | Soaps: **Coronation Street**, **EastEnders**; a Gaelic channel in Scotland and a Welsh-language channel in Wales | |
-| TV licence | **Everyone**{: .hy} with a TV, computer or other device that can be used to watch TV needs one; one per home (separate tenancies need their own); over-75s can apply for a **free** licence; blind people get **50%** off; fine of up to **£1,000** | Today (not in the handbook): since 2020 only over-75s on Pension Credit get it free The current printing updates this section |
+| TV licence | **Everyone**{: .hy} with a TV, computer or other device that can be used to watch TV needs one; one per home (separate tenancies need their own); over-75s can apply for a **free** licence; blind people get **50%** off; fine of up to **£1,000** | Today: free only if you're **75 or over and get Pension Credit**; blind people still get a discount ([GOV.UK](https://www.gov.uk/free-discount-tv-licence), checked online, November 2026). Older printings: free for everyone over 75 |
 | The BBC | Paid for by TV licences; the **largest broadcaster in the world**; it receives some state funding but is **independent of the government** | Other channels: adverts and subscriptions. Older printings: "the only wholly state-funded media organisation that is independent of the government" |
 | Social networking | Facebook and **X** (formerly Twitter) | |
 | Pubs | The "local" is a community focal point; **pub quizzes**; **pool and darts** are traditional pub games; usually open from **11.00 am** (12 noon on Sundays); the **licensee** decides the hours | |
@@ -465,7 +465,7 @@ National parks, the National Trust, and the nine landmarks the handbook describe
 | --- | --- | --- |
 | National parks | **15**{: .hy} in England, Wales and Scotland: protected countryside that everyone can visit, where people live, work and look after the landscape | 15 |
 | National Trust | The **National Trust** (England, Wales, Northern Ireland) and the **National Trust for Scotland**{: .hy}: charities preserving buildings, coastline and countryside | |
-| National Trust history | Founded in **1895** by **three volunteers** | Older printings: more than 61,000 volunteers today; the current printing updates the number |
+| National Trust history | Founded in **1895** by **three volunteers** | In 2024–25, **42,590** volunteers helped ([National Trust annual report](https://docs.nationaltrust.org.uk/national-trust-annual-report-2024-25), checked online, November 2026); older printings: more than 61,000 |
 
 | Landmark | Where | Exam hook |
 | --- | --- | --- |

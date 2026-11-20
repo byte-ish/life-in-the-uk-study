@@ -42,7 +42,7 @@ TSO's site is sometimes slow or returns 502 errors to scripts. Retry, or open it
 | Printing the site follows | 3rd edition, **28th impression** (2026) |
 | How | Full text of the **19th impression (2019)** compared with the 2013 text, plus TSO's amendment list for impressions 23 to 28, with each new figure checked online |
 | Last full review | 20 November 2026 |
-| Gaps | TSO says the current printing updates these, but the new wording hasn't been seen. The rows say "the current printing updates this". **Chapter 4:** ski centres, National Eisteddfod location, Turner Prize venues, TV licences, National Trust volunteer numbers. **Chapter 5:** contacting elected members, the electoral register, polling stations, the Scottish Parliament, applying for a National Insurance number online. Also printings 20 to 22, which no list covers. A copy or photos of the current printing would close these |
+| Gaps | 1. Ten rows that TSO says the current printing changed now show **today's position from official sources**, marked "checked online": Chapter 4: ski centres, National Eisteddfod, Turner Prize venues, TV licences, National Trust volunteers. Chapter 5: contacting your MP, the electoral register, polling stations (photo ID), visiting the Scottish Parliament, the National Insurance number. The printing's own wording for these hasn't been seen. 2. **Printings 20 to 22** (2019–2022): no public list of changes was found. A copy of the current printing (eBook/PDF) run through `tools/diff_printings.py` against the 2019 text would close both |
 
 ## The yearly review
 
@@ -131,3 +131,4 @@ for the current printing is published, use that instead.
 | --- | --- | --- |
 | 2026-11-20 | All chapters moved from the 2013 text to the current printing: religion (2011 Census), no dates of birth or death in the test, settlement rules, history to 2016, 2021 population, sport and arts updates, Senedd, Council of Europe, police complaints, vehicle tax, jury age, NCS removed, small claims limits | 2019 EPUB; TSO amendments list (5 Jan 2026); official sources linked on each row |
 | 2026-11-20 | Coverage check against all 390 official 2013 practice answers; missing tested facts added | law.resource.org practice answers |
+| 2026-11-20 | The ten rows TSO flags as updated, without wording in its list, filled with today's position from official sources ("checked online") | GOV.UK, VisitScotland, Visit Wales, Tate, National Trust annual report 2024–25, Parliament, parliament.scot |

@@ -21,7 +21,7 @@ This sheet follows Chapter 5 of the official handbook, *Life in the United Kingd
 - **Bold** = a key name, date or number. Gold rows marked **★ Often asked** = topics the official practice questions ask about, most of them more than once.
 - **This is the chapter most changed since 2013.** TSO says the handbook's sections on the UK's EU membership and on Queen Elizabeth II and the monarchy "have been removed from subsequent prints" ([TSO](https://tsoshop.co.uk/article/636421/Life-in-the-United-Kingdom-A-Guide-for-New-Residents-3rd-Edition)). TSO's [list of amendments](https://tsoshop.co.uk/gempdf/Life_in_the_UK_latest_impression_amendments%20050126.pdf) shows that printings from the 23rd impression say **the King**, with a paragraph on Queen Elizabeth II's death. So this sheet leaves out the EU material, and shows the 2013 monarchy wording next to today's. Newer printings may word these parts differently: **if your copy of the handbook differs from this sheet, follow the handbook.**
 - Updated to the **current printing** (3rd edition, 28th impression, 2026), using the text of the 2019 printing and TSO's [list of amendments](https://tsoshop.co.uk/gempdf/Life_in_the_UK_latest_impression_amendments%20050126.pdf) since then. Where a figure changed, the row says what older printings said.
-- The current printing also updates how to contact elected members, the electoral register, polling stations, the Scottish Parliament and applying for a National Insurance number online, and removes the National Citizen Service.
+- The current printing also updates how to contact elected members, the electoral register, polling stations, the Scottish Parliament and applying for a National Insurance number online, and removes the National Citizen Service. Those rows give today's position from official sources, marked "checked online"; the printing's own wording may differ slightly.
 - Rows marked **Today (not in the handbook)** show changes since 2013, each checked online and linked. Newer printings of the handbook may already include some of these changes, so if your copy differs from this sheet, follow your copy.
 
 <figure class="diagram">
@@ -134,7 +134,7 @@ The UK is divided into **constituencies**. Voters in each one elect an MP at a G
 | General Election | Held **at least every five years**{: .hy} | |
 | By-election | A fresh election in one constituency when an MP **dies or resigns**{: .hy} | |
 | First past the post | In each constituency, the candidate with the **most votes**{: .hy} is elected; the party winning most constituencies usually forms the government | No majority: a **coalition** |
-| Contacting your MP | By letter or phone; at local **"surgeries"**{: .hy}, often advertised in local newspapers | Surgeries = meet in person |
+| Contacting your MP | By letter, phone or email; at local **"surgeries"**{: .hy}, often advertised in local newspapers | Surgeries = meet in person. Today: find your MP and their contact details with Parliament's [Find your MP](https://members.parliament.uk/FindYourMP) service (checked online, November 2026) |
 | Hansard | Proceedings in Parliament are **broadcast on television** and published in official reports called **Hansard** | |
 | The media | The UK has a **free press**{: .hy}: newspapers are free from government control; radio and TV coverage of the parties must be **balanced** | |
 
@@ -194,18 +194,18 @@ The UK has had a fully democratic voting system since **1928**, and the present 
 | Topic | Handbook says | Exam hook |
 | --- | --- | --- |
 | Who can vote | UK-born and naturalised adult citizens; and **citizens of the Commonwealth and Ireland**{: .hy} resident in the UK, in all public elections | |
-| The electoral register | You must be **on the register**{: .hy} to vote; register through your **local council electoral registration office** | Find yours at www.aboutmyvote.co.uk |
+| The electoral register | You must be **on the register**{: .hy} to vote; register through your **local council electoral registration office** | Today: register **online** at [GOV.UK](https://www.gov.uk/register-to-vote) in about 5 minutes; you normally register only once (checked online, November 2026) |
 | Updating the register | Every year in **September or October**; a form goes to **every household** | |
 | Northern Ireland | **"Individual registration"**{: .hy}: everyone entitled to vote completes their own form | |
 | Seeing the register | Each local authority must make it available to anyone (supervised); also at some libraries | |
 | Where to vote | **Polling stations** (**polling places** in Scotland); you get a **poll card**; open **7.00 am to 10.00 pm** | |
 | At the polling station | Give your name and address (in Northern Ireland, also **photo ID**); mark your ballot paper privately in a polling booth; no one can make you vote for a particular candidate | |
 | Postal ballot | Register for one if it's hard to get to a polling station | |
-| Today (not in the handbook) | **Photo ID** has been needed to vote in person in **Great Britain** too since **May 2023** ([LSE](https://blogs.lse.ac.uk/politicsandpolicy/no-id-no-vote-voter-id-comes-to-great-britain)) | |
+| Today (not in the handbook) | **Photo ID** has been needed to vote in person in **Great Britain** too since **May 2023** ([LSE](https://blogs.lse.ac.uk/politicsandpolicy/no-id-no-vote-voter-id-comes-to-great-britain)): at UK parliamentary elections, local elections in England and some others ([GOV.UK](https://www.gov.uk/how-to-vote/photo-id-youll-need), checked online, November 2026) | |
 | Standing for office | Most citizens of the **UK, Ireland or the Commonwealth** aged **18 or over**{: .hy} | |
 | Who cannot stand | Members of the **armed forces**, **civil servants**, people found guilty of certain criminal offences | Members of the Lords cannot stand for the Commons |
 | Visiting Parliament | Watch debates from the **public galleries** of both Houses; **entrance is free**{: .hy}; get tickets from your MP or **queue** on the day | The Commons queue can be 1 to 2 hours; the Lords is easier |
-| Visiting the devolved bodies | **Stormont** (via the Education Service or an MLA); the Scottish Parliament at **Holyrood**; the **Senedd** building in **Cardiff Bay** | |
+| Visiting the devolved bodies | **Stormont** (via the Education Service or an MLA); the Scottish Parliament at **Holyrood** (tickets and tours through visitor services, [parliament.scot](https://www.parliament.scot/visit)); the **Senedd** building in **Cardiff Bay** | |
 
 The 2013 text also said adult citizens of other EU states living in the UK could vote in all elections except General Elections. That is EU material, which TSO says was removed from later prints.
 {: .note}
@@ -354,7 +354,7 @@ Britain's rights have their roots in **Magna Carta**, the **Habeas Corpus Act** 
 | Income tax | Paid on wages, self-employment profits, taxable benefits, pensions, and income from property, savings and dividends; pays for **roads, education, police and the armed forces**{: .hy} | |
 | PAYE | **Pay As You Earn**: employers take the tax from pay and send it to **HMRC** | Self-employed: **self-assessment** and a tax return |
 | National Insurance Contributions | Paid by **almost everybody in paid work**, including the **self-employed**{: .hy}; pay for **state benefits**, the **state retirement pension** and the **NHS** | Too few contributions: no full state pension or Jobseeker's Allowance |
-| National Insurance number | Sent to young people **just before their 16th birthday**{: .hy}; non-UK nationals can start work without one but need one, via the **DWP** | It does **not** prove your right to work |
+| National Insurance number | Sent to young people **just before their 16th birthday**{: .hy}; non-UK nationals can start work without one but need one | It does **not** prove your right to work. Today: **apply online** and prove your identity ([GOV.UK](https://www.gov.uk/apply-national-insurance-number/how-to-apply), checked online, November 2026); older printings: phone the DWP |
 | Driving age | At least **17**{: .hy} for a car or motor cycle; **16** for a moped | You need a licence, and a test of knowledge and practical skills |
 | Licence age | Valid until **70**, then renewed every **three years** | |
 | Northern Ireland | New drivers display an **"R" plate** (restricted) for **one year** | |
