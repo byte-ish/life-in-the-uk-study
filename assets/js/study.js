@@ -34,6 +34,10 @@
     var labels = Array.prototype.map.call(table.querySelectorAll('thead th'), function (th) {
       return th.textContent.trim();
     });
+    // A first column of sentences, not dates, may wrap (see .wrap-first in style.css).
+    if (Array.prototype.some.call(table.querySelectorAll('tbody td:first-child'), function (td) {
+      return td.textContent.trim().length > 40;
+    })) table.classList.add('wrap-first');
     table.querySelectorAll('tbody tr').forEach(function (tr) {
       Array.prototype.forEach.call(tr.children, function (td, i) {
         if (!td.textContent.trim()) td.classList.add('empty');

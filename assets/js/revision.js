@@ -53,6 +53,9 @@
         var body = document.createElement('tbody');
         rows.forEach(function (tr) { body.appendChild(tr.cloneNode(true)); });
         copy.appendChild(body);
+        if (table.classList.contains('wrap-first') || rows.some(function (tr) {
+          return tr.children[0] && tr.children[0].textContent.trim().length > 40;
+        })) copy.classList.add('wrap-first');
         block.appendChild(copy);
         count += rows.length;
       });
